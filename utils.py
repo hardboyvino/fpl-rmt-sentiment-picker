@@ -32,6 +32,10 @@ def get_words_rmt_page(By, driver, filename, re, rmt_pages, unicodedata):
 
 
 def count_player_occurence(all_players, all_words, Counter, pd, player_count_csv, player_var_names):
+    """The various words from the rmt pages are compared to the possible player name variations\n
+    If a variation is found, the count is updated against the proper name of the EPL player.\n
+    Player names are counted and arranged in descending order, returned as a CSV file"""
+    
     # count how many times each word occures in the all_words list
     count = Counter(all_words)
 
