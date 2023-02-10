@@ -5,7 +5,7 @@ There is a helpful table that has all the player names as the first column.
 """
 
 
-def get_all_player_names(driver):
+def get_all_player_names(driver, pd):
     """Scrape fplform for the name of all players in FPL."""
     # go to this site because they have a cool table with all players and some data
     driver.get("https://www.fplform.com/fpl-player-data")
