@@ -4,6 +4,7 @@ Because users use all forms of spellings for each player, this file used as a re
 This file is updated on a weekly basis to keep up with the new weird spellings.
 """
 
+
 def player_name_vars():
     """create a dict with all possible variations of all player names"""
     player_var_names = {
