@@ -10,17 +10,19 @@ import unicodedata
 from player_name_variations import player_name_vars
 from all_player_names import get_all_player_names
 from utils import get_words_rmt_page, count_player_occurence
-from rmt_page_links import gw23
+from rmt_page_links import gw24
 
 rmt_page_text = "rmt.txt"
 player_count_csv = "players.csv"
+file1 = "players.csv"
+file2 = "Random Regression.csv"
 
 # open all the web addresses in headless mode so it does not open a browser tab for the program
 options = Options()
 options.headless = True
 options.add_argument("--window-size=1920,1200")
 
-serve = Service(chromedriver.exe)
+serve = Service(r"C:\Users\Adeniyi Babalola\Documents\GitHub\Master Data Scientist\learning_python.py\fpl-rmt-sentiment-picker\chromedriver.exe")
 driver = webdriver.Chrome(options=options, service=serve)
 
 # open a new rmt.txt file and if it exists, wipe it clean; then close it
@@ -34,7 +36,7 @@ all_players = get_all_player_names(driver, pd)
 player_var_names = player_name_vars()
 
 # go to all the reddit rmt pages
-rmt_pages = gw23
+rmt_pages = gw24
 
 # get all the words on the rmt pages
 all_words = get_words_rmt_page(By, driver, rmt_page_text, re, rmt_pages, unicodedata)
