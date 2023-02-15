@@ -16,3 +16,11 @@ gw23 = [
     "https://www.reddit.com/r/FantasyPL/comments/10xs9vw/rate_my_team_quick_questions_general_advice_daily/",
     "https://www.reddit.com/r/FantasyPL/comments/10ypeth/rate_my_team_quick_questions_general_advice_daily/",
 ]
+
+
+gw24 = [
+    "https://www.reddit.com/r/FantasyPL/comments/110dfb2/rate_my_team_quick_questions_general_advice_daily/",
+    "https://www.reddit.com/r/FantasyPL/comments/1115uoc/rate_my_team_quick_questions_general_advice_daily/",
+    "https://www.reddit.com/r/FantasyPL/comments/1122xem/rate_my_team_quick_questions_general_advice_daily/",
+    "https://www.reddit.com/r/FantasyPL/comments/112vono/rate_my_team_quick_questions_general_advice_daily/",
+]
