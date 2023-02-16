@@ -23,4 +23,5 @@ gw24 = [
     "https://www.reddit.com/r/FantasyPL/comments/1115uoc/rate_my_team_quick_questions_general_advice_daily/",
     "https://www.reddit.com/r/FantasyPL/comments/1122xem/rate_my_team_quick_questions_general_advice_daily/",
     "https://www.reddit.com/r/FantasyPL/comments/112vono/rate_my_team_quick_questions_general_advice_daily/",
+    "https://www.reddit.com/r/FantasyPL/comments/113o80n/rate_my_team_quick_questions_general_advice_daily/",
 ]
