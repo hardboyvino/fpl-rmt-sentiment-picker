@@ -189,7 +189,7 @@ def player_name_vars():
         "Scamacca": [],
         "Álvarez": ["alvarez"],
         "Faes": ["faes"],
-        "McNeil": [],
+        "McNeil": ["mcneil"],
         "Moutinho": [],
         "Roca": [],
         "Sancho": ["sancho"],
