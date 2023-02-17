@@ -9,8 +9,8 @@ import unicodedata
 
 from player_name_variations import player_name_vars
 from all_player_names import get_all_player_names
-from utils import get_words_rmt_page, count_player_occurence
-from rmt_page_links import gw24
+from utils import get_words_rmt_page, count_player_occurence, get_all_comments_and_replies
+from rmt_page_links import gw24, post_ids_24
 
 rmt_page_text = "rmt.txt"
 player_count_csv = "players.csv"
@@ -22,7 +22,7 @@ options = Options()
 options.headless = True
 options.add_argument("--window-size=1920,1200")
 
-serve = Service(r"C:\Users\Adeniyi Babalola\Documents\GitHub\Master Data Scientist\learning_python.py\fpl-rmt-sentiment-picker\chromedriver.exe")
+serve = Service(r"path-to-chromedriver")
 driver = webdriver.Chrome(options=options, service=serve)
 
 # open a new rmt.txt file and if it exists, wipe it clean; then close it
@@ -35,11 +35,8 @@ all_players = get_all_player_names(driver, pd)
 # import all the various player name variations
 player_var_names = player_name_vars()
 
-# go to all the reddit rmt pages
-rmt_pages = gw24
-
-# get all the words on the rmt pages
-all_words = get_words_rmt_page(By, driver, rmt_page_text, re, rmt_pages, unicodedata)
+# get all words
+all_words = get_all_comments_and_replies(post_ids_24, re)
 
 # count the number of times a player name was mentioned
 count_player_occurence(all_players, all_words, Counter, pd, player_count_csv, player_var_names)
