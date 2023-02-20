@@ -125,44 +125,45 @@ def merge_dfs(file1, file2, pd):
 def wildcard_team(BUDGET, df_merged):
     """Create a wildcard team based on the team"s money remaining.
     Selection is to maximise the player mention occurence."""
-    # Create a pandas dataframe with players and their respective stats (e.g. cost, points, etc.)
+# Create a pandas dataframe with players and their respective stats (e.g. cost, points, etc.)
     player_data = df_merged
 
-    # Set up optimization problem
-    model = LpProblem("FPL Optimization", LpMaximize)
+    with open('optimized_team.txt', 'w', encoding="utf-8") as f:
+        for DEF in [3, 4, 5]:
+            for MID in [3, 4, 5]:
+                for FWD in [2, 3]:
+                    if DEF + MID + FWD == 10:
+                        # Set up optimization problem
+                        model = LpProblem("FPL Optimization", LpMaximize)
 
-    # Define decision variables
-    players = list(player_data["Player"])
-    x = LpVariable.dicts("x", players, cat="Binary")
+                        # Define decision variables
+                        players = list(player_data['Player'])
+                        x = LpVariable.dicts("x", players, cat='Binary')
 
-    # Define objective function
-    model += lpSum([player_data.loc[i, "Points"] * x[player_data.loc[i, "Player"]] for i in range(len(player_data))])
+                        # Define objective function
+                        model += lpSum([player_data.loc[i, 'Points'] * x[player_data.loc[i, 'Player']] for i in range(len(player_data))])
 
-    # Add constraints
-    model += lpSum([player_data.loc[i, "Cost"] * x[player_data.loc[i, "Player"]] for i in range(len(player_data))]) <= BUDGET  # Total budget constraint
-    model += lpSum([x[player_data.loc[i, "Player"]] for i in range(len(player_data))]) == 11  # Squad size constraint
-    model += lpSum([x[player_data.loc[i, "Player"]] for i in range(len(player_data)) if player_data.loc[i, "Position"] == "G"]) == 1  # GK position constraint
-    model += lpSum([x[player_data.loc[i, "Player"]] for i in range(len(player_data)) if player_data.loc[i, "Position"] == "D"]) == 3  # DEF position constraint
-    model += lpSum([x[player_data.loc[i, "Player"]] for i in range(len(player_data)) if player_data.loc[i, "Position"] == "M"]) == 5  # MID position constraint
-    model += lpSum([x[player_data.loc[i, "Player"]] for i in range(len(player_data)) if player_data.loc[i, "Position"] == "F"]) == 2  # FWD position constraint
+                        # Add constraints
+                        model += lpSum([player_data.loc[i, 'Cost'] * x[player_data.loc[i, 'Player']] for i in range(len(player_data))]) <= BUDGET # Total budget constraint
+                        model += lpSum([x[player_data.loc[i, 'Player']] for i in range(len(player_data))]) == 11 # Squad size constraint
+                        model += lpSum([x[player_data.loc[i, 'Player']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'G']) == 1 # GK position constraint
+                        model += lpSum([x[player_data.loc[i, 'Player']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'D']) == DEF # DEF position constraint
+                        model += lpSum([x[player_data.loc[i, 'Player']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'M']) == MID # MID position constraint
+                        model += lpSum([x[player_data.loc[i, 'Player']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'F']) == FWD # FWD position constraint
 
-    # Add constraint to limit the number of players from each Premier League team to at most 3
-    prem_teams = player_data["Team"].unique()
-    for team in prem_teams:
-        model += lpSum([x[player_data.loc[i, "Player"]] for i in range(len(player_data)) if player_data.loc[i, "Team"] == team]) <= 3
+                        # existing_team_dfdd constraint to limit the number of players from each Premier League team to at most 3
+                        prem_teams = player_data['Team'].unique()
+                        for team in prem_teams:
+                            model += lpSum([x[player_data.loc[i, 'Player']] for i in range(len(player_data)) if player_data.loc[i, 'Team'] == team]) <= 3
 
-    # Solve optimization problem
-    model.solve()
+                        # Solve optimization problem
+                        model.solve()
 
-    # Print optimized team
-    print("Optimized FPL Team:")
-    for i in range(len(player_data)):
-        if x[player_data.loc[i, "Player"]].value() == 1:
-            print(
-                player_data.loc[i, "Player"],
-                player_data.loc[i, "Team"],
-                player_data.loc[i, "Position"],
-                player_data.loc[i, "Cost"],
-                player_data.loc[i, "Points"],
-                player_data.loc[i, "Team"],
-            )
+                        # Output optimized team to text file
+                        f.write("Optimized FPL Team:\n")
+                        f.write(f"{DEF} - {MID} - {FWD}\n")
+                        for i in range(len(player_data)):
+                            if x[player_data.loc[i, 'Player']].value() == 1:
+                                f.write(f"{player_data.loc[i, 'Player']} {player_data.loc[i, 'Team']} {player_data.loc[i, 'Position']} {player_data.loc[i, 'Cost']} {player_data.loc[i, 'Points']}\n")
+                        f.write(f"Total points: {value(model.objective)}\n")
+                        f.write("\n")
