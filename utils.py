@@ -110,7 +110,7 @@ def merge_dfs(file1, file2, pd):
     import pandas as pd
 
     df1 = pd.read_csv(file1)
-    df1 = df1.rename(columns={"": "Player", "0": "Points"})
+    df1 = df1.rename(columns={"Unnamed: 0": "Player", "0": "Points"})
 
     df2 = pd.read_csv(file2)
     df2 = df2.rename(columns={"Name": "Player", "Team Name": "Team", "Price": "Cost"})
@@ -125,7 +125,7 @@ def merge_dfs(file1, file2, pd):
 def wildcard_team(BUDGET, df_merged):
     """Create a wildcard team based on the team"s money remaining.
     Selection is to maximise the player mention occurence."""
-# Create a pandas dataframe with players and their respective stats (e.g. cost, points, etc.)
+    # Create a pandas dataframe with players and their respective stats (e.g. cost, points, etc.)
     player_data = df_merged
 
     with open('optimized_team.txt', 'w', encoding="utf-8") as f:
