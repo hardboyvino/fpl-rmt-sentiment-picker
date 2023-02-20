@@ -9,7 +9,7 @@ import unicodedata
 
 from player_name_variations import player_name_vars
 from all_player_names import get_all_player_names
-from utils import get_words_rmt_page, count_player_occurence, get_all_comments_and_replies
+from utils import count_player_occurence, get_all_comments_and_replies
 from rmt_page_links import post_ids_25
 
 rmt_page_text = "rmt.txt"
