@@ -1,21 +1,20 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
 from collections import Counter
 import pandas as pd
 import re
-import unicodedata
 
 from player_name_variations import player_name_vars
 from all_player_names import get_all_player_names
-from utils import count_player_occurence, get_all_comments_and_replies
+from utils import count_player_occurence, get_all_comments_and_replies, merge_dfs, wildcard_team
 from rmt_page_links import post_ids_25
 
 rmt_page_text = "rmt.txt"
 player_count_csv = "players.csv"
 file1 = "players.csv"
 file2 = "Random Regression.csv"
+BUDGET = 83.3
 
 # open all the web addresses in headless mode so it does not open a browser tab for the program
 options = Options()
@@ -40,3 +39,7 @@ all_words = get_all_comments_and_replies(post_ids_25, re)
 
 # count the number of times a player name was mentioned
 count_player_occurence(all_players, all_words, Counter, pd, player_count_csv, player_var_names)
+
+# get wildcard team
+df_merged = merge_dfs(file1, file2, pd)
+wildcard_team(BUDGET, df_merged)
