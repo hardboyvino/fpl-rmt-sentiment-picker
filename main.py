@@ -16,6 +16,8 @@ file1 = "players.csv"
 file2 = "Random Regression.csv"
 BUDGET = 83.3
 
+files = ["rmt.csv", player_count_csv, file1, "comments.txt", "optimized_team.txt"]
+
 # open all the web addresses in headless mode so it does not open a browser tab for the program
 options = Options()
 options.headless = True
@@ -24,9 +26,10 @@ options.add_argument("--window-size=1920,1200")
 serve = Service(r"path-to-chromedriver")
 driver = webdriver.Chrome(options=options, service=serve)
 
-# open a new rmt.txt file and if it exists, wipe it clean; then close it
-new_file = open(rmt_page_text, "w")
-new_file.close()
+for f in files:
+    # open a new rmt.txt file and if it exists, wipe it clean; then close it
+    new_file = open(f, "w")
+    new_file.close()
 
 
 all_players = get_all_player_names(driver, pd)
