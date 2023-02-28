@@ -20,3 +20,5 @@ gw23 = [
 post_ids_24 = ["110dfb2","1115uoc","1122xem","112vono","113o80n","114hyly"]
 
 post_ids_25 = ["11681mt", "11744ho", "11811vd", "118vkjb", "119v8ex", "11aoztx"]
+
+post_ids_26 = ["11cdll5", "11d9e69"]
