@@ -8,7 +8,7 @@ import re
 from player_name_variations import player_name_vars
 from all_player_names import get_all_player_names
 from utils import count_player_occurence, get_all_comments_and_replies, merge_dfs, wildcard_team
-from rmt_page_links import post_ids_25
+from rmt_page_links import post_ids_26
 
 rmt_page_text = "rmt.txt"
 player_count_csv = "players.csv"
@@ -38,7 +38,7 @@ all_players = get_all_player_names(driver, pd)
 player_var_names = player_name_vars()
 
 # get all words
-all_words = get_all_comments_and_replies(post_ids_25, re)
+all_words = get_all_comments_and_replies(post_ids_26, re)
 
 # count the number of times a player name was mentioned
 count_player_occurence(all_players, all_words, Counter, pd, player_count_csv, player_var_names)
