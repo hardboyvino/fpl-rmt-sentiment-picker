@@ -131,7 +131,7 @@ def wildcard_team(BUDGET, df_merged):
     with open('optimized_team.txt', 'w', encoding="utf-8") as f:
         for DEF in [3, 4, 5]:
             for MID in [3, 4, 5]:
-                for FWD in [2, 3]:
+                for FWD in [1, 2, 3]:
                     if DEF + MID + FWD == 10:
                         # Set up optimization problem
                         model = LpProblem("FPL Optimization", LpMaximize)
