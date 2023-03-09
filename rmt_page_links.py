@@ -23,4 +23,4 @@ post_ids_25 = ["11681mt", "11744ho", "11811vd", "118vkjb", "119v8ex", "11aoztx"]
 
 post_ids_26 = ["11cdll5", "11d9e69", "11e3j1s", "11f154g", "11g08ex", "11gy464"]
 
-post_ids_27 = ["11iuov2", "11jw0vx", "11kwil7"]
+post_ids_27 = ["11iuov2", "11jw0vx", "11kwil7", "11ltorb"]
