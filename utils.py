@@ -128,6 +128,9 @@ def wildcard_team(BUDGET, df_merged):
     # Create a pandas dataframe with players and their respective stats (e.g. cost, points, etc.)
     player_data = df_merged
 
+    # Define list of excluded teams
+    excluded_teams = ["BHA", "FUL", "LIV", "MCI", "MUN", "WHU"]
+
     with open('optimized_team.txt', 'w', encoding="utf-8") as f:
         for DEF in [3, 4, 5]:
             for MID in [3, 4, 5]:
@@ -155,6 +158,11 @@ def wildcard_team(BUDGET, df_merged):
                         prem_teams = player_data['Team'].unique()
                         for team in prem_teams:
                             model += lpSum([x[player_data.loc[i, 'Player']] for i in range(len(player_data)) if player_data.loc[i, 'Team'] == team]) <= 3
+                        
+                        # Add constraint to set decision variables for players in excluded teams to 0
+                        for i in range(len(player_data)):
+                            if player_data.loc[i, 'Team'] in excluded_teams:
+                                model += x[player_data.loc[i, 'Player']] == 0
 
                         # Solve optimization problem
                         model.solve()
