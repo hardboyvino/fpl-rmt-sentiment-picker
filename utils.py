@@ -129,7 +129,10 @@ def wildcard_team(BUDGET, df_merged):
     player_data = df_merged
 
     # Define list of excluded teams
-    excluded_teams = ["BHA", "FUL", "LIV", "MCI", "MUN", "WHU"]
+    excluded_teams = []
+
+    # Define list of excluded players
+    excluded_players = []
 
     with open('optimized_team.txt', 'w', encoding="utf-8") as f:
         for DEF in [3, 4, 5]:
@@ -162,6 +165,11 @@ def wildcard_team(BUDGET, df_merged):
                         # Add constraint to set decision variables for players in excluded teams to 0
                         for i in range(len(player_data)):
                             if player_data.loc[i, 'Team'] in excluded_teams:
+                                model += x[player_data.loc[i, 'Player']] == 0
+
+                        # Add constraint to set decision variables for excluded players to 0
+                        for i in range(len(player_data)):
+                            if player_data.loc[i, 'Player'] in excluded_players:
                                 model += x[player_data.loc[i, 'Player']] == 0
 
                         # Solve optimization problem
