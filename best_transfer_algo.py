@@ -10,20 +10,20 @@ import pandas as pd
 from itertools import combinations
 
 # Load the data from a file into a table called "table1"
-table1 = pd.read_csv("team.csv")
+table1 = pd.read_csv("tosin.csv")
 
 # Load the data from another file into a table called "table2"
 table2 = pd.read_csv("final.csv")
 
+# Remove players already in table1 from table2
+table2 = table2[~table2['Name'].isin(table1['Name'])]
+
 # Set the number of players we want to transfer and our maximum budget
-transfers = 1
+transfers = 3
 max_budget = 2.6
 
 # Create a list of all possible combinations of players to remove from our current team
 out_players = list(combinations(table1.index, transfers))
-
-# Create a list of all possible combinations of players to add to our current team
-in_players = [list(combo) for combo in combinations(table2.index, transfers)]
 
 # Define a function that checks if a team has too many players
 def team_count_violation(team, player_indices, player_table, max_count=3):
@@ -55,11 +55,19 @@ net_cost = 0
 
 # Loop through all possible combinations of players to remove
 for out_combo in out_players:
+    # Filter table2 to only include players with the same position as the players being removed
+    out_positions_list = sorted(table1.loc[list(out_combo)]['Position'].tolist())
+    filtered_table2 = table2[table2['Position'].isin(out_positions_list)]
+
+    # Create a list of all possible combinations of players to add to our current team
+    in_players = [list(combo) for combo in combinations(filtered_table2.index, transfers)]
+
     # Loop through all possible combinations of players to add
     for in_combo in in_players:
-        # Check if the positions being removed match the positions being added
-        out_positions_list = sorted(table1.loc[list(out_combo)]['Position'].tolist())
+        # Get the positions of the players to add
         in_positions_list = sorted(table2.loc[in_combo]['Position'].tolist())
+
+        # Check if the positions being removed match the positions being added
         if out_positions_list != in_positions_list:
             continue
 
@@ -68,10 +76,6 @@ for out_combo in out_players:
         new_positions = table2.loc[in_combo]['Position'].value_counts()
         updated_positions = current_positions.add(new_positions, fill_value=0)
 
-#         # Skip this combination if any position count is above the maximum limit
-#         if updated_positions['D'] > 5 or updated_positions['M'] > 5 or updated_positions['F'] > 3 or updated_positions['G'] > 2:
-#             continue
-
         # Skip this combination if the updated positions don't match any of the allowed formations
         if not any(valid_formation(formation, updated_positions) for formation in possible_formations):
             continue
@@ -79,11 +83,12 @@ for out_combo in out_players:
         # Calculate how much money we would spend and save from these transfers
         out_cost = table1.loc[list(out_combo)]['Price'].sum()
         in_cost = table2.loc[in_combo]['Price'].sum()
-        net_cost = in_cost - out_cost - max_budget
+        net_cost = (out_cost + max_budget) - in_cost
 
         # Skip this combination if we don't have enough money for it
-        if net_cost > 0:
+        if net_cost < 0:
             continue
+
 
         # Create a new team with the transfers to check if we have too many players from a single team
         combined_team = pd.concat([table1.drop(list(out_combo)), table2.loc[in_combo]]).reset_index(drop=True)
@@ -113,7 +118,7 @@ for out_combo in out_players:
 # Show the best transfer combination we found
 if best_transfer is not None:
     print("Best transfer combination:")
-    print("Out:", table1.loc[best_transfer[0]])  # Show the players we want to remove from our team
+    print("Out:", table1.loc[list(best_transfer[0])])  # Show the players we want to remove from our team
     print("In:", table2.loc[best_transfer[1]])   # Show the players we want to add to our team
     print("Points difference:", best_points_diff)  # Show the difference in points for this transfer combination
     print(f"Budget Left: {net_cost}")
