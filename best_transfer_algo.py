@@ -1,4 +1,3 @@
-
 import time
 
 start_time = time.time()
@@ -56,64 +55,47 @@ net_cost = 0
 # Loop through all possible combinations of players to remove
 for out_combo in out_players:
     # Filter table2 to only include players with the same position as the players being removed
-    out_positions_list = sorted(table1.loc[list(out_combo)]['Position'].tolist())
-    filtered_table2 = table2[table2['Position'].isin(out_positions_list)]
+    out_positions_list = sorted(table1.loc[list(out_combo)]["Position"].tolist())
+    filtered_table2 = table2[table2["Position"].isin(out_positions_list)]
 
     # Create a list of all possible combinations of players to add to our current team
     in_players = [list(combo) for combo in combinations(filtered_table2.index, transfers)]
 
     # Loop through all possible combinations of players to add
     for in_combo in in_players:
-        # Get the positions of the players to add
-        in_positions_list = sorted(table2.loc[in_combo]['Position'].tolist())
-
-        # Check if the positions being removed match the positions being added
-        if out_positions_list != in_positions_list:
-            continue
-
-        # Count how many players we have in each position before and after the transfers
-        current_positions = table1.drop(list(out_combo))['Position'].value_counts()
-        new_positions = table2.loc[in_combo]['Position'].value_counts()
-        updated_positions = current_positions.add(new_positions, fill_value=0)
-
-        # Skip this combination if the updated positions don't match any of the allowed formations
-        if not any(valid_formation(formation, updated_positions) for formation in possible_formations):
-            continue
-
         # Calculate how much money we would spend and save from these transfers
-        out_cost = table1.loc[list(out_combo)]['Price'].sum()
-        in_cost = table2.loc[in_combo]['Price'].sum()
+        out_cost = table1.loc[list(out_combo)]["Price"].sum()
+        in_cost = table2.loc[in_combo]["Price"].sum()
         net_cost = (out_cost + max_budget) - in_cost
 
         # Skip this combination if we don't have enough money for it
         if net_cost < 0:
             continue
 
+        # Get the positions of the players to add
+        in_positions_list = sorted(table2.loc[in_combo]["Position"].tolist())
 
-        # Create a new team with the transfers to check if we have too many players from a single team
-        combined_team = pd.concat([table1.drop(list(out_combo)), table2.loc[in_combo]]).reset_index(drop=True)
-        team_violation = False
-
-        # Loop through all the teams in our new team
-        for team in table2['Team Name'].unique():
-            # Check if we have too many players from this team
-            if team_count_violation(team, combined_team.index[combined_team['Team Name'] == team], combined_team):
-                team_violation = True
-                break
-
-        # Skip this combination if we have too many players from a single team
-        if team_violation:
+        # Check if the positions being removed match the positions being added
+        if out_positions_list != in_positions_list:
             continue
 
-        # Calculate how many more points we would get with these transfers
-        out_points = table1.loc[list(out_combo)]['Points'].sum()
-        in_points = table2.loc[in_combo]['Points'].sum()
-        points_diff = in_points - out_points
+        # Create a new team with the transfers
+        combined_team = pd.concat([table1.drop(list(out_combo)), table2.loc[in_combo]]).reset_index(drop=True)
 
-        # Update the best transfer combination if this one gives us more points
-        if points_diff > best_points_diff:
-            best_points_diff = points_diff
-            best_transfer = (out_combo, in_combo)
+        # Check if the new team has valid formation and doesn't violate the team count limit
+        if combined_team["Position"].nunique() == len(possible_formations[0]) and not any(
+                combined_team[combined_team["Team Name"] == team].count()["Name"] > 3 for team in
+                table2["Team Name"].unique()):
+
+            # Calculate how many more points we would get with these transfers
+            out_points = table1.loc[list(out_combo)]["Points"].sum()
+            in_points = table2.loc[in_combo]["Points"].sum()
+            points_diff = in_points - out_points
+
+            # Update the best transfer combination if this one gives us more points
+            if points_diff > best_points_diff:
+                best_points_diff = points_diff
+                best_transfer = (out_combo, in_combo)
 
 # Show the best transfer combination we found
 if best_transfer is not None:
