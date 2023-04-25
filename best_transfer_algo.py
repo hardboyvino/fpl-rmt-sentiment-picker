@@ -10,7 +10,7 @@ import pandas as pd
 from itertools import combinations
 
 # Load the data from a file into a table called "table1"
-table1 = pd.read_csv("tosin.csv")
+table1 = pd.read_csv("team.csv")
 
 # Load the data from another file into a table called "table2"
 table2 = pd.read_csv("final.csv")
