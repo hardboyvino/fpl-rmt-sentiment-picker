@@ -9,43 +9,41 @@ import pandas as pd
 from itertools import combinations
 
 # Load the data from a file into a table called "table1"
-table1 = pd.read_csv("tosin.csv")
+table1 = pd.read_csv("team.csv")
 
 # Load the data from another file into a table called "table2"
-table2 = pd.read_csv("final.csv")
+table2 = pd.read_csv("finals.csv")
+
+# Combine team names from table1 and table2
+unique_teams = set(table1["Team Name"].unique()).union(table2["Team Name"].unique())
+
+# Create a dictionary with team names as keys and counts as zero
+team_counts = {team: 0 for team in unique_teams}
+
+# Count the number of occurrences of every team in table1 and update the dictionary
+for team in table1["Team Name"]:
+    team_counts[team] += 1
+
+print(team_counts)
 
 # Remove players already in table1 from table2
-table2 = table2[~table2['Name'].isin(table1['Name'])]
+table2 = table2[~table2["Name"].isin(table1["Name"])]
 
 # Set the number of players we want to transfer and our maximum budget
-transfers = 3
-max_budget = 2.6
+transfers = 2
+max_budget = 1.8
+
+players_not_to_remove = []  # Replace with the names of the players you don't want to remove
+players_not_to_add = []  # Replace with the names of the players you don't want to add
+
+# Remove the players we don't want to consider for removal from table1
+table1 = table1[~table1["Name"].isin(players_not_to_remove)]
+
+# Remove the players we don't want to consider for adding from table2
+table2 = table2[~table2["Name"].isin(players_not_to_add)]
 
 # Create a list of all possible combinations of players to remove from our current team
 out_players = list(combinations(table1.index, transfers))
-
-# Define a function that checks if a team has too many players
-def team_count_violation(team, player_indices, player_table, max_count=3):
-    # Count the number of players from the team in the list of player_indices
-    count = sum(player_table.loc[player_indices, 'Team Name'] == team)
-    # Return True if the count is greater than the allowed maximum count
-    return count > max_count
-
-# Helper function to check if the formation is valid
-def valid_formation(formation, positions):
-    g, d, m, f = formation
-    return positions.get('G', 0) == g and positions.get('D', 0) == d and positions.get('M', 0) == m and positions.get('F', 0) == f
-
-# List of possible formations
-possible_formations = [
-    (1, 3, 4, 3),
-    (1, 3, 5, 2),
-    (1, 4, 3, 3),
-    (1, 4, 4, 2),
-    (1, 4, 5, 1),
-    (1, 5, 3, 2),
-    (1, 5, 4, 1)
-]
 
 # Initialize variables to keep track of the best transfer combination and the difference in points
 best_points_diff = 0
@@ -79,20 +77,23 @@ for out_combo in out_players:
         if out_positions_list != in_positions_list:
             continue
 
-        # Create a new team with the transfers
-        combined_team = pd.concat([table1.drop(list(out_combo)), table2.loc[in_combo]]).reset_index(drop=True)
+        # Check if adding a player violates the "max 3 players from any team" rule
+        updated_team_counts = team_counts.copy()
+        for out_player, in_player in zip(out_combo, in_combo):
+            out_team = table1.loc[out_player]["Team Name"]
+            in_team = table2.loc[in_player]["Team Name"]
 
-        # Check if the new team has valid formation and doesn't violate the team count limit
-        if combined_team["Position"].nunique() == len(possible_formations[0]) and not any(
-                combined_team[combined_team["Team Name"] == team].count()["Name"] > 3 for team in
-                table2["Team Name"].unique()):
+            updated_team_counts[out_team] -= 1
+            if in_team in updated_team_counts:
+                updated_team_counts[in_team] += 1
+            else:
+                updated_team_counts[in_team] = 1
 
-            # Calculate how many more points we would get with these transfers
+        if all(count <= 3 for count in updated_team_counts.values()):
             out_points = table1.loc[list(out_combo)]["Points"].sum()
             in_points = table2.loc[in_combo]["Points"].sum()
             points_diff = in_points - out_points
 
-            # Update the best transfer combination if this one gives us more points
             if points_diff > best_points_diff:
                 best_points_diff = points_diff
                 best_transfer = (out_combo, in_combo)
@@ -101,7 +102,7 @@ for out_combo in out_players:
 if best_transfer is not None:
     print("Best transfer combination:")
     print("Out:", table1.loc[list(best_transfer[0])])  # Show the players we want to remove from our team
-    print("In:", table2.loc[best_transfer[1]])   # Show the players we want to add to our team
+    print("In:", table2.loc[best_transfer[1]])  # Show the players we want to add to our team
     print("Points difference:", best_points_diff)  # Show the difference in points for this transfer combination
     print(f"Budget Left: {net_cost}")
 else:
