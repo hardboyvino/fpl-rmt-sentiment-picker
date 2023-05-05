@@ -110,15 +110,15 @@ def merge_dfs(file1, file2, pd):
     import pandas as pd
 
     df1 = pd.read_csv(file1)
-    df1 = df1.rename(columns={"Unnamed: 0": "Player", "0": "Points"})
+    df1 = df1.rename(columns={"Unnamed: 0": "Name", "0": "Points"})
 
     df2 = pd.read_csv(file2)
-    df2 = df2.rename(columns={"Name": "Player", "Team Name": "Team", "Price": "Cost"})
-    df2["Player"] = df2["Player"].str.strip()
+    df2 = df2.rename(columns={"Names": "Name", "Team": "Team Name", "Cost (£M)": "Price"})
+    df2["Name"] = df2["Name"].str.strip()
 
-    df_merged = df1.merge(df2, on="Player", how="inner")
+    df_merged = df1.merge(df2, on="Name", how="inner")
 
-    df_merged = df_merged.drop(["Predict", "Predict3GW"], axis=1)
+    # df_merged = df_merged.drop(["Predict", "Predict3GW"], axis=1)
     return df_merged
 
 
