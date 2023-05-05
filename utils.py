@@ -143,34 +143,34 @@ def wildcard_team(BUDGET, df_merged):
                         model = LpProblem("FPL Optimization", LpMaximize)
 
                         # Define decision variables
-                        players = list(player_data['Player'])
+                        players = list(player_data['Name'])
                         x = LpVariable.dicts("x", players, cat='Binary')
 
                         # Define objective function
-                        model += lpSum([player_data.loc[i, 'Points'] * x[player_data.loc[i, 'Player']] for i in range(len(player_data))])
+                        model += lpSum([player_data.loc[i, 'Points'] * x[player_data.loc[i, 'Name']] for i in range(len(player_data))])
 
                         # Add constraints
-                        model += lpSum([player_data.loc[i, 'Cost'] * x[player_data.loc[i, 'Player']] for i in range(len(player_data))]) <= BUDGET # Total budget constraint
-                        model += lpSum([x[player_data.loc[i, 'Player']] for i in range(len(player_data))]) == 11 # Squad size constraint
-                        model += lpSum([x[player_data.loc[i, 'Player']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'G']) == 1 # GK position constraint
-                        model += lpSum([x[player_data.loc[i, 'Player']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'D']) == DEF # DEF position constraint
-                        model += lpSum([x[player_data.loc[i, 'Player']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'M']) == MID # MID position constraint
-                        model += lpSum([x[player_data.loc[i, 'Player']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'F']) == FWD # FWD position constraint
+                        model += lpSum([player_data.loc[i, 'Price'] * x[player_data.loc[i, 'Name']] for i in range(len(player_data))]) <= BUDGET # Total budget constraint
+                        model += lpSum([x[player_data.loc[i, 'Name']] for i in range(len(player_data))]) == 11 # Squad size constraint
+                        model += lpSum([x[player_data.loc[i, 'Name']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'G']) == 1 # GK position constraint
+                        model += lpSum([x[player_data.loc[i, 'Name']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'D']) == DEF # DEF position constraint
+                        model += lpSum([x[player_data.loc[i, 'Name']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'M']) == MID # MID position constraint
+                        model += lpSum([x[player_data.loc[i, 'Name']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'F']) == FWD # FWD position constraint
 
                         # existing_team_dfdd constraint to limit the number of players from each Premier League team to at most 3
-                        prem_teams = player_data['Team'].unique()
+                        prem_teams = player_data['Team Name'].unique()
                         for team in prem_teams:
-                            model += lpSum([x[player_data.loc[i, 'Player']] for i in range(len(player_data)) if player_data.loc[i, 'Team'] == team]) <= 3
+                            model += lpSum([x[player_data.loc[i, 'Name']] for i in range(len(player_data)) if player_data.loc[i, 'Team Name'] == team]) <= 3
                         
                         # Add constraint to set decision variables for players in excluded teams to 0
                         for i in range(len(player_data)):
-                            if player_data.loc[i, 'Team'] in excluded_teams:
-                                model += x[player_data.loc[i, 'Player']] == 0
+                            if player_data.loc[i, 'Team Name'] in excluded_teams:
+                                model += x[player_data.loc[i, 'Name']] == 0
 
                         # Add constraint to set decision variables for excluded players to 0
                         for i in range(len(player_data)):
-                            if player_data.loc[i, 'Player'] in excluded_players:
-                                model += x[player_data.loc[i, 'Player']] == 0
+                            if player_data.loc[i, 'Name'] in excluded_players:
+                                model += x[player_data.loc[i, 'Name']] == 0
 
                         # Solve optimization problem
                         model.solve()
@@ -179,7 +179,7 @@ def wildcard_team(BUDGET, df_merged):
                         f.write("Optimized FPL Team:\n")
                         f.write(f"{DEF} - {MID} - {FWD}\n")
                         for i in range(len(player_data)):
-                            if x[player_data.loc[i, 'Player']].value() == 1:
-                                f.write(f"{player_data.loc[i, 'Player']} {player_data.loc[i, 'Team']} {player_data.loc[i, 'Position']} {player_data.loc[i, 'Cost']} {player_data.loc[i, 'Points']}\n")
+                            if x[player_data.loc[i, 'Name']].value() == 1:
+                                f.write(f"{player_data.loc[i, 'Name']} {player_data.loc[i, 'Team Name']} {player_data.loc[i, 'Position']} {player_data.loc[i, 'Price']} {player_data.loc[i, 'Points']}\n")
                         f.write(f"Total points: {value(model.objective)}\n")
                         f.write("\n")
