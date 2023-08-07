@@ -30,10 +30,10 @@ print(team_counts)
 table2 = table2[~table2["Name"].isin(table1["Name"])]
 
 # Set the number of players we want to transfer and our maximum budget
-transfers = 2
-max_budget = 1.8
+transfers = 1
+max_budget = 2.2
 
-players_not_to_remove = []  # Replace with the names of the players you don't want to remove
+players_not_to_remove = ["Haaland", "Grealish", "Estupiñán", "Shaw", "Steele", "Stones", "Rashford", "Mitoma"]  # Replace with the names of the players you don't want to remove
 players_not_to_add = []  # Replace with the names of the players you don't want to add
 
 # Remove the players we don't want to consider for removal from table1

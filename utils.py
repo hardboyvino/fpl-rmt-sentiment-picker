@@ -47,11 +47,11 @@ def get_all_comments_and_replies(post_ids, re):
     Retrieve the post with the given ID using the reddit.submission(id='post_id') method"""
 
     reddit = praw.Reddit(
-        client_id="your_client_id",
-        client_secret="your_client_secret",
-        username="your_username",
-        password="your_password",
-        user_agent="your_user_agent",
+        client_id="client_id",
+        client_secret="secret_key",
+        username="username",
+        password="password",
+        user_agent="fpl_player_selector",
     )
 
     # Open a text file for appending
