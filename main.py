@@ -5,7 +5,14 @@ from chromedriver_py import binary_path
 import pandas as pd
 from player_name_variations import player_name_variations
 from all_player_names import get_all_player_names, get_all_players_information
-from utils import get_all_comments_and_replies, merge_dfs, wildcard_team, count_rmt_word_occurence, count_player_fpl_occurence, add_new_players_to_variation
+from utils import (
+    get_all_comments_and_replies,
+    merge_dfs,
+    wildcard_team,
+    count_rmt_word_occurence,
+    count_player_fpl_occurence,
+    add_new_players_to_variation,
+)
 from rmt_page_links import preseason
 
 # File Paths and Constants
@@ -51,7 +58,7 @@ rmt_words_list = get_all_comments_and_replies(preseason, reddit_comments_file)
 
 # Count Word Occurrences in Comments
 word_counts_df = count_rmt_word_occurence(rmt_words_list, rmt_word_count_file)
-word_counts_df.pop('')
+word_counts_df.pop("")
 
 # Count Player FPL Mentions
 count_player_fpl_occurence(player_mention_counts, player_mentions_csv, player_name_variations_dict, word_counts_df)
