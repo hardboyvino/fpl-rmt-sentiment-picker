@@ -3,6 +3,8 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from chromedriver_py import binary_path
 import pandas as pd
+
+
 from player_name_variations import player_name_variations
 from all_player_names import get_all_player_names, get_all_players_information
 from utils import (
