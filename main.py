@@ -3,12 +3,14 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from chromedriver_py import binary_path
 import pandas as pd
+import time
 
 
 from player_name_variations import player_name_variations
 from all_player_names import get_all_player_names, get_all_players_information
 from utils import (
     get_all_comments_and_replies,
+    get_word_list_from_comments,
     merge_dfs,
     wildcard_team,
     count_rmt_word_occurence,
@@ -25,7 +27,10 @@ player_details_csv = "player_details.csv"
 reddit_comments_file = "reddit_comments.txt"
 optimized_team_file = "optimized_team.txt"
 BUDGET = 83.0
-files = [rmt_word_count_file, player_mentions_csv, reddit_comments_file, optimized_team_file]
+files = [rmt_word_count_file, 
+         player_mentions_csv, 
+         reddit_comments_file, 
+         optimized_team_file]
 
 # Set Up Selenium WebDriver
 options = Options()
@@ -41,8 +46,10 @@ for file in files:
     new_file.close()
 
 # Get Player Information
+print("Getting player information.")
 html = get_all_players_information(driver)
 player_mention_counts = get_all_player_names(html)
+print("Done getting player information.")
 
 # Load Player Name Variations
 player_name_variations_dict = player_name_variations(player_name_variations_file)
@@ -54,13 +61,19 @@ player_name_variations_dict = {k: v for k, v in sorted(player_name_variations_di
 # Update Player Variation File
 player_name_variations_df = pd.Series(player_name_variations_dict)
 player_name_variations_df.to_csv(player_name_variations_file, header=None)
+print("Done with player name variation section.")
 
-# Load Comments and Replies
-rmt_words_list = get_all_comments_and_replies(preseason, reddit_comments_file)
+# # Load Comments and Replies
+print("Getting Reddit RMT comments.")
+get_all_comments_and_replies(preseason, reddit_comments_file)
+rmt_words_list = get_word_list_from_comments(reddit_comments_file)
+print("Done getting and reading Reddit RMT comments.")
 
 # Count Word Occurrences in Comments
 word_counts_df = count_rmt_word_occurence(rmt_words_list, rmt_word_count_file)
 word_counts_df.pop("")
+
+player_name_variations_dict = player_name_variations(player_name_variations_file)
 
 # Count Player FPL Mentions
 count_player_fpl_occurence(player_mention_counts, player_mentions_csv, player_name_variations_dict, word_counts_df)
