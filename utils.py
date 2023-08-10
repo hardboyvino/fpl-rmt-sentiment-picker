@@ -10,7 +10,7 @@ import pandas as pd
 import re
 
 
-def get_words_rmt_page(By, driver, filename, re, rmt_pages, unicodedata):
+def get_words_rmt_page(By, driver, filename, rmt_pages, unicodedata):
     """Get all the words on the pages into a string text.
     All the text are normalized
     The text are written into a file and then read to split each word as a new line using regex"""
@@ -39,7 +39,7 @@ def get_words_rmt_page(By, driver, filename, re, rmt_pages, unicodedata):
     return all_words
 
 
-def get_all_comments_and_replies(post_ids, re):
+def get_all_comments_and_replies(post_ids, filename):
     """Use PRAW, a Python wrapper for the Reddit API to get all the comments and replies for a given post
 
     First authenticate with Reddit account using 
@@ -85,10 +85,8 @@ def get_all_comments_and_replies(post_ids, re):
     return all_words
 
 
-def count_player_occurence(all_players, all_words, Counter, pd, player_count_csv, player_var_names):
-    """The various words from the rmt pages are compared to the possible player name variations
-    If a variation is found, the count is updated against the proper name of the EPL player.
-    Player names are counted and arranged in descending order, returned as a CSV file"""
+def count_rmt_word_occurence(rmt_words_list, rmt_word_count_file):
+    """Count how many times each words from RMT comments occurs and turns the data into a CSV"""
 
     # count how many times each word occures in the all_words list
     count = Counter(all_words)
@@ -114,6 +112,8 @@ def merge_dfs(file1, file2, pd):
     """Merge the players file and the complete scrape from FFHub website."""
     import pandas as pd
 
+def merge_dfs(file1, file2):
+    """Merge the players file and the complete scrape from FFHub website."""
     df1 = pd.read_csv(file1)
     df1 = df1.rename(columns={"Unnamed: 0": "Name", "0": "Points"})
 
