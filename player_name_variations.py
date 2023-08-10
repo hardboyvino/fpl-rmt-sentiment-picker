@@ -24,6 +24,6 @@ def player_name_variations(name_variation_file):
     player_variations_dict = {}
     with open(name_variation_file, mode="r", encoding="utf-8") as input_file:
         reader = csv.reader(input_file)
-        player_variations_dict = {rows[0]: rows[1:] for rows in reader}
+        player_variations_dict = {rows[0]: rows[1] for rows in reader}
 
     return player_variations_dict
