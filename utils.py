@@ -34,9 +34,9 @@ def get_words_rmt_page(By, driver, filename, rmt_pages, unicodedata):
         lines = re.split(r"[^A-Za-z0-9]", data)
 
     # convert all the words in the list to lowercase
-    all_words = [word.lower() for word in lines]
+    rmt_words_list = [word.lower() for word in lines]
 
-    return all_words
+    return rmt_words_list
 
 
 def get_all_comments_and_replies(post_ids, filename):
@@ -59,42 +59,64 @@ def get_all_comments_and_replies(post_ids, filename):
         user_agent="fpl_player_selector",
     )
 
-    # Open a text file for appending
-    with open("comments.txt", "a", encoding="utf-8") as file:
-        # Loop through the post IDs
-        for post_id in post_ids:
-            # Retrieve the post with the given ID
-            post = reddit.submission(id=post_id)
+    while post_ids:
+        try:
+            # Open a text file for appending
+            with open(filename, "a", encoding="utf-8") as file:
+                # Loop through the post IDs
+                for post_id in post_ids:
+                    print(f"Starting {post_id} from {post_ids}.")
+                    # Retrieve the post with the given ID
+                    post = reddit.submission(id=post_id)
 
-            # Get all the comments and their replies
-            post.comments.replace_more(limit=None)
+                    # Get all the comments and their replies
+                    post.comments.replace_more(limit=None)
 
-            # Loop through the comments and their replies
-            for comment in post.comments.list():
-                file.write(comment.body + "\n")
-                for reply in comment.replies:
-                    file.write(reply.body + "\n")
+                    # Loop through the comments and their replies
+                    for comment in post.comments.list():
+                        file.write(comment.body + "\n")
+                        for reply in comment.replies:
+                            file.write(reply.body + "\n")
+                    
+                    print(f"Done going through {post_id} and now sleeping for 2 minutes!")
+                    post_ids.remove(post_id)
+                    time.sleep(120)
 
-    with open("comments.txt", "r", encoding="utf-8") as file:
+
+        except prawcore.exceptions.TooManyRequests as e:
+            print(f"Rate limit exceeded. Sleeping for 120 seconds.")
+            time.sleep(120)
+
+
+def get_word_list_from_comments(filename):
+    with open(filename, "r", encoding="utf-8") as file:
         data = file.read()
         lines = re.split(r"[^A-Za-z0-9]", data)
 
-        # convert all the words in the list to lowercase
-    all_words = [word.lower() for word in lines]
+    # convert all the words in the list to lowercase
+    rmt_words_list = [word.lower() for word in lines]
 
-    return all_words
+    return rmt_words_list
 
 
 def count_rmt_word_occurence(rmt_words_list, rmt_word_count_file):
     """Count how many times each words from RMT comments occurs and turns the data into a CSV"""
 
-    # count how many times each word occures in the all_words list
-    count = Counter(all_words)
+    # count how many times each word occures in the rmt_words_list list
+    count = Counter(rmt_words_list)
 
     df = pd.Series(count)
-    df.to_csv("rmt.csv")
+    df.to_csv(rmt_word_count_file)
 
+    return count
+
+def count_player_fpl_occurence(all_players, player_count_csv, player_var_names, count):
+    """The various words from the rmt pages are compared to the possible player name variations
+    If a variation is found, the count is updated against the proper name of the EPL player.
+    Player names are counted and arranged in descending order, returned as a CSV file"""
     for k, v in player_var_names.items():
+        v_stripped = v.strip("[]").split(',')
+        v = [item.strip(" '") for item in v_stripped]
         for key, value in count.items():
             if key in v:
                 try:
@@ -107,10 +129,13 @@ def count_rmt_word_occurence(rmt_words_list, rmt_word_count_file):
     df = pd.Series(all_players)
     df.to_csv(player_count_csv)
 
+def add_new_players_to_variation(all_players, player_var):
+    for key in all_players.keys():
+        if key not in list(player_var.keys()):
+            print(key)
+            player_var[key] = []
 
-def merge_dfs(file1, file2, pd):
-    """Merge the players file and the complete scrape from FFHub website."""
-    import pandas as pd
+    return player_var
 
 def merge_dfs(file1, file2):
     """Merge the players file and the complete scrape from FFHub website."""
@@ -118,7 +143,7 @@ def merge_dfs(file1, file2):
     df1 = df1.rename(columns={"Unnamed: 0": "Name", "0": "Points"})
 
     df2 = pd.read_csv(file2)
-    df2 = df2.rename(columns={"Names": "Name", "Team": "Team Name", "Cost (£M)": "Price"})
+    # df2 = df2.rename(columns={"Names": "Name", "Team": "Team Name", "Cost (£M)": "Price"})
     df2["Name"] = df2["Name"].str.strip()
 
     df_merged = df1.merge(df2, on="Name", how="inner")
@@ -157,10 +182,10 @@ def wildcard_team(BUDGET, df_merged):
                         # Add constraints
                         model += lpSum([player_data.loc[i, 'Price'] * x[player_data.loc[i, 'Name']] for i in range(len(player_data))]) <= BUDGET # Total budget constraint
                         model += lpSum([x[player_data.loc[i, 'Name']] for i in range(len(player_data))]) == 11 # Squad size constraint
-                        model += lpSum([x[player_data.loc[i, 'Name']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'G']) == 1 # GK position constraint
-                        model += lpSum([x[player_data.loc[i, 'Name']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'D']) == DEF # DEF position constraint
-                        model += lpSum([x[player_data.loc[i, 'Name']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'M']) == MID # MID position constraint
-                        model += lpSum([x[player_data.loc[i, 'Name']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'F']) == FWD # FWD position constraint
+                        model += lpSum([x[player_data.loc[i, 'Name']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'Goalkeeper']) == 1 # GK position constraint
+                        model += lpSum([x[player_data.loc[i, 'Name']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'Defender']) == DEF # DEF position constraint
+                        model += lpSum([x[player_data.loc[i, 'Name']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'Midfielder']) == MID # MID position constraint
+                        model += lpSum([x[player_data.loc[i, 'Name']] for i in range(len(player_data)) if player_data.loc[i, 'Position'] == 'Forward']) == FWD # FWD position constraint
 
                         # existing_team_dfdd constraint to limit the number of players from each Premier League team to at most 3
                         prem_teams = player_data['Team Name'].unique()
@@ -185,6 +210,6 @@ def wildcard_team(BUDGET, df_merged):
                         f.write(f"{DEF} - {MID} - {FWD}\n")
                         for i in range(len(player_data)):
                             if x[player_data.loc[i, 'Name']].value() == 1:
-                                f.write(f"{player_data.loc[i, 'Name']} {player_data.loc[i, 'Team Name']} {player_data.loc[i, 'Position']} {player_data.loc[i, 'Price']} {player_data.loc[i, 'Points']}\n")
+                                f.write(f"{player_data.loc[i, 'Name']}\t\t\t{player_data.loc[i, 'Team Name']}\t\t{player_data.loc[i, 'Position']}\t\t{player_data.loc[i, 'Price']}\t\t{player_data.loc[i, 'Points']}\n")
                         f.write(f"Total points: {value(model.objective)}\n")
                         f.write("\n")
