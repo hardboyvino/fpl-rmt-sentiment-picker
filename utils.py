@@ -3,6 +3,11 @@ Utility functions used in the main program.
 """
 from pulp import *
 import praw
+import prawcore
+import time
+from collections import Counter
+import pandas as pd
+import re
 
 
 def get_words_rmt_page(By, driver, filename, re, rmt_pages, unicodedata):
