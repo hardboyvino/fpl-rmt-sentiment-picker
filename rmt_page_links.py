@@ -8,29 +8,16 @@ All IDs attached to the GW are the pages for the days before the GW, after the l
 i.e. GW23 IDs are all the pages after GW 22 but before GW23 so usually the deadline day links are not included but is not a hard non-inclusion rule.
 """
 
-gw23 = [
-    "https://www.reddit.com/r/FantasyPL/comments/10ua7vx/rate_my_team_quick_questions_general_advice_daily/",
-    "https://www.reddit.com/r/FantasyPL/comments/10v43p1/rate_my_team_quick_questions_general_advice_daily/",
-    "https://www.reddit.com/r/FantasyPL/comments/10vzcq1/rate_my_team_quick_questions_general_advice_daily/",
-    "https://www.reddit.com/r/FantasyPL/comments/10wu2cv/rate_my_team_quick_questions_general_advice_daily/",
-    "https://www.reddit.com/r/FantasyPL/comments/10xs9vw/rate_my_team_quick_questions_general_advice_daily/",
-    "https://www.reddit.com/r/FantasyPL/comments/10ypeth/rate_my_team_quick_questions_general_advice_daily/",
-]
+aug_7 = ["15mb5zo", "15ldzla", "15kgi26"]
 
-post_ids_24 = ["110dfb2", "1115uoc", "1122xem", "112vono", "113o80n", "114hyly"]
+july_31 = ["15jm3ho", "15irxt3", "15hw361", "15h03xp", "15g4zpr", "15f8clx", "15ec3b2"]
 
-post_ids_25 = ["11681mt", "11744ho", "11811vd", "118vkjb", "119v8ex", "11aoztx"]
+july_24 = ["15di1cb", "15cop8l", "15btdia", "15axyy3", "15a1o9j", "1594ahl", "1586hqp"]
 
-post_ids_26 = ["11cdll5", "11d9e69", "11e3j1s", "11f154g", "11g08ex", "11gy464"]
+july_17 = ["157b337", "156g9n2", "155jtgf", "154mxew", "153qwo3", "152uevb", "151xuqt"]
 
-post_ids_27 = ["11iuov2", "11jw0vx", "11kwil7", "11ltorb", "11mpl9r", "11nmbqm"]
+july_10 = ["1512m70", "1508824", "14zcif6", "14ygv5e", "14xkd8d", "14wn60d", "14vpx83"]
 
-post_ids_28 = ["11pc49b", "11q6uq8", "11r3di5", "11rtcbq", "11sr3bv", "11to5bn"]
+july_3 = ["14uuy1v", "14u0aus", "14t32sx", "14s4sax", "14rg7p5"]
 
-post_ids_29 = ["11vimxg", "11wfv2t", "11xdstt", "11yfq1t", "11zh6cw", "120h5f8", "121ipez", "122huqv", "123igx6", "124k1wm", "125jb6r", "126ig8j", "127gm5p"]
-
-post_ids_35 = ["132p6ay", "133lf6l", "134if64", "135gwh0", "136gdry", "137gaza", "138h9vq"]
-
-post_ids_36 = ["13bknvc", "13clgav", "13dm7w7", "13ej0he", "13fgvol"]
-
-post_ids_37 = ["13h8gjm", "13i424u", "13j12p9", "13jxkrg", "13kunif", "13lraua"]
+preseason = aug_7
