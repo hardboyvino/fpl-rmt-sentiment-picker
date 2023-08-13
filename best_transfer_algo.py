@@ -64,8 +64,8 @@ def generate_in_players(combo, start_index, in_players):
 # Loop through all possible combinations of players to remove
 for out_combo in out_players:
     # Filter table2 to only include players with the same position as the players being removed
-    out_positions_list = sorted(table1.loc[list(out_combo)]["Position"].tolist())
-    filtered_table2 = table2[table2["Position"].isin(out_positions_list)]
+    out_positions_set = set(table1.loc[list(out_combo)]["Position"])
+    filtered_table2 = table2[table2["Position"].isin(out_positions_set)]
 
     # Create a list of all possible combinations of players to add to our current team
     in_players = []
@@ -73,20 +73,18 @@ for out_combo in out_players:
 
     # Loop through all possible combinations of players to add
     for in_combo in in_players:
-        # Calculate how much money we would spend and save from these transfers
-        out_cost = table1.loc[list(out_combo)]["Price"].sum()
-        in_cost = table2.loc[in_combo]["Price"].sum()
-        net_cost = (out_cost + max_budget) - in_cost
+        # Calculate the net cost of the transfers
+        net_cost = (sum(table1.loc[list(out_combo)]["Price"]) + budget_remaining) - sum(table2.loc[in_combo]["Price"])
 
         # Skip this combination if we don't have enough money for it
         if net_cost < 0:
             continue
 
         # Get the positions of the players to add
-        in_positions_list = sorted(table2.loc[in_combo]["Position"].tolist())
+        in_positions_set = set(table2.loc[in_combo]["Position"])
 
         # Check if the positions being removed match the positions being added
-        if out_positions_list != in_positions_list:
+        if out_positions_set != in_positions_set:
             continue
 
         # Check if adding a player violates the "max 3 players from any team" rule
