@@ -50,6 +50,17 @@ best_points_diff = 0
 best_transfer = None
 net_cost = 0
 
+# Convert out_players to a set for faster membership checks
+out_players_set = set(out_players)
+
+# Recursive function to generate all possible combinations of players to add
+def generate_in_players(combo, start_index, in_players):
+    if len(combo) == transfers:
+        in_players.append(combo)
+        return
+    for i in range(start_index, len(table2.index)):
+        generate_in_players(combo + [table2.index[i]], i + 1, in_players)
+
 # Loop through all possible combinations of players to remove
 for out_combo in out_players:
     # Filter table2 to only include players with the same position as the players being removed
@@ -57,7 +68,8 @@ for out_combo in out_players:
     filtered_table2 = table2[table2["Position"].isin(out_positions_list)]
 
     # Create a list of all possible combinations of players to add to our current team
-    in_players = [list(combo) for combo in combinations(filtered_table2.index, transfers)]
+    in_players = []
+    generate_in_players([], 0, in_players)
 
     # Loop through all possible combinations of players to add
     for in_combo in in_players:
