@@ -106,6 +106,7 @@ def count_rmt_word_occurence(rmt_words_list, rmt_word_count_file):
     count = Counter(rmt_words_list)
 
     df = pd.Series(count)
+    df.sort_values(inplace=True, by="Unnamed: 0")
     df.to_csv(rmt_word_count_file)
 
     return count
