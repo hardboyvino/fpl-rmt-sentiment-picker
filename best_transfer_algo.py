@@ -1,18 +1,14 @@
 import time
+import pandas as pd
+from itertools import combinations
 
 start_time = time.time()
-
-# Import the pandas library so we can work with data
-import pandas as pd
-
-# Import the combinations function to create all possible combinations of players
-from itertools import combinations
 
 # Load the data from a file into a table called "table1"
 table1 = pd.read_csv("team.csv")
 
 # Load the data from another file into a table called "table2"
-table2 = pd.read_csv("finals.csv")
+table2 = pd.read_csv("transferable_players_info.csv")
 
 # Combine team names from table1 and table2
 unique_teams = set(table1["Team Name"].unique()).union(table2["Team Name"].unique())
@@ -31,9 +27,9 @@ table2 = table2[~table2["Name"].isin(table1["Name"])]
 
 # Set the number of players we want to transfer and our maximum budget
 transfers = 1
-max_budget = 2.2
+budget_remaining = 7.5
 
-players_not_to_remove = ["Haaland", "Grealish", "Estupiñán", "Shaw", "Steele", "Stones", "Rashford", "Mitoma"]  # Replace with the names of the players you don't want to remove
+players_not_to_remove = []  # Replace with the names of the players you don't want to remove
 players_not_to_add = []  # Replace with the names of the players you don't want to add
 
 # Remove the players we don't want to consider for removal from table1
@@ -100,20 +96,24 @@ for out_combo in out_players:
                 updated_team_counts[in_team] = 1
 
         if all(count <= 3 for count in updated_team_counts.values()):
-            out_points = table1.loc[list(out_combo)]["Points"].sum()
-            in_points = table2.loc[in_combo]["Points"].sum()
+            out_points = sum(table1.loc[list(out_combo)]["Points"])
+            in_points = sum(table2.loc[in_combo]["Points"])
             points_diff = in_points - out_points
 
             if points_diff > best_points_diff:
                 best_points_diff = points_diff
                 best_transfer = (out_combo, in_combo)
 
+
 # Show the best transfer combination we found
 if best_transfer is not None:
-    print("Best transfer combination:")
-    print("Out:", table1.loc[list(best_transfer[0])])  # Show the players we want to remove from our team
-    print("In:", table2.loc[best_transfer[1]])  # Show the players we want to add to our team
-    print("Points difference:", best_points_diff)  # Show the difference in points for this transfer combination
+    print("\nBest transfer combination:")
+    print("\nOut:", table1.loc[list(best_transfer[0])])  # Show the players we want to remove from our team
+    print("\nIn:", table2.loc[best_transfer[1]])  # Show the players we want to add to our team
+    print("\nPoints difference:", best_points_diff)  # Show the difference in points for this transfer combination
+    out_cost = sum(table1.loc[list(best_transfer[0])]["Price"])
+    in_cost = sum(table2.loc[best_transfer[1]]["Price"])
+    net_cost = (out_cost + budget_remaining) - in_cost
     print(f"Budget Left: {net_cost}")
 else:
     print("No valid transfer combination found.")  # If no valid transfer was found, print this message
@@ -125,4 +125,4 @@ end_time = time.time()
 execution_time = end_time - start_time
 
 # Print the execution time
-print("Execution time: {:.2f} seconds".format(execution_time))
+print("\nExecution time: {:.2f} seconds".format(execution_time))
