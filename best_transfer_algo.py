@@ -5,19 +5,19 @@ from itertools import combinations
 start_time = time.time()
 
 # Load the data from a file into a table called "table1"
-table1 = pd.read_csv("team.csv")
+table1 = pd.read_csv("team copy.csv")
 
 # Load the data from another file into a table called "table2"
 table2 = pd.read_csv("transferable_players_info.csv")
 
-# Combine team names from table1 and table2
-unique_teams = set(table1["Team Name"].unique()).union(table2["Team Name"].unique())
+# Combine teams from table1 and table2
+unique_teams = set(table1["Team"].unique()).union(table2["Team"].unique())
 
-# Create a dictionary with team names as keys and counts as zero
+# Create a dictionary with teams as keys and counts as zero
 team_counts = {team: 0 for team in unique_teams}
 
 # Count the number of occurrences of every team in table1 and update the dictionary
-for team in table1["Team Name"]:
+for team in table1["Team"]:
     team_counts[team] += 1
 
 print(team_counts)
@@ -26,10 +26,10 @@ print(team_counts)
 table2 = table2[~table2["Name"].isin(table1["Name"])]
 
 # Set the number of players we want to transfer and our maximum budget
-transfers = 1
-budget_remaining = 7.5
+transfers = 2
+budget_remaining = 5.3
 
-players_not_to_remove = []  # Replace with the names of the players you don't want to remove
+players_not_to_remove = ['Van den Berg', 'Dibling']  # Replace with the names of the players you don't want to remove
 players_not_to_add = []  # Replace with the names of the players you don't want to add
 
 # Remove the players we don't want to consider for removal from table1
@@ -57,6 +57,17 @@ def generate_in_players(combo, start_index, in_players):
     for i in range(start_index, len(table2.index)):
         generate_in_players(combo + [table2.index[i]], i + 1, in_players)
 
+def compare_position_counts(out_combo, in_combo):
+    # Calculate counts of positions for outgoing players
+    out_positions_counts = table1.loc[list(out_combo)]['Position'].value_counts().to_dict()
+
+    # Calculate counts of positions for incoming players
+    in_positions_counts = table2.loc[in_combo]['Position'].value_counts().to_dict()
+
+    # Check if the position counts dictionaries are equal
+    return out_positions_counts == in_positions_counts
+
+
 # Loop through all possible combinations of players to remove
 for out_combo in out_players:
     # Filter table2 to only include players with the same position as the players being removed
@@ -71,29 +82,60 @@ for out_combo in out_players:
     for in_combo in in_players:
         # Calculate the net cost of the transfers
         net_cost = (sum(table1.loc[list(out_combo)]["Price"]) + budget_remaining) - sum(table2.loc[in_combo]["Price"])
-
         # Skip this combination if we don't have enough money for it
         if net_cost < 0:
             continue
 
-        # Get the positions of the players to add
-        in_positions_set = set(table2.loc[in_combo]["Position"])
+        # # Get the positions of the players to add
+        # in_positions_set = set(table2.loc[in_combo]["Position"])
 
-        # Check if the positions being removed match the positions being added
-        if out_positions_set != in_positions_set:
+        # # Check if the positions being removed match the positions being added
+        # if out_positions_set != in_positions_set:
+        #     continue
+        # if not compare_position_counts(out_combo, in_combo):
+        #     continue
+
+        # # Check if adding a player violates the "max 3 players from any team" rule
+        # updated_team_counts = team_counts.copy()
+
+        # for out_player, in_player in zip(out_combo, in_combo):
+        #     out_team = table1.loc[out_player]["Team"]
+        #     in_team = table2.loc[in_player]["Team"]
+
+        #     updated_team_counts[out_team] -= 1
+        #     if in_team in updated_team_counts:
+        #         updated_team_counts[in_team] += 1
+        #     else:
+        #         updated_team_counts[in_team] = 1
+
+        # Ensure position counts match exactly for in and out combos
+        if not compare_position_counts(out_combo, in_combo):
             continue
 
-        # Check if adding a player violates the "max 3 players from any team" rule
+        # Create a temporary copy of team_counts for simulation
         updated_team_counts = team_counts.copy()
-        for out_player, in_player in zip(out_combo, in_combo):
-            out_team = table1.loc[out_player]["Team Name"]
-            in_team = table2.loc[in_player]["Team Name"]
 
+        # Update updated_team_counts for outgoing players
+        for out_player_index in out_combo:
+            out_team = table1.loc[out_player_index]["Team"]
             updated_team_counts[out_team] -= 1
+
+        # Check and update updated_team_counts for incoming players
+        valid_transfer = True
+        for in_player_index in in_combo:
+            in_team = table2.loc[in_player_index]["Team"]
             if in_team in updated_team_counts:
-                updated_team_counts[in_team] += 1
+                if updated_team_counts[in_team] < 3:  # Ensure we do not exceed the max count
+                    updated_team_counts[in_team] += 1
+                else:
+                    valid_transfer = False
+                    break
             else:
                 updated_team_counts[in_team] = 1
+
+        if not valid_transfer:
+            continue
+
 
         if all(count <= 3 for count in updated_team_counts.values()):
             out_points = sum(table1.loc[list(out_combo)]["Points"])
@@ -114,7 +156,7 @@ if best_transfer is not None:
     out_cost = sum(table1.loc[list(best_transfer[0])]["Price"])
     in_cost = sum(table2.loc[best_transfer[1]]["Price"])
     net_cost = (out_cost + budget_remaining) - in_cost
-    print(f"Budget Left: {net_cost}")
+    print(f"Budget Left: {net_cost:.2f}")
 else:
     print("No valid transfer combination found.")  # If no valid transfer was found, print this message
 

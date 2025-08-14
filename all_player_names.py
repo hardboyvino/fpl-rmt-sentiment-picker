@@ -49,8 +49,8 @@ def get_all_players_information(driver):
     # Rename columns for clarity
     df.columns = ["Price", "Name", "Position", "Team Name"]
 
-    # Filter out specific entry (example: "Onana" as a midfielder)
-    df = df[(df["Name"] != "Onana") | (df["Position"] != "Midfielder")]
+    # # Filter out specific entry (example: "Onana" as a midfielder)
+    # df = df[(df["Name"] != "Onana") | (df["Position"] != "Midfielder")]
 
     # Save the data to CSV
     df.to_csv("player_details.csv", index=False)

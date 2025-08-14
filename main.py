@@ -3,7 +3,6 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from chromedriver_py import binary_path
 import pandas as pd
-import time
 
 
 from player_name_variations import player_name_variations
@@ -17,7 +16,7 @@ from utils import (
     count_player_fpl_occurence,
     add_new_players_to_variation,
 )
-from rmt_page_links import preseason
+from rmt_page_links import gw_6, unavailable, chance_25_percent, chance_50_percent, chance_75_percent
 
 # File Paths and Constants
 rmt_word_count_file = "rmt_word_counts.csv"
@@ -65,7 +64,7 @@ print("Done with player name variation section.")
 
 # # Load Comments and Replies
 print("Getting Reddit RMT comments.")
-get_all_comments_and_replies(preseason, reddit_comments_file)
+get_all_comments_and_replies(gw_6, reddit_comments_file)
 rmt_words_list = get_word_list_from_comments(reddit_comments_file)
 print("Done getting and reading Reddit RMT comments.")
 
@@ -76,7 +75,7 @@ word_counts_df.pop("")
 player_name_variations_dict = player_name_variations(player_name_variations_file)
 
 # Count Player FPL Mentions
-count_player_fpl_occurence(player_mention_counts, player_mentions_csv, player_name_variations_dict, word_counts_df)
+count_player_fpl_occurence(player_mention_counts, player_mentions_csv, player_name_variations_dict, word_counts_df, unavailable, chance_25_percent, chance_50_percent, chance_75_percent)
 
 # Merge DataFrames
 merged_player_details_df = merge_dfs(player_mentions_csv, player_details_csv)
