@@ -192,6 +192,40 @@ def map_current_ids_to_csv_rows(
 
     return pool_df.reset_index(drop=True), owned_df.reset_index(drop=True), warnings
 
+def _arrange_best_xi_for_fixed_squad(
+    selected_pids,  # list of PIDs in the final 15
+    pts_dict,       # pid -> Points
+    pos_dict,       # pid -> Position
+    formation       # (DEF, MID, FWD)
+):
+    """
+    Given a fixed 15-man squad, choose the best XI (y[i]) to maximize starting points
+    subject to formation (1 GK, DEF/MID/FWD counts) and y[i] in {0,1}.
+    Returns (y_selected, b_selected) as lists of PIDs.
+    """
+    DEF, MID, FWD = formation
+    m = LpProblem("Arrange_Best_XI", LpMaximize)
+    y = LpVariable.dicts("start", selected_pids, 0, 1, cat="Binary")
+
+    # XI size
+    m += lpSum(y[i] for i in selected_pids) == 11
+
+    # Formation constraints
+    m += lpSum(y[i] for i in selected_pids if pos_dict[i] == "Goalkeeper") == 1
+    m += lpSum(y[i] for i in selected_pids if pos_dict[i] == "Defender")   == DEF
+    m += lpSum(y[i] for i in selected_pids if pos_dict[i] == "Midfielder") == MID
+    m += lpSum(y[i] for i in selected_pids if pos_dict[i] == "Forward")    == FWD
+
+    # Objective: maximize starting points
+    m.objective = lpSum(pts_dict[i] * y[i] for i in selected_pids)
+    m.solve(PULP_CBC_CMD(msg=False))
+
+    y_sel = [i for i in selected_pids if value(y[i]) > 0.5]
+    b_sel = [i for i in selected_pids if i not in y_sel]
+    return y_sel, b_sel
+
+
+
 # ------------------------ Optimization ------------------------ #
 
 def optimize_k(
@@ -201,7 +235,7 @@ def optimize_k(
     bank_m: float,
     formations: List[Tuple[int,int,int]],
     max_per_team: int = 3,
-    bench_budget: float = 20.0,
+    bench_budget: float | None = None,          # <-- make optional
     include_names: Set[str] = None,
     include_start_names: Set[str] = None,
     exclude_names: Set[str] = None,
@@ -210,24 +244,36 @@ def optimize_k(
     block_add_names: Set[str] = None,
     solver_msg: bool = False,
 ):
-    # Build IDs for this model from pool rows: use synthetic int IDs = row index
+    """
+    Choose transfers (≤ k), select a 15-man squad, and then arrange XI+bench.
+    Multi-stage solve:
+      1) Max XI points
+      2) Max bench points (tie-break)
+      3) Min total cost (tie-break)
+    Finally, re-arrange the XI for the chosen 15 to guarantee the true best XI.
+    """
+    # Build synthetic PIDs
     df = pool_df.copy().reset_index(drop=True)
-    df["PID"] = df.index  # synthetic
+    df["PID"] = df.index
     id_list = df["PID"].tolist()
 
-    # Dictionaries
+    # Dicts
     name = df.set_index("PID")["Name"].to_dict()
     team = df.set_index("PID")["Team"].to_dict()
     pos  = df.set_index("PID")["Position"].to_dict()
     price = df.set_index("PID")["Price"].astype(float).to_dict()
     pts   = df.set_index("PID")["Points"].astype(float).to_dict()
 
-    # Owned PID set (map by key)
+    # Owned PIDs via 'key'
+    if "key" not in owned_df.columns:
+        owned_df = owned_df.copy()
+        owned_df["key"] = owned_df.apply(lambda r: _key(r["Name"], r["Team"]), axis=1)
+
     owned_keys = set(owned_df["key"])
     pid_by_key = df.set_index("key")["PID"].to_dict()
     current_pids = {pid_by_key[k] for k in owned_keys if k in pid_by_key}
 
-    # Helper to map names -> PID set
+    # Name→PID helper
     by_name: Dict[str, Set[int]] = df.groupby("Name")["PID"].apply(set).to_dict()
     def ids_for_names(names: Set[str]) -> Set[int]:
         out = set()
@@ -242,8 +288,7 @@ def optimize_k(
     include_teams = set(include_teams or [])
     exclude_teams = set(exclude_teams or [])
 
-    # Budget: use CSV prices for current 15 (consistent with pool) + bank
-    total_current_cost = owned_df["Price"].sum()
+    total_current_cost = float(owned_df["Price"].sum())
 
     best = None
     best_key = None
@@ -263,7 +308,7 @@ def optimize_k(
         for i in id_list:
             m += y[i] + b[i] <= x[i]
 
-        # Formation
+        # Formation (XI)
         m += lpSum(y[i] for i in id_list if pos[i] == "Goalkeeper") == 1
         m += lpSum(y[i] for i in id_list if pos[i] == "Defender")   == DEF
         m += lpSum(y[i] for i in id_list if pos[i] == "Midfielder") == MID
@@ -273,19 +318,20 @@ def optimize_k(
         for P, cap in SQUAD_CAPS.items():
             m += lpSum(x[i] for i in id_list if pos[i] == P) == cap
 
-        # Club cap
+        # ≤3 per club across 15
         for club in df["Team"].unique():
             m += lpSum(x[i] for i in id_list if team[i] == club) <= max_per_team
 
-        # Budget
+        # Budget: new 15 within current_15_csv_cost + bank
         total_cost_expr = lpSum(price[i] * x[i] for i in id_list)
         m += total_cost_expr <= total_current_cost + bank_m
 
-        # Bench budget (soft cap)
-        bench_cost_expr = lpSum(price[i] * b[i] for i in id_list)
-        m += bench_cost_expr <= bench_budget
+        # Bench soft cap (ONLY if explicitly provided)
+        if bench_budget is not None:
+            bench_cost_expr = lpSum(price[i] * b[i] for i in id_list)
+            m += bench_cost_expr <= bench_budget
 
-        # Transfer count ≤ k
+        # Transfers ≤ k
         removed = 15 - lpSum(x[i] for i in current_pids)
         added   = lpSum(x[i] for i in set(id_list) - current_pids)
         m += removed <= k
@@ -293,19 +339,19 @@ def optimize_k(
 
         # Includes/excludes
         for i in id_list:
-            if i in inc_ids:        m += x[i] == 1
-            if i in inc_start_ids:  m += y[i] == 1
-            if i in exc_ids:        m += x[i] == 0
+            if i in inc_ids:       m += x[i] == 1
+            if i in inc_start_ids: m += y[i] == 1
+            if i in exc_ids:       m += x[i] == 0
             if include_teams and team[i] not in include_teams: m += x[i] == 0
-            if team[i] in exclude_teams:                      m += x[i] == 0
-            # Allow keeping blocked players if already owned; only block if new:
-            if i in block_add_ids and i not in current_pids: m += x[i] == 0
+            if team[i] in exclude_teams:                       m += x[i] == 0
+            # Only block if it's a *new* buy
+            if i in block_add_ids and i not in current_pids:   m += x[i] == 0
 
         # Objectives (multi-stage)
         start_points = lpSum(pts[i] * y[i] for i in id_list)
         bench_points = lpSum(pts[i] * b[i] for i in id_list)
 
-        # Stage 1
+        # 1) Max XI points
         m.objective = start_points
         status = m.solve(PULP_CBC_CMD(msg=solver_msg))
         if LpStatus[status] != "Optimal":
@@ -315,7 +361,7 @@ def optimize_k(
         m += start_points >= start_best - EPS
         m += start_points <= start_best + EPS
 
-        # Stage 2
+        # 2) Max bench points (tie-break)
         m.objective = bench_points
         status = m.solve(PULP_CBC_CMD(msg=solver_msg))
         if LpStatus[status] != "Optimal":
@@ -324,20 +370,24 @@ def optimize_k(
         m += bench_points >= bench_best - EPS
         m += bench_points <= bench_best + EPS
 
-        # Stage 3
+        # 3) Min total cost (final tie-break)
         m.objective = -total_cost_expr
         status = m.solve(PULP_CBC_CMD(msg=solver_msg))
         if LpStatus[status] != "Optimal":
             continue
 
-        # Collect
+        # --- Retrieve the chosen 15 ---
         x_sel = [i for i in id_list if value(x[i]) > 0.5]
-        y_sel = [i for i in id_list if value(y[i]) > 0.5]
-        b_sel = [i for i in id_list if value(b[i]) > 0.5]
+        # NOTE: y/b from this stage might be skewed if a bench cap was applied; we’ll re-arrange next.
 
+        # --- Re-arrange best XI for the fixed squad (guarantees maximum XI points) ---
+        y_sel, b_sel = _arrange_best_xi_for_fixed_squad(x_sel, pts, pos, (DEF, MID, FWD))
+
+        # Transfers
         out_pids = sorted(list(current_pids - set(x_sel)))
         in_pids  = sorted(list(set(x_sel) - current_pids))
 
+        # Metrics
         start_pts  = sum(pts[i] for i in y_sel)
         bench_pts  = sum(pts[i] for i in b_sel)
         total_cost = sum(price[i] for i in x_sel)
@@ -347,7 +397,6 @@ def optimize_k(
         points_out = sum(pts[i] for i in out_pids)
         points_in  = sum(pts[i] for i in in_pids)
         points_diff = points_in - points_out
-        # Match your earlier pattern: denominator with +0.1 to avoid div-by-zero
         points_diff_pct = points_diff / (points_out + 0.1)
         budget_left = (total_current_cost + bank_m) - total_cost
 
