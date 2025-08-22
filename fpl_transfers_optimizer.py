@@ -154,7 +154,11 @@ def map_current_ids_to_csv_rows(
 
     # Rows for currently owned found directly in CSV
     found_keys = [id_to_key[i] for i in current_ids if id_to_key.get(i) in preds.index]
-    owned_found = preds.loc[found_keys].copy() if found_keys else pd.DataFrame(columns=preds.columns)
+    if found_keys:
+        owned_found = preds.loc[found_keys].copy()
+        owned_found["key"] = owned_found.index  # <-- ensure 'key' is a real column
+    else:
+        owned_found = pd.DataFrame(columns=preds.columns)
 
     # Identify owned but not in CSV and create fallback rows from API
     missing_ids = [i for i in current_ids if id_to_key.get(i) not in preds.index]
@@ -166,13 +170,14 @@ def map_current_ids_to_csv_rows(
         tm = api.loc[pid, "Team"]
         pos = api.loc[pid, "PositionAPI"]
         price = float(api.loc[pid, "PriceAPI"])
-        # Score fallback as 0.0 so they are only kept if constraints force it
-        row = dict(Name=nm, Team=tm, Position=pos, Price=price, Points=0.0, key=_key(nm, tm))
+
+        # Score fallback sky-high so feasibility is guaranteed and they’re strongly preferred
+        row = dict(Name=nm, Team=tm, Position=pos, Price=price, Points=-9999.0, key=_key(nm, tm)) 
         fallback_rows.append(row)
         warnings.append({
             "type": "csv_missing_player_added",
             "id": pid, "Name": nm, "Team": tm,
-            "note": "Not found in CSV; added with Points=0.0 and price from FPL API."
+            "note": "Not found in CSV; added with Points=-9999.0 and price from FPL API."
         })
 
     owned_fallback = pd.DataFrame(fallback_rows) if fallback_rows else pd.DataFrame(columns=preds.columns)
@@ -185,10 +190,15 @@ def map_current_ids_to_csv_rows(
 
     # Owned set (using pool rows)
     owned_df = pd.concat([owned_found.reset_index(drop=True), owned_fallback.reset_index(drop=True)], ignore_index=True)
-
-    # Ensure 'key' exists in owned_df
+    # Ensure 'key' exists and is filled for every row (handles mixed index/column cases)
     if "key" not in owned_df.columns:
         owned_df["key"] = owned_df.apply(lambda r: _key(r["Name"], r["Team"]), axis=1)
+    else:
+        mask = owned_df["key"].isna() | (owned_df["key"].astype(str).str.strip() == "")
+        if mask.any():
+            owned_df.loc[mask, "key"] = owned_df.loc[mask].apply(
+                lambda r: _key(r["Name"], r["Team"]), axis=1
+            )
 
     return pool_df.reset_index(drop=True), owned_df.reset_index(drop=True), warnings
 
@@ -487,7 +497,7 @@ def write_report(entry_id: int, bank_m: float, owned_df: pd.DataFrame, k_results
 def parse_args():
     p = argparse.ArgumentParser(description="FPL optimizer using your predictions CSV as the scoring basis.")
     p.add_argument("--entry", type=int, required=True, help="FPL entry (manager) ID")
-    p.add_argument("--preds", type=str, required=True, help="Path to predictions CSV (Name,Price,Position,Team,Points)")
+    p.add_argument("--preds", type=str, required=True, help="Path to CSV with prediction data (Name,Price,Position,Team,Points)")
     p.add_argument("--max_transfers", type=int, default=5)
     p.add_argument("--bench_budget", type=float, default=20.0)
     p.add_argument("--max_per_team", type=int, default=3)
