@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       2.06      
+Mings                    Aston Villa    Defender       4.5       1.65      
+Romero                   Spurs          Defender       5.0       1.59      
+Tarkowski                Everton        Defender       5.5       1.58      
+Lukić                    Fulham         Midfielder     5.0       2.26      
+Sadiki                   Sunderland     Midfielder     5.0       2.22      
+Adams                    Bournemouth    Midfielder     5.0       1.95      
+Berge                    Fulham         Midfielder     5.0       1.93      
+Haaland                  Man City       Forward        14.1      1.69      
+Mateta                   Crystal Palace Forward        7.5       1.67      
+Mayenda                  Sunderland     Forward        5.5       1.60      
+---------------------------------------------------------------------------
+BENCH
+Pickford                 Everton        Goalkeeper     5.5       1.94      
+Anthony                  Burnley        Midfielder     5.5       1.88      
+Spence                   Spurs          Defender       4.5       1.56      
+Bogle                    Leeds          Defender       4.5       1.54      
+---------------------------------------------------------------------------
+Starting XI points: 20.22
+Bench points:      6.91
+15-Man Team Points: 27.13
+Starting budget used: 67.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    87.10 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       2.06      
+Mings                    Aston Villa    Defender       4.5       1.65      
+Romero                   Spurs          Defender       5.0       1.59      
+Tarkowski                Everton        Defender       5.5       1.58      
+Lukić                    Fulham         Midfielder     5.0       2.26      
+Sadiki                   Sunderland     Midfielder     5.0       2.22      
+Adams                    Bournemouth    Midfielder     5.0       1.95      
+Berge                    Fulham         Midfielder     5.0       1.93      
+M.Salah                  Liverpool      Midfielder     14.5      1.89      
+Haaland                  Man City       Forward        14.1      1.69      
+Mateta                   Crystal Palace Forward        7.5       1.67      
+---------------------------------------------------------------------------
+BENCH
+Pickford                 Everton        Goalkeeper     5.5       1.94      
+De Ligt                  Man Utd        Defender       5.0       1.58      
+Spence                   Spurs          Defender       4.5       1.56      
+Foster                   Burnley        Forward        5.0       1.56      
+---------------------------------------------------------------------------
+Starting XI points: 20.51
+Bench points:      6.63
+15-Man Team Points: 27.14
+Starting budget used: 76.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    96.10 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       2.06      
+Mings                    Aston Villa    Defender       4.5       1.65      
+Romero                   Spurs          Defender       5.0       1.59      
+Tarkowski                Everton        Defender       5.5       1.58      
+De Ligt                  Man Utd        Defender       5.0       1.58      
+Lukić                    Fulham         Midfielder     5.0       2.26      
+Sadiki                   Sunderland     Midfielder     5.0       2.22      
+Adams                    Bournemouth    Midfielder     5.0       1.95      
+Berge                    Fulham         Midfielder     5.0       1.93      
+Haaland                  Man City       Forward        14.1      1.69      
+Mateta                   Crystal Palace Forward        7.5       1.67      
+---------------------------------------------------------------------------
+BENCH
+Pickford                 Everton        Goalkeeper     5.5       1.94      
+Cullen                   Burnley        Midfielder     5.0       1.81      
+Spence                   Spurs          Defender       4.5       1.56      
+Foster                   Burnley        Forward        5.0       1.56      
+---------------------------------------------------------------------------
+Starting XI points: 20.20
+Bench points:      6.86
+15-Man Team Points: 27.05
+Starting budget used: 66.60
+Bench budget used:    20.00 / 20.00
+Total budget used:    86.60 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       2.06      
+Mings                    Aston Villa    Defender       4.5       1.65      
+Romero                   Spurs          Defender       5.0       1.59      
+Tarkowski                Everton        Defender       5.5       1.58      
+De Ligt                  Man Utd        Defender       5.0       1.58      
+Lukić                    Fulham         Midfielder     5.0       2.26      
+Sadiki                   Sunderland     Midfielder     5.0       2.22      
+Adams                    Bournemouth    Midfielder     5.0       1.95      
+Berge                    Fulham         Midfielder     5.0       1.93      
+M.Salah                  Liverpool      Midfielder     14.5      1.89      
+Haaland                  Man City       Forward        14.1      1.69      
+---------------------------------------------------------------------------
+BENCH
+Pickford                 Everton        Goalkeeper     5.5       1.94      
+Mayenda                  Sunderland     Forward        5.5       1.60      
+Foster                   Burnley        Forward        5.0       1.56      
+Estève                   Burnley        Defender       4.0       1.47      
+---------------------------------------------------------------------------
+Starting XI points: 20.42
+Bench points:      6.57
+15-Man Team Points: 26.98
+Starting budget used: 73.60
+Bench budget used:    20.00 / 20.00
+Total budget used:    93.60 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       2.06      
+Mings                    Aston Villa    Defender       4.5       1.65      
+Romero                   Spurs          Defender       5.0       1.59      
+Tarkowski                Everton        Defender       5.5       1.58      
+De Ligt                  Man Utd        Defender       5.0       1.58      
+Spence                   Spurs          Defender       4.5       1.56      
+Lukić                    Fulham         Midfielder     5.0       2.26      
+Sadiki                   Sunderland     Midfielder     5.0       2.22      
+Adams                    Bournemouth    Midfielder     5.0       1.95      
+Haaland                  Man City       Forward        14.1      1.69      
+Mateta                   Crystal Palace Forward        7.5       1.67      
+---------------------------------------------------------------------------
+BENCH
+Berge                    Fulham         Midfielder     5.0       1.93      
+Cullen                   Burnley        Midfielder     5.0       1.81      
+Sels                     Nott'm Forest  Goalkeeper     5.0       1.67      
+Foster                   Burnley        Forward        5.0       1.56      
+---------------------------------------------------------------------------
+Starting XI points: 19.82
+Bench points:      6.97
+15-Man Team Points: 26.79
+Starting budget used: 66.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    86.10 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       2.06      
+Mings                    Aston Villa    Defender       4.5       1.65      
+Romero                   Spurs          Defender       5.0       1.59      
+Tarkowski                Everton        Defender       5.5       1.58      
+De Ligt                  Man Utd        Defender       5.0       1.58      
+Spence                   Spurs          Defender       4.5       1.56      
+Lukić                    Fulham         Midfielder     5.0       2.26      
+Sadiki                   Sunderland     Midfielder     5.0       2.22      
+Adams                    Bournemouth    Midfielder     5.0       1.95      
+Berge                    Fulham         Midfielder     5.0       1.93      
+Haaland                  Man City       Forward        14.1      1.69      
+---------------------------------------------------------------------------
+BENCH
+Cullen                   Burnley        Midfielder     5.0       1.81      
+Mayenda                  Sunderland     Forward        5.5       1.60      
+Foster                   Burnley        Forward        5.0       1.56      
+Verbruggen               Brighton       Goalkeeper     4.5       1.54      
+---------------------------------------------------------------------------
+Starting XI points: 20.08
+Bench points:      6.50
+15-Man Team Points: 26.58
+Starting budget used: 63.60
+Bench budget used:    20.00 / 20.00
+Total budget used:    83.60 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       2.06      
+Mings                    Aston Villa    Defender       4.5       1.65      
+Romero                   Spurs          Defender       5.0       1.59      
+Tarkowski                Everton        Defender       5.5       1.58      
+De Ligt                  Man Utd        Defender       5.0       1.58      
+Lukić                    Fulham         Midfielder     5.0       2.26      
+Sadiki                   Sunderland     Midfielder     5.0       2.22      
+Adams                    Bournemouth    Midfielder     5.0       1.95      
+Haaland                  Man City       Forward        14.1      1.69      
+Mateta                   Crystal Palace Forward        7.5       1.67      
+Mayenda                  Sunderland     Forward        5.5       1.60      
+---------------------------------------------------------------------------
+BENCH
+Pickford                 Everton        Goalkeeper     5.5       1.94      
+Berge                    Fulham         Midfielder     5.0       1.93      
+Cullen                   Burnley        Midfielder     5.0       1.81      
+Spence                   Spurs          Defender       4.5       1.56      
+---------------------------------------------------------------------------
+Starting XI points: 19.86
+Bench points:      7.23
+15-Man Team Points: 27.09
+Starting budget used: 67.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    87.10 / 100.00
+===========================================================================
+
+

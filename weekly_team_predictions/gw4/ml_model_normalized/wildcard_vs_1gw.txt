@@ -1,0 +1,258 @@
+Optimized Team (3GW selections re-arranged for 1GW)
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+================================================================================
+
+Optimized Team:
+3GW selection formation: 3-4-3  |  1GW best formation: 3-5-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Pope                     Newcastle      Goalkeeper     5.0       2.06      1.34      
+Tarkowski                Everton        Defender       5.5       1.58      0.84      
+Spence                   Spurs          Defender       4.5       1.56      0.92      
+Bogle                    Leeds          Defender       4.5       1.54      0.95      
+Lukić                    Fulham         Midfielder     5.0       2.26      1.86      
+Sadiki                   Sunderland     Midfielder     5.0       2.22      1.49      
+Adams                    Bournemouth    Midfielder     5.0       1.95      1.57      
+Berge                    Fulham         Midfielder     5.0       1.93      1.21      
+Anthony                  Burnley        Midfielder     5.5       1.88      1.33      
+Mateta                   Crystal Palace Forward        7.5       1.67      0.89      
+Mayenda                  Sunderland     Forward        5.5       1.60      1.15      
+--------------------------------------------------------------------------------
+BENCH
+Haaland                  Man City       Forward        14.1      1.69      0.88      
+Mings                    Aston Villa    Defender       4.5       1.65      0.80      
+Romero                   Spurs          Defender       5.0       1.59      0.75      
+Pickford                 Everton        Goalkeeper     5.5       1.94      1.01      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 13.54
+Starting XI points (3GW): 20.26
+Bench points (1GW):      3.45
+Bench points (3GW):      6.87
+15-Man Team Points (1GW): 16.99
+15-Man Team Points (3GW): 27.13
+Starting budget used: 58.00
+Bench budget used:    29.10 / 20.00
+Total budget used:    87.10 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 3-5-2  |  1GW best formation: 3-5-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Pope                     Newcastle      Goalkeeper     5.0       2.06      1.34      
+Tarkowski                Everton        Defender       5.5       1.58      0.84      
+De Ligt                  Man Utd        Defender       5.0       1.58      1.04      
+Spence                   Spurs          Defender       4.5       1.56      0.92      
+Lukić                    Fulham         Midfielder     5.0       2.26      1.86      
+Sadiki                   Sunderland     Midfielder     5.0       2.22      1.49      
+Adams                    Bournemouth    Midfielder     5.0       1.95      1.57      
+Berge                    Fulham         Midfielder     5.0       1.93      1.21      
+M.Salah                  Liverpool      Midfielder     14.5      1.89      1.48      
+Mateta                   Crystal Palace Forward        7.5       1.67      0.89      
+Foster                   Burnley        Forward        5.0       1.56      1.06      
+--------------------------------------------------------------------------------
+BENCH
+Haaland                  Man City       Forward        14.1      1.69      0.88      
+Mings                    Aston Villa    Defender       4.5       1.65      0.80      
+Romero                   Spurs          Defender       5.0       1.59      0.75      
+Pickford                 Everton        Goalkeeper     5.5       1.94      1.01      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 13.71
+Starting XI points (3GW): 20.27
+Bench points (1GW):      3.45
+Bench points (3GW):      6.87
+15-Man Team Points (1GW): 17.16
+15-Man Team Points (3GW): 27.14
+Starting budget used: 67.00
+Bench budget used:    29.10 / 20.00
+Total budget used:    96.10 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 4-4-2  |  1GW best formation: 3-5-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Pope                     Newcastle      Goalkeeper     5.0       2.06      1.34      
+Tarkowski                Everton        Defender       5.5       1.58      0.84      
+De Ligt                  Man Utd        Defender       5.0       1.58      1.04      
+Spence                   Spurs          Defender       4.5       1.56      0.92      
+Lukić                    Fulham         Midfielder     5.0       2.26      1.86      
+Sadiki                   Sunderland     Midfielder     5.0       2.22      1.49      
+Adams                    Bournemouth    Midfielder     5.0       1.95      1.57      
+Berge                    Fulham         Midfielder     5.0       1.93      1.21      
+Cullen                   Burnley        Midfielder     5.0       1.81      1.38      
+Mateta                   Crystal Palace Forward        7.5       1.67      0.89      
+Foster                   Burnley        Forward        5.0       1.56      1.06      
+--------------------------------------------------------------------------------
+BENCH
+Haaland                  Man City       Forward        14.1      1.69      0.88      
+Mings                    Aston Villa    Defender       4.5       1.65      0.80      
+Romero                   Spurs          Defender       5.0       1.59      0.75      
+Pickford                 Everton        Goalkeeper     5.5       1.94      1.01      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 13.60
+Starting XI points (3GW): 20.18
+Bench points (1GW):      3.45
+Bench points (3GW):      6.87
+15-Man Team Points (1GW): 17.05
+15-Man Team Points (3GW): 27.05
+Starting budget used: 57.50
+Bench budget used:    29.10 / 20.00
+Total budget used:    86.60 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 4-5-1  |  1GW best formation: 3-5-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Pope                     Newcastle      Goalkeeper     5.0       2.06      1.34      
+Tarkowski                Everton        Defender       5.5       1.58      0.84      
+De Ligt                  Man Utd        Defender       5.0       1.58      1.04      
+Estève                   Burnley        Defender       4.0       1.47      0.81      
+Lukić                    Fulham         Midfielder     5.0       2.26      1.86      
+Sadiki                   Sunderland     Midfielder     5.0       2.22      1.49      
+Adams                    Bournemouth    Midfielder     5.0       1.95      1.57      
+Berge                    Fulham         Midfielder     5.0       1.93      1.21      
+M.Salah                  Liverpool      Midfielder     14.5      1.89      1.48      
+Mayenda                  Sunderland     Forward        5.5       1.60      1.15      
+Foster                   Burnley        Forward        5.0       1.56      1.06      
+--------------------------------------------------------------------------------
+BENCH
+Haaland                  Man City       Forward        14.1      1.69      0.88      
+Mings                    Aston Villa    Defender       4.5       1.65      0.80      
+Romero                   Spurs          Defender       5.0       1.59      0.75      
+Pickford                 Everton        Goalkeeper     5.5       1.94      1.01      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 13.86
+Starting XI points (3GW): 20.11
+Bench points (1GW):      3.45
+Bench points (3GW):      6.87
+15-Man Team Points (1GW): 17.31
+15-Man Team Points (3GW): 26.98
+Starting budget used: 64.50
+Bench budget used:    29.10 / 20.00
+Total budget used:    93.60 / 100.00
+[BEST 1GW XI]
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 5-3-2  |  1GW best formation: 3-5-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Pope                     Newcastle      Goalkeeper     5.0       2.06      1.34      
+Tarkowski                Everton        Defender       5.5       1.58      0.84      
+De Ligt                  Man Utd        Defender       5.0       1.58      1.04      
+Spence                   Spurs          Defender       4.5       1.56      0.92      
+Lukić                    Fulham         Midfielder     5.0       2.26      1.86      
+Sadiki                   Sunderland     Midfielder     5.0       2.22      1.49      
+Adams                    Bournemouth    Midfielder     5.0       1.95      1.57      
+Berge                    Fulham         Midfielder     5.0       1.93      1.21      
+Cullen                   Burnley        Midfielder     5.0       1.81      1.38      
+Mateta                   Crystal Palace Forward        7.5       1.67      0.89      
+Foster                   Burnley        Forward        5.0       1.56      1.06      
+--------------------------------------------------------------------------------
+BENCH
+Haaland                  Man City       Forward        14.1      1.69      0.88      
+Mings                    Aston Villa    Defender       4.5       1.65      0.80      
+Romero                   Spurs          Defender       5.0       1.59      0.75      
+Sels                     Nott'm Forest  Goalkeeper     5.0       1.67      1.16      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 13.60
+Starting XI points (3GW): 20.18
+Bench points (1GW):      3.59
+Bench points (3GW):      6.61
+15-Man Team Points (1GW): 17.20
+15-Man Team Points (3GW): 26.79
+Starting budget used: 57.50
+Bench budget used:    28.60 / 20.00
+Total budget used:    86.10 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 5-4-1  |  1GW best formation: 3-5-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Pope                     Newcastle      Goalkeeper     5.0       2.06      1.34      
+Tarkowski                Everton        Defender       5.5       1.58      0.84      
+De Ligt                  Man Utd        Defender       5.0       1.58      1.04      
+Spence                   Spurs          Defender       4.5       1.56      0.92      
+Lukić                    Fulham         Midfielder     5.0       2.26      1.86      
+Sadiki                   Sunderland     Midfielder     5.0       2.22      1.49      
+Adams                    Bournemouth    Midfielder     5.0       1.95      1.57      
+Berge                    Fulham         Midfielder     5.0       1.93      1.21      
+Cullen                   Burnley        Midfielder     5.0       1.81      1.38      
+Mayenda                  Sunderland     Forward        5.5       1.60      1.15      
+Foster                   Burnley        Forward        5.0       1.56      1.06      
+--------------------------------------------------------------------------------
+BENCH
+Haaland                  Man City       Forward        14.1      1.69      0.88      
+Mings                    Aston Villa    Defender       4.5       1.65      0.80      
+Romero                   Spurs          Defender       5.0       1.59      0.75      
+Verbruggen               Brighton       Goalkeeper     4.5       1.54      1.25      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 13.85
+Starting XI points (3GW): 20.11
+Bench points (1GW):      3.69
+Bench points (3GW):      6.48
+15-Man Team Points (1GW): 17.54
+15-Man Team Points (3GW): 26.58
+Starting budget used: 55.50
+Bench budget used:    28.10 / 20.00
+Total budget used:    83.60 / 100.00
+[BEST 1GW XI+Bench]
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 4-3-3  |  1GW best formation: 3-5-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Pope                     Newcastle      Goalkeeper     5.0       2.06      1.34      
+Tarkowski                Everton        Defender       5.5       1.58      0.84      
+De Ligt                  Man Utd        Defender       5.0       1.58      1.04      
+Spence                   Spurs          Defender       4.5       1.56      0.92      
+Lukić                    Fulham         Midfielder     5.0       2.26      1.86      
+Sadiki                   Sunderland     Midfielder     5.0       2.22      1.49      
+Adams                    Bournemouth    Midfielder     5.0       1.95      1.57      
+Berge                    Fulham         Midfielder     5.0       1.93      1.21      
+Cullen                   Burnley        Midfielder     5.0       1.81      1.38      
+Mateta                   Crystal Palace Forward        7.5       1.67      0.89      
+Mayenda                  Sunderland     Forward        5.5       1.60      1.15      
+--------------------------------------------------------------------------------
+BENCH
+Haaland                  Man City       Forward        14.1      1.69      0.88      
+Mings                    Aston Villa    Defender       4.5       1.65      0.80      
+Romero                   Spurs          Defender       5.0       1.59      0.75      
+Pickford                 Everton        Goalkeeper     5.5       1.94      1.01      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 13.69
+Starting XI points (3GW): 20.22
+Bench points (1GW):      3.45
+Bench points (3GW):      6.87
+15-Man Team Points (1GW): 17.14
+15-Man Team Points (3GW): 27.09
+Starting budget used: 58.00
+Bench budget used:    29.10 / 20.00
+Total budget used:    87.10 / 100.00
+================================================================================
+
+
+

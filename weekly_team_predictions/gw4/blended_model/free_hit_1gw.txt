@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       0.97      
+Livramento               Newcastle      Defender       5.1       0.88      
+Struijk                  Leeds          Defender       4.5       0.84      
+Cucurella                Chelsea        Defender       6.1       0.81      
+Enzo                     Chelsea        Midfielder     6.6       0.93      
+Stach                    Leeds          Midfielder     5.0       0.93      
+Tonali                   Newcastle      Midfielder     5.4       0.92      
+M.Salah                  Liverpool      Midfielder     14.5      0.85      
+Richarlison              Spurs          Forward        6.7       0.82      
+Strand Larsen            Wolves         Forward        6.5       0.80      
+Ekitiké                  Liverpool      Forward        8.7       0.79      
+---------------------------------------------------------------------------
+BENCH
+Pickford                 Everton        Goalkeeper     5.5       0.81      
+Van de Ven               Spurs          Defender       4.6       0.80      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.80      
+Gudmundsson              Leeds          Defender       4.0       0.79      
+---------------------------------------------------------------------------
+Starting XI points: 9.54
+Bench points:      3.20
+15-Man Team Points: 12.74
+Starting budget used: 74.10
+Bench budget used:    19.10 / 20.00
+Total budget used:    93.20 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       0.97      
+Struijk                  Leeds          Defender       4.5       0.84      
+Cucurella                Chelsea        Defender       6.1       0.81      
+Van de Ven               Spurs          Defender       4.6       0.80      
+Enzo                     Chelsea        Midfielder     6.6       0.93      
+Stach                    Leeds          Midfielder     5.0       0.93      
+Bruno G.                 Newcastle      Midfielder     6.5       0.92      
+Tonali                   Newcastle      Midfielder     5.4       0.92      
+M.Salah                  Liverpool      Midfielder     14.5      0.85      
+Richarlison              Spurs          Forward        6.7       0.82      
+Strand Larsen            Wolves         Forward        6.5       0.80      
+---------------------------------------------------------------------------
+BENCH
+Pickford                 Everton        Goalkeeper     5.5       0.81      
+Piroe                    Leeds          Forward        5.4       0.74      
+Senesi                   Bournemouth    Defender       4.5       0.71      
+Bassey                   Fulham         Defender       4.5       0.68      
+---------------------------------------------------------------------------
+Starting XI points: 9.60
+Bench points:      2.94
+15-Man Team Points: 12.53
+Starting budget used: 71.40
+Bench budget used:    19.90 / 20.00
+Total budget used:    91.30 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       0.97      
+Livramento               Newcastle      Defender       5.1       0.88      
+Struijk                  Leeds          Defender       4.5       0.84      
+Cucurella                Chelsea        Defender       6.1       0.81      
+Van de Ven               Spurs          Defender       4.6       0.80      
+Enzo                     Chelsea        Midfielder     6.6       0.93      
+Stach                    Leeds          Midfielder     5.0       0.93      
+Tonali                   Newcastle      Midfielder     5.4       0.92      
+M.Salah                  Liverpool      Midfielder     14.5      0.85      
+Richarlison              Spurs          Forward        6.7       0.82      
+Strand Larsen            Wolves         Forward        6.5       0.80      
+---------------------------------------------------------------------------
+BENCH
+Pickford                 Everton        Goalkeeper     5.5       0.81      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.80      
+Gudmundsson              Leeds          Defender       4.0       0.79      
+Mayenda                  Sunderland     Forward        5.5       0.62      
+---------------------------------------------------------------------------
+Starting XI points: 9.55
+Bench points:      3.02
+15-Man Team Points: 12.57
+Starting budget used: 70.00
+Bench budget used:    20.00 / 20.00
+Total budget used:    90.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       0.97      
+Livramento               Newcastle      Defender       5.1       0.88      
+Struijk                  Leeds          Defender       4.5       0.84      
+Cucurella                Chelsea        Defender       6.1       0.81      
+Van de Ven               Spurs          Defender       4.6       0.80      
+Enzo                     Chelsea        Midfielder     6.6       0.93      
+Stach                    Leeds          Midfielder     5.0       0.93      
+Tonali                   Newcastle      Midfielder     5.4       0.92      
+M.Salah                  Liverpool      Midfielder     14.5      0.85      
+Kudus                    Spurs          Midfielder     6.6       0.84      
+Richarlison              Spurs          Forward        6.7       0.82      
+---------------------------------------------------------------------------
+BENCH
+Petrović                 Bournemouth    Goalkeeper     4.5       0.75      
+Piroe                    Leeds          Forward        5.4       0.74      
+Senesi                   Bournemouth    Defender       4.5       0.71      
+Mayenda                  Sunderland     Forward        5.5       0.62      
+---------------------------------------------------------------------------
+Starting XI points: 9.59
+Bench points:      2.82
+15-Man Team Points: 12.41
+Starting budget used: 70.10
+Bench budget used:    19.90 / 20.00
+Total budget used:    90.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       0.97      
+Livramento               Newcastle      Defender       5.1       0.88      
+Struijk                  Leeds          Defender       4.5       0.84      
+Cucurella                Chelsea        Defender       6.1       0.81      
+Van de Ven               Spurs          Defender       4.6       0.80      
+Gudmundsson              Leeds          Defender       4.0       0.79      
+Enzo                     Chelsea        Midfielder     6.6       0.93      
+Stach                    Leeds          Midfielder     5.0       0.93      
+Tonali                   Newcastle      Midfielder     5.4       0.92      
+Richarlison              Spurs          Forward        6.7       0.82      
+Strand Larsen            Wolves         Forward        6.5       0.80      
+---------------------------------------------------------------------------
+BENCH
+P.M.Sarr                 Spurs          Midfielder     5.0       0.80      
+Petrović                 Bournemouth    Goalkeeper     4.5       0.75      
+Adams                    Bournemouth    Midfielder     5.0       0.75      
+Mayenda                  Sunderland     Forward        5.5       0.62      
+---------------------------------------------------------------------------
+Starting XI points: 9.49
+Bench points:      2.92
+15-Man Team Points: 12.40
+Starting budget used: 59.50
+Bench budget used:    20.00 / 20.00
+Total budget used:    79.50 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       0.97      
+Livramento               Newcastle      Defender       5.1       0.88      
+Struijk                  Leeds          Defender       4.5       0.84      
+Cucurella                Chelsea        Defender       6.1       0.81      
+Van de Ven               Spurs          Defender       4.6       0.80      
+Gudmundsson              Leeds          Defender       4.0       0.79      
+Enzo                     Chelsea        Midfielder     6.6       0.93      
+Stach                    Leeds          Midfielder     5.0       0.93      
+Tonali                   Newcastle      Midfielder     5.4       0.92      
+M.Salah                  Liverpool      Midfielder     14.5      0.85      
+Richarlison              Spurs          Forward        6.7       0.82      
+---------------------------------------------------------------------------
+BENCH
+P.M.Sarr                 Spurs          Midfielder     5.0       0.80      
+Petrović                 Bournemouth    Goalkeeper     4.5       0.75      
+Mayenda                  Sunderland     Forward        5.5       0.62      
+Foster                   Burnley        Forward        5.0       0.36      
+---------------------------------------------------------------------------
+Starting XI points: 9.54
+Bench points:      2.54
+15-Man Team Points: 12.08
+Starting budget used: 67.50
+Bench budget used:    20.00 / 20.00
+Total budget used:    87.50 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       0.97      
+Livramento               Newcastle      Defender       5.1       0.88      
+Struijk                  Leeds          Defender       4.5       0.84      
+Cucurella                Chelsea        Defender       6.1       0.81      
+Van de Ven               Spurs          Defender       4.6       0.80      
+Enzo                     Chelsea        Midfielder     6.6       0.93      
+Stach                    Leeds          Midfielder     5.0       0.93      
+Tonali                   Newcastle      Midfielder     5.4       0.92      
+Richarlison              Spurs          Forward        6.7       0.82      
+Strand Larsen            Wolves         Forward        6.5       0.80      
+Ekitiké                  Liverpool      Forward        8.7       0.79      
+---------------------------------------------------------------------------
+BENCH
+Pickford                 Everton        Goalkeeper     5.5       0.81      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.80      
+Gudmundsson              Leeds          Defender       4.0       0.79      
+Adams                    Bournemouth    Midfielder     5.0       0.75      
+---------------------------------------------------------------------------
+Starting XI points: 9.49
+Bench points:      3.14
+15-Man Team Points: 12.64
+Starting budget used: 64.20
+Bench budget used:    19.50 / 20.00
+Total budget used:    83.70 / 100.00
+===========================================================================
+
+

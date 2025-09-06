@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       1.34      
+Aina                     Nott'm Forest  Defender       5.0       1.24      
+N.Williams               Nott'm Forest  Defender       5.0       1.23      
+Bassey                   Fulham         Defender       4.5       1.20      
+Lukić                    Fulham         Midfielder     5.0       1.86      
+Adams                    Bournemouth    Midfielder     5.0       1.57      
+Stach                    Leeds          Midfielder     5.0       1.50      
+Sadiki                   Sunderland     Midfielder     5.0       1.49      
+Strand Larsen            Wolves         Forward        6.5       1.19      
+Mayenda                  Sunderland     Forward        5.5       1.15      
+Bowen                    West Ham       Forward        7.8       1.13      
+---------------------------------------------------------------------------
+BENCH
+Cullen                   Burnley        Midfielder     5.0       1.38      
+Petrović                 Bournemouth    Goalkeeper     4.5       1.28      
+Van de Ven               Spurs          Defender       4.6       1.14      
+Van den Berg             Brentford      Defender       4.5       1.13      
+---------------------------------------------------------------------------
+Starting XI points: 14.90
+Bench points:      4.93
+15-Man Team Points: 19.82
+Starting budget used: 59.30
+Bench budget used:    18.60 / 20.00
+Total budget used:    77.90 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       1.34      
+Aina                     Nott'm Forest  Defender       5.0       1.24      
+N.Williams               Nott'm Forest  Defender       5.0       1.23      
+Bassey                   Fulham         Defender       4.5       1.20      
+Lukić                    Fulham         Midfielder     5.0       1.86      
+Adams                    Bournemouth    Midfielder     5.0       1.57      
+Stach                    Leeds          Midfielder     5.0       1.50      
+Sadiki                   Sunderland     Midfielder     5.0       1.49      
+M.Salah                  Liverpool      Midfielder     14.5      1.48      
+Strand Larsen            Wolves         Forward        6.5       1.19      
+Mayenda                  Sunderland     Forward        5.5       1.15      
+---------------------------------------------------------------------------
+BENCH
+Petrović                 Bournemouth    Goalkeeper     4.5       1.28      
+Van de Ven               Spurs          Defender       4.6       1.14      
+Van den Berg             Brentford      Defender       4.5       1.13      
+Piroe                    Leeds          Forward        5.4       1.07      
+---------------------------------------------------------------------------
+Starting XI points: 15.25
+Bench points:      4.62
+15-Man Team Points: 19.87
+Starting budget used: 66.00
+Bench budget used:    19.00 / 20.00
+Total budget used:    85.00 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       1.34      
+Aina                     Nott'm Forest  Defender       5.0       1.24      
+N.Williams               Nott'm Forest  Defender       5.0       1.23      
+Bassey                   Fulham         Defender       4.5       1.20      
+Van de Ven               Spurs          Defender       4.6       1.14      
+Lukić                    Fulham         Midfielder     5.0       1.86      
+Adams                    Bournemouth    Midfielder     5.0       1.57      
+Stach                    Leeds          Midfielder     5.0       1.50      
+Sadiki                   Sunderland     Midfielder     5.0       1.49      
+Strand Larsen            Wolves         Forward        6.5       1.19      
+Mayenda                  Sunderland     Forward        5.5       1.15      
+---------------------------------------------------------------------------
+BENCH
+Cullen                   Burnley        Midfielder     5.0       1.38      
+Petrović                 Bournemouth    Goalkeeper     4.5       1.28      
+Van den Berg             Brentford      Defender       4.5       1.13      
+Piroe                    Leeds          Forward        5.4       1.07      
+---------------------------------------------------------------------------
+Starting XI points: 14.91
+Bench points:      4.86
+15-Man Team Points: 19.77
+Starting budget used: 56.10
+Bench budget used:    19.40 / 20.00
+Total budget used:    75.50 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       1.34      
+Aina                     Nott'm Forest  Defender       5.0       1.24      
+N.Williams               Nott'm Forest  Defender       5.0       1.23      
+Bassey                   Fulham         Defender       4.5       1.20      
+Van de Ven               Spurs          Defender       4.6       1.14      
+Lukić                    Fulham         Midfielder     5.0       1.86      
+Adams                    Bournemouth    Midfielder     5.0       1.57      
+Stach                    Leeds          Midfielder     5.0       1.50      
+Sadiki                   Sunderland     Midfielder     5.0       1.49      
+M.Salah                  Liverpool      Midfielder     14.5      1.48      
+Strand Larsen            Wolves         Forward        6.5       1.19      
+---------------------------------------------------------------------------
+BENCH
+Petrović                 Bournemouth    Goalkeeper     4.5       1.28      
+Mayenda                  Sunderland     Forward        5.5       1.15      
+Van den Berg             Brentford      Defender       4.5       1.13      
+Piroe                    Leeds          Forward        5.4       1.07      
+---------------------------------------------------------------------------
+Starting XI points: 15.25
+Bench points:      4.63
+15-Man Team Points: 19.87
+Starting budget used: 65.10
+Bench budget used:    19.90 / 20.00
+Total budget used:    85.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       1.34      
+Aina                     Nott'm Forest  Defender       5.0       1.24      
+N.Williams               Nott'm Forest  Defender       5.0       1.23      
+Bassey                   Fulham         Defender       4.5       1.20      
+Van de Ven               Spurs          Defender       4.6       1.14      
+Van den Berg             Brentford      Defender       4.5       1.13      
+Lukić                    Fulham         Midfielder     5.0       1.86      
+Adams                    Bournemouth    Midfielder     5.0       1.57      
+Stach                    Leeds          Midfielder     5.0       1.50      
+Strand Larsen            Wolves         Forward        6.5       1.19      
+Mayenda                  Sunderland     Forward        5.5       1.15      
+---------------------------------------------------------------------------
+BENCH
+Sadiki                   Sunderland     Midfielder     5.0       1.49      
+Cullen                   Burnley        Midfielder     5.0       1.38      
+Petrović                 Bournemouth    Goalkeeper     4.5       1.28      
+Piroe                    Leeds          Forward        5.4       1.07      
+---------------------------------------------------------------------------
+Starting XI points: 14.55
+Bench points:      5.22
+15-Man Team Points: 19.77
+Starting budget used: 55.60
+Bench budget used:    19.90 / 20.00
+Total budget used:    75.50 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       1.34      
+Aina                     Nott'm Forest  Defender       5.0       1.24      
+N.Williams               Nott'm Forest  Defender       5.0       1.23      
+Bassey                   Fulham         Defender       4.5       1.20      
+Van de Ven               Spurs          Defender       4.6       1.14      
+Van den Berg             Brentford      Defender       4.5       1.13      
+Lukić                    Fulham         Midfielder     5.0       1.86      
+Adams                    Bournemouth    Midfielder     5.0       1.57      
+Stach                    Leeds          Midfielder     5.0       1.50      
+Sadiki                   Sunderland     Midfielder     5.0       1.49      
+Strand Larsen            Wolves         Forward        6.5       1.19      
+---------------------------------------------------------------------------
+BENCH
+Cullen                   Burnley        Midfielder     5.0       1.38      
+Petrović                 Bournemouth    Goalkeeper     4.5       1.28      
+Mayenda                  Sunderland     Forward        5.5       1.15      
+Foster                   Burnley        Forward        5.0       1.06      
+---------------------------------------------------------------------------
+Starting XI points: 14.89
+Bench points:      4.87
+15-Man Team Points: 19.76
+Starting budget used: 55.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    75.10 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       1.34      
+Aina                     Nott'm Forest  Defender       5.0       1.24      
+N.Williams               Nott'm Forest  Defender       5.0       1.23      
+Bassey                   Fulham         Defender       4.5       1.20      
+Van de Ven               Spurs          Defender       4.6       1.14      
+Lukić                    Fulham         Midfielder     5.0       1.86      
+Adams                    Bournemouth    Midfielder     5.0       1.57      
+Stach                    Leeds          Midfielder     5.0       1.50      
+Strand Larsen            Wolves         Forward        6.5       1.19      
+Mayenda                  Sunderland     Forward        5.5       1.15      
+Bowen                    West Ham       Forward        7.8       1.13      
+---------------------------------------------------------------------------
+BENCH
+Sadiki                   Sunderland     Midfielder     5.0       1.49      
+Cullen                   Burnley        Midfielder     5.0       1.38      
+Petrović                 Bournemouth    Goalkeeper     4.5       1.28      
+Van den Berg             Brentford      Defender       4.5       1.13      
+---------------------------------------------------------------------------
+Starting XI points: 14.55
+Bench points:      5.27
+15-Man Team Points: 19.82
+Starting budget used: 58.90
+Bench budget used:    19.00 / 20.00
+Total budget used:    77.90 / 100.00
+===========================================================================
+
+

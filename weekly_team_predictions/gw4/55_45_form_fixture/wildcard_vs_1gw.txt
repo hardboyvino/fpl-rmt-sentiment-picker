@@ -1,0 +1,258 @@
+Optimized Team (3GW selections re-arranged for 1GW)
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+================================================================================
+
+Optimized Team:
+3GW selection formation: 3-4-3  |  1GW best formation: 5-3-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Vicario                  Spurs          Goalkeeper     5.0       11.77     11.95     
+Calafiori                Arsenal        Defender       5.6       11.52     9.69      
+Senesi                   Bournemouth    Defender       4.5       11.07     9.79      
+Gudmundsson              Leeds          Defender       4.0       10.81     12.46     
+Rodon                    Leeds          Defender       4.0       10.63     12.29     
+Chalobah                 Chelsea        Defender       5.1       10.47     12.30     
+Johnson                  Spurs          Midfielder     7.1       11.32     11.50     
+Stach                    Leeds          Midfielder     5.0       10.19     11.84     
+Enzo                     Chelsea        Midfielder     6.6       10.15     11.98     
+Richarlison              Spurs          Forward        6.7       11.45     11.64     
+João Pedro               Chelsea        Forward        7.7       10.33     12.16     
+--------------------------------------------------------------------------------
+BENCH
+Semenyo                  Bournemouth    Midfielder     7.4       10.80     9.52      
+Gyökeres                 Arsenal        Forward        9.0       9.45      7.62      
+Tavernier                Bournemouth    Midfielder     5.5       10.03     8.75      
+Leno                     Fulham         Goalkeeper     5.0       9.65      7.82      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 127.60
+Starting XI points (3GW): 119.71
+Bench points (1GW):      33.71
+Bench points (3GW):      39.93
+15-Man Team Points (1GW): 161.31
+15-Man Team Points (3GW): 159.64
+Starting budget used: 61.30
+Bench budget used:    26.90 / 20.00
+Total budget used:    88.20 / 100.00
+[BEST 1GW XI]
+[BEST 1GW XI+Bench]
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 3-5-2  |  1GW best formation: 5-3-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Vicario                  Spurs          Goalkeeper     5.0       11.77     11.95     
+Calafiori                Arsenal        Defender       5.6       11.52     9.69      
+Senesi                   Bournemouth    Defender       4.5       11.07     9.79      
+Gudmundsson              Leeds          Defender       4.0       10.81     12.46     
+Rodon                    Leeds          Defender       4.0       10.63     12.29     
+Chalobah                 Chelsea        Defender       5.1       10.47     12.30     
+Johnson                  Spurs          Midfielder     7.1       11.32     11.50     
+Stach                    Leeds          Midfielder     5.0       10.19     11.84     
+Enzo                     Chelsea        Midfielder     6.6       10.15     11.98     
+Richarlison              Spurs          Forward        6.7       11.45     11.64     
+João Pedro               Chelsea        Forward        7.7       10.33     12.16     
+--------------------------------------------------------------------------------
+BENCH
+Semenyo                  Bournemouth    Midfielder     7.4       10.80     9.52      
+Tavernier                Bournemouth    Midfielder     5.5       10.03     8.75      
+Leno                     Fulham         Goalkeeper     5.0       9.65      7.82      
+Mayenda                  Sunderland     Forward        5.5       8.58      6.20      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 127.60
+Starting XI points (3GW): 119.71
+Bench points (1GW):      32.29
+Bench points (3GW):      39.06
+15-Man Team Points (1GW): 159.89
+15-Man Team Points (3GW): 158.77
+Starting budget used: 61.30
+Bench budget used:    23.40 / 20.00
+Total budget used:    84.70 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 4-4-2  |  1GW best formation: 4-4-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Vicario                  Spurs          Goalkeeper     5.0       11.77     11.95     
+Calafiori                Arsenal        Defender       5.6       11.52     9.69      
+Senesi                   Bournemouth    Defender       4.5       11.07     9.79      
+Gudmundsson              Leeds          Defender       4.0       10.81     12.46     
+Rodon                    Leeds          Defender       4.0       10.63     12.29     
+Johnson                  Spurs          Midfielder     7.1       11.32     11.50     
+Semenyo                  Bournemouth    Midfielder     7.4       10.80     9.52      
+Stach                    Leeds          Midfielder     5.0       10.19     11.84     
+Enzo                     Chelsea        Midfielder     6.6       10.15     11.98     
+Richarlison              Spurs          Forward        6.7       11.45     11.64     
+João Pedro               Chelsea        Forward        7.7       10.33     12.16     
+--------------------------------------------------------------------------------
+BENCH
+Tavernier                Bournemouth    Midfielder     5.5       10.03     8.75      
+Andersen                 Fulham         Defender       4.5       9.78      7.95      
+Roefs                    Sunderland     Goalkeeper     4.5       9.35      6.96      
+Mayenda                  Sunderland     Forward        5.5       8.58      6.20      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 124.82
+Starting XI points (3GW): 120.04
+Bench points (1GW):      29.86
+Bench points (3GW):      37.74
+15-Man Team Points (1GW): 154.68
+15-Man Team Points (3GW): 157.78
+Starting budget used: 63.60
+Bench budget used:    20.00 / 20.00
+Total budget used:    83.60 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 4-5-1  |  1GW best formation: 4-5-1
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Vicario                  Spurs          Goalkeeper     5.0       11.77     11.95     
+Calafiori                Arsenal        Defender       5.6       11.52     9.69      
+Senesi                   Bournemouth    Defender       4.5       11.07     9.79      
+Gudmundsson              Leeds          Defender       4.0       10.81     12.46     
+Rodon                    Leeds          Defender       4.0       10.63     12.29     
+Johnson                  Spurs          Midfielder     7.1       11.32     11.50     
+Semenyo                  Bournemouth    Midfielder     7.4       10.80     9.52      
+Stach                    Leeds          Midfielder     5.0       10.19     11.84     
+Enzo                     Chelsea        Midfielder     6.6       10.15     11.98     
+Tavernier                Bournemouth    Midfielder     5.5       10.03     8.75      
+Richarlison              Spurs          Forward        6.7       11.45     11.64     
+--------------------------------------------------------------------------------
+BENCH
+Andersen                 Fulham         Defender       4.5       9.78      7.95      
+Leno                     Fulham         Goalkeeper     5.0       9.65      7.82      
+Mayenda                  Sunderland     Forward        5.5       8.58      6.20      
+Foster                   Burnley        Forward        5.0       5.88      2.04      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 121.41
+Starting XI points (3GW): 119.74
+Bench points (1GW):      24.01
+Bench points (3GW):      33.89
+15-Man Team Points (1GW): 145.42
+15-Man Team Points (3GW): 153.63
+Starting budget used: 61.40
+Bench budget used:    20.00 / 20.00
+Total budget used:    81.40 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 5-3-2  |  1GW best formation: 5-3-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Vicario                  Spurs          Goalkeeper     5.0       11.77     11.95     
+Calafiori                Arsenal        Defender       5.6       11.52     9.69      
+Senesi                   Bournemouth    Defender       4.5       11.07     9.79      
+Gudmundsson              Leeds          Defender       4.0       10.81     12.46     
+Rodon                    Leeds          Defender       4.0       10.63     12.29     
+Chalobah                 Chelsea        Defender       5.1       10.47     12.30     
+Johnson                  Spurs          Midfielder     7.1       11.32     11.50     
+Semenyo                  Bournemouth    Midfielder     7.4       10.80     9.52      
+Stach                    Leeds          Midfielder     5.0       10.19     11.84     
+Richarlison              Spurs          Forward        6.7       11.45     11.64     
+João Pedro               Chelsea        Forward        7.7       10.33     12.16     
+--------------------------------------------------------------------------------
+BENCH
+Tavernier                Bournemouth    Midfielder     5.5       10.03     8.75      
+Roefs                    Sunderland     Goalkeeper     4.5       9.35      6.96      
+King                     Fulham         Midfielder     4.5       9.33      7.50      
+Mayenda                  Sunderland     Forward        5.5       8.58      6.20      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 125.14
+Starting XI points (3GW): 120.36
+Bench points (1GW):      29.41
+Bench points (3GW):      37.29
+15-Man Team Points (1GW): 154.55
+15-Man Team Points (3GW): 157.65
+Starting budget used: 62.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    82.10 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 5-4-1  |  1GW best formation: 5-4-1
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Vicario                  Spurs          Goalkeeper     5.0       11.77     11.95     
+Calafiori                Arsenal        Defender       5.6       11.52     9.69      
+Senesi                   Bournemouth    Defender       4.5       11.07     9.79      
+Gudmundsson              Leeds          Defender       4.0       10.81     12.46     
+Rodon                    Leeds          Defender       4.0       10.63     12.29     
+Chalobah                 Chelsea        Defender       5.1       10.47     12.30     
+Johnson                  Spurs          Midfielder     7.1       11.32     11.50     
+Semenyo                  Bournemouth    Midfielder     7.4       10.80     9.52      
+Stach                    Leeds          Midfielder     5.0       10.19     11.84     
+Enzo                     Chelsea        Midfielder     6.6       10.15     11.98     
+Richarlison              Spurs          Forward        6.7       11.45     11.64     
+--------------------------------------------------------------------------------
+BENCH
+Leno                     Fulham         Goalkeeper     5.0       9.65      7.82      
+King                     Fulham         Midfielder     4.5       9.33      7.50      
+Mayenda                  Sunderland     Forward        5.5       8.58      6.20      
+Foster                   Burnley        Forward        5.0       5.88      2.04      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 124.96
+Starting XI points (3GW): 120.18
+Bench points (1GW):      23.56
+Bench points (3GW):      33.44
+15-Man Team Points (1GW): 148.52
+15-Man Team Points (3GW): 153.62
+Starting budget used: 61.00
+Bench budget used:    20.00 / 20.00
+Total budget used:    81.00 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 4-3-3  |  1GW best formation: 5-3-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Vicario                  Spurs          Goalkeeper     5.0       11.77     11.95     
+Calafiori                Arsenal        Defender       5.6       11.52     9.69      
+Senesi                   Bournemouth    Defender       4.5       11.07     9.79      
+Gudmundsson              Leeds          Defender       4.0       10.81     12.46     
+Rodon                    Leeds          Defender       4.0       10.63     12.29     
+Chalobah                 Chelsea        Defender       5.1       10.47     12.30     
+Johnson                  Spurs          Midfielder     7.1       11.32     11.50     
+Semenyo                  Bournemouth    Midfielder     7.4       10.80     9.52      
+Stach                    Leeds          Midfielder     5.0       10.19     11.84     
+Richarlison              Spurs          Forward        6.7       11.45     11.64     
+João Pedro               Chelsea        Forward        7.7       10.33     12.16     
+--------------------------------------------------------------------------------
+BENCH
+Gyökeres                 Arsenal        Forward        9.0       9.45      7.62      
+Tavernier                Bournemouth    Midfielder     5.5       10.03     8.75      
+Roefs                    Sunderland     Goalkeeper     4.5       9.35      6.96      
+King                     Fulham         Midfielder     4.5       9.33      7.50      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 125.14
+Starting XI points (3GW): 120.36
+Bench points (1GW):      30.83
+Bench points (3GW):      38.16
+15-Man Team Points (1GW): 155.97
+15-Man Team Points (3GW): 158.52
+Starting budget used: 62.10
+Bench budget used:    23.50 / 20.00
+Total budget used:    85.60 / 100.00
+================================================================================
+
+
+

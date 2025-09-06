@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Vicario                  Spurs          Goalkeeper     5.0       11.77     
+Calafiori                Arsenal        Defender       5.6       11.52     
+Senesi                   Bournemouth    Defender       4.5       11.07     
+Gudmundsson              Leeds          Defender       4.0       10.81     
+Johnson                  Spurs          Midfielder     7.1       11.32     
+Semenyo                  Bournemouth    Midfielder     7.4       10.80     
+Stach                    Leeds          Midfielder     5.0       10.19     
+Enzo                     Chelsea        Midfielder     6.6       10.15     
+Richarlison              Spurs          Forward        6.7       11.45     
+João Pedro               Chelsea        Forward        7.7       10.33     
+Gyökeres                 Arsenal        Forward        9.0       9.45      
+---------------------------------------------------------------------------
+BENCH
+Rodon                    Leeds          Defender       4.0       10.63     
+Chalobah                 Chelsea        Defender       5.1       10.47     
+Tavernier                Bournemouth    Midfielder     5.5       10.03     
+Leno                     Fulham         Goalkeeper     5.0       9.65      
+---------------------------------------------------------------------------
+Starting XI points: 118.86
+Bench points:      40.78
+15-Man Team Points: 159.64
+Starting budget used: 68.60
+Bench budget used:    19.60 / 20.00
+Total budget used:    88.20 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Vicario                  Spurs          Goalkeeper     5.0       11.77     
+Calafiori                Arsenal        Defender       5.6       11.52     
+Senesi                   Bournemouth    Defender       4.5       11.07     
+Gudmundsson              Leeds          Defender       4.0       10.81     
+Johnson                  Spurs          Midfielder     7.1       11.32     
+Semenyo                  Bournemouth    Midfielder     7.4       10.80     
+Stach                    Leeds          Midfielder     5.0       10.19     
+Enzo                     Chelsea        Midfielder     6.6       10.15     
+Tavernier                Bournemouth    Midfielder     5.5       10.03     
+Richarlison              Spurs          Forward        6.7       11.45     
+João Pedro               Chelsea        Forward        7.7       10.33     
+---------------------------------------------------------------------------
+BENCH
+Rodon                    Leeds          Defender       4.0       10.63     
+Chalobah                 Chelsea        Defender       5.1       10.47     
+Leno                     Fulham         Goalkeeper     5.0       9.65      
+Mayenda                  Sunderland     Forward        5.5       8.58      
+---------------------------------------------------------------------------
+Starting XI points: 119.44
+Bench points:      39.33
+15-Man Team Points: 158.77
+Starting budget used: 65.10
+Bench budget used:    19.60 / 20.00
+Total budget used:    84.70 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Vicario                  Spurs          Goalkeeper     5.0       11.77     
+Calafiori                Arsenal        Defender       5.6       11.52     
+Senesi                   Bournemouth    Defender       4.5       11.07     
+Gudmundsson              Leeds          Defender       4.0       10.81     
+Rodon                    Leeds          Defender       4.0       10.63     
+Johnson                  Spurs          Midfielder     7.1       11.32     
+Semenyo                  Bournemouth    Midfielder     7.4       10.80     
+Stach                    Leeds          Midfielder     5.0       10.19     
+Enzo                     Chelsea        Midfielder     6.6       10.15     
+Richarlison              Spurs          Forward        6.7       11.45     
+João Pedro               Chelsea        Forward        7.7       10.33     
+---------------------------------------------------------------------------
+BENCH
+Tavernier                Bournemouth    Midfielder     5.5       10.03     
+Andersen                 Fulham         Defender       4.5       9.78      
+Roefs                    Sunderland     Goalkeeper     4.5       9.35      
+Mayenda                  Sunderland     Forward        5.5       8.58      
+---------------------------------------------------------------------------
+Starting XI points: 120.04
+Bench points:      37.74
+15-Man Team Points: 157.78
+Starting budget used: 63.60
+Bench budget used:    20.00 / 20.00
+Total budget used:    83.60 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Vicario                  Spurs          Goalkeeper     5.0       11.77     
+Calafiori                Arsenal        Defender       5.6       11.52     
+Senesi                   Bournemouth    Defender       4.5       11.07     
+Gudmundsson              Leeds          Defender       4.0       10.81     
+Rodon                    Leeds          Defender       4.0       10.63     
+Johnson                  Spurs          Midfielder     7.1       11.32     
+Semenyo                  Bournemouth    Midfielder     7.4       10.80     
+Stach                    Leeds          Midfielder     5.0       10.19     
+Enzo                     Chelsea        Midfielder     6.6       10.15     
+Tavernier                Bournemouth    Midfielder     5.5       10.03     
+Richarlison              Spurs          Forward        6.7       11.45     
+---------------------------------------------------------------------------
+BENCH
+Andersen                 Fulham         Defender       4.5       9.78      
+Leno                     Fulham         Goalkeeper     5.0       9.65      
+Mayenda                  Sunderland     Forward        5.5       8.58      
+Foster                   Burnley        Forward        5.0       5.88      
+---------------------------------------------------------------------------
+Starting XI points: 119.74
+Bench points:      33.89
+15-Man Team Points: 153.63
+Starting budget used: 61.40
+Bench budget used:    20.00 / 20.00
+Total budget used:    81.40 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Vicario                  Spurs          Goalkeeper     5.0       11.77     
+Calafiori                Arsenal        Defender       5.6       11.52     
+Senesi                   Bournemouth    Defender       4.5       11.07     
+Gudmundsson              Leeds          Defender       4.0       10.81     
+Rodon                    Leeds          Defender       4.0       10.63     
+Chalobah                 Chelsea        Defender       5.1       10.47     
+Johnson                  Spurs          Midfielder     7.1       11.32     
+Semenyo                  Bournemouth    Midfielder     7.4       10.80     
+Stach                    Leeds          Midfielder     5.0       10.19     
+Richarlison              Spurs          Forward        6.7       11.45     
+João Pedro               Chelsea        Forward        7.7       10.33     
+---------------------------------------------------------------------------
+BENCH
+Tavernier                Bournemouth    Midfielder     5.5       10.03     
+Roefs                    Sunderland     Goalkeeper     4.5       9.35      
+King                     Fulham         Midfielder     4.5       9.33      
+Mayenda                  Sunderland     Forward        5.5       8.58      
+---------------------------------------------------------------------------
+Starting XI points: 120.36
+Bench points:      37.29
+15-Man Team Points: 157.65
+Starting budget used: 62.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    82.10 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Vicario                  Spurs          Goalkeeper     5.0       11.77     
+Calafiori                Arsenal        Defender       5.6       11.52     
+Senesi                   Bournemouth    Defender       4.5       11.07     
+Gudmundsson              Leeds          Defender       4.0       10.81     
+Rodon                    Leeds          Defender       4.0       10.63     
+Chalobah                 Chelsea        Defender       5.1       10.47     
+Johnson                  Spurs          Midfielder     7.1       11.32     
+Semenyo                  Bournemouth    Midfielder     7.4       10.80     
+Stach                    Leeds          Midfielder     5.0       10.19     
+Enzo                     Chelsea        Midfielder     6.6       10.15     
+Richarlison              Spurs          Forward        6.7       11.45     
+---------------------------------------------------------------------------
+BENCH
+Leno                     Fulham         Goalkeeper     5.0       9.65      
+King                     Fulham         Midfielder     4.5       9.33      
+Mayenda                  Sunderland     Forward        5.5       8.58      
+Foster                   Burnley        Forward        5.0       5.88      
+---------------------------------------------------------------------------
+Starting XI points: 120.18
+Bench points:      33.44
+15-Man Team Points: 153.62
+Starting budget used: 61.00
+Bench budget used:    20.00 / 20.00
+Total budget used:    81.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Vicario                  Spurs          Goalkeeper     5.0       11.77     
+Calafiori                Arsenal        Defender       5.6       11.52     
+Senesi                   Bournemouth    Defender       4.5       11.07     
+Gudmundsson              Leeds          Defender       4.0       10.81     
+Rodon                    Leeds          Defender       4.0       10.63     
+Johnson                  Spurs          Midfielder     7.1       11.32     
+Semenyo                  Bournemouth    Midfielder     7.4       10.80     
+Stach                    Leeds          Midfielder     5.0       10.19     
+Richarlison              Spurs          Forward        6.7       11.45     
+João Pedro               Chelsea        Forward        7.7       10.33     
+Gyökeres                 Arsenal        Forward        9.0       9.45      
+---------------------------------------------------------------------------
+BENCH
+Chalobah                 Chelsea        Defender       5.1       10.47     
+Tavernier                Bournemouth    Midfielder     5.5       10.03     
+Roefs                    Sunderland     Goalkeeper     4.5       9.35      
+King                     Fulham         Midfielder     4.5       9.33      
+---------------------------------------------------------------------------
+Starting XI points: 119.34
+Bench points:      39.18
+15-Man Team Points: 158.52
+Starting budget used: 66.00
+Bench budget used:    19.60 / 20.00
+Total budget used:    85.60 / 100.00
+===========================================================================
+
+

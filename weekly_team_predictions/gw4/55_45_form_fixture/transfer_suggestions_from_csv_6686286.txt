@@ -1,0 +1,231 @@
+FPL Optimization (predictions CSV) for Entry 6686286
+Bank: 5.40 | Current-15 CSV cost: 94.60
+================================================================================================
+
+Transfers: 0  |  Formation: 4-5-1
+Projected XI points: 84.14 | Bench points: -29994.96
+Cost used: 94.60  (XI 77.70 / Bench 16.90)
+Points Out: 0.00
+Points In: 0.00
+Points Difference: 0.00
+Points Diff %: 0.00%
+Budget Left: 5.40
+
+OUT:
+IN:
+
+STARTING XI:
+  Sánchez                Chelsea         Goalkeeper     5.0   10.81
+  Pedro Porro            Spurs           Defender       5.6   11.05
+  Andersen               Fulham          Defender       4.5    7.95
+  Estève                 Burnley         Defender       4.0    1.77
+  N.Williams             Nott'm Forest   Defender       5.0    2.24
+  Johnson                Spurs           Midfielder     7.1   11.50
+  B.Fernandes            Man Utd         Midfielder     9.0    9.27
+  M.Salah                Liverpool       Midfielder    14.5   10.09
+  Reijnders              Man City        Midfielder     5.7    7.07
+  Wirtz                  Liverpool       Midfielder     8.4    8.74
+  Watkins                Aston Villa     Forward        8.9    3.65
+BENCH:
+  Dúbravka               Burnley         Goalkeeper     4.0    2.04
+  Kroupi.Jr              Bournemouth     Forward        4.5  -9999.00
+  Marc Guiu              Chelsea         Forward        4.4  -9999.00
+  Anderson               Sunderland      Defender       4.0  -9999.00
+
+Suggested (C): Johnson | (VC): Pedro Porro
+------------------------------------------------------------------------------------------------
+
+Transfers: 1  |  Formation: 4-5-1
+Projected XI points: 92.06 | Bench points: -19994.19
+Cost used: 96.20  (XI 79.30 / Bench 16.90)
+Points Out: -9999.00
+Points In: 11.52
+Points Difference: 10010.52
+Points Diff %: -100.12%
+Budget Left: 3.80
+
+OUT:
+  Anderson               Sunderland      Defender       4.0  -9999.00
+IN:
+  Calafiori              Arsenal         Defender       5.6   11.52
+
+STARTING XI:
+  Sánchez                Chelsea         Goalkeeper     5.0   10.81
+  Calafiori              Arsenal         Defender       5.6    9.69
+  Pedro Porro            Spurs           Defender       5.6   11.05
+  Andersen               Fulham          Defender       4.5    7.95
+  N.Williams             Nott'm Forest   Defender       5.0    2.24
+  Johnson                Spurs           Midfielder     7.1   11.50
+  B.Fernandes            Man Utd         Midfielder     9.0    9.27
+  M.Salah                Liverpool       Midfielder    14.5   10.09
+  Reijnders              Man City        Midfielder     5.7    7.07
+  Wirtz                  Liverpool       Midfielder     8.4    8.74
+  Watkins                Aston Villa     Forward        8.9    3.65
+BENCH:
+  Dúbravka               Burnley         Goalkeeper     4.0    2.04
+  Estève                 Burnley         Defender       4.0    1.77
+  Kroupi.Jr              Bournemouth     Forward        4.5  -9999.00
+  Marc Guiu              Chelsea         Forward        4.4  -9999.00
+
+Suggested (C): Johnson | (VC): Pedro Porro
+------------------------------------------------------------------------------------------------
+
+Transfers: 2  |  Formation: 3-5-2
+Projected XI points: 101.46 | Bench points: -9992.95
+Cost used: 98.40  (XI 81.00 / Bench 17.40)
+Points Out: -19998.00
+Points In: 22.97
+Points Difference: 20020.97
+Points Diff %: -100.12%
+Budget Left: 1.60
+
+OUT:
+  Kroupi.Jr              Bournemouth     Forward        4.5  -9999.00
+  Anderson               Sunderland      Defender       4.0  -9999.00
+IN:
+  Calafiori              Arsenal         Defender       5.6   11.52
+  Richarlison            Spurs           Forward        6.7   11.45
+
+STARTING XI:
+  Sánchez                Chelsea         Goalkeeper     5.0   10.81
+  Calafiori              Arsenal         Defender       5.6    9.69
+  Pedro Porro            Spurs           Defender       5.6   11.05
+  Andersen               Fulham          Defender       4.5    7.95
+  Johnson                Spurs           Midfielder     7.1   11.50
+  B.Fernandes            Man Utd         Midfielder     9.0    9.27
+  M.Salah                Liverpool       Midfielder    14.5   10.09
+  Reijnders              Man City        Midfielder     5.7    7.07
+  Wirtz                  Liverpool       Midfielder     8.4    8.74
+  Richarlison            Spurs           Forward        6.7   11.64
+  Watkins                Aston Villa     Forward        8.9    3.65
+BENCH:
+  Dúbravka               Burnley         Goalkeeper     4.0    2.04
+  Estève                 Burnley         Defender       4.0    1.77
+  N.Williams             Nott'm Forest   Defender       5.0    2.24
+  Marc Guiu              Chelsea         Forward        4.4  -9999.00
+
+Suggested (C): Richarlison | (VC): Johnson
+------------------------------------------------------------------------------------------------
+
+Transfers: 3  |  Formation: 4-5-1
+Projected XI points: 107.60 | Bench points: -9991.54
+Cost used: 97.90  (XI 76.60 / Bench 21.30)
+Points Out: -19993.20
+Points In: 34.04
+Points Difference: 20027.24
+Points Diff %: -100.17%
+Budget Left: 2.10
+
+OUT:
+  N.Williams             Nott'm Forest   Defender       5.0    4.80
+  Kroupi.Jr              Bournemouth     Forward        4.5  -9999.00
+  Anderson               Sunderland      Defender       4.0  -9999.00
+IN:
+  Calafiori              Arsenal         Defender       5.6   11.52
+  Richarlison            Spurs           Forward        6.7   11.45
+  Senesi                 Bournemouth     Defender       4.5   11.07
+
+STARTING XI:
+  Sánchez                Chelsea         Goalkeeper     5.0   10.81
+  Calafiori              Arsenal         Defender       5.6    9.69
+  Senesi                 Bournemouth     Defender       4.5    9.79
+  Pedro Porro            Spurs           Defender       5.6   11.05
+  Andersen               Fulham          Defender       4.5    7.95
+  Johnson                Spurs           Midfielder     7.1   11.50
+  B.Fernandes            Man Utd         Midfielder     9.0    9.27
+  M.Salah                Liverpool       Midfielder    14.5   10.09
+  Reijnders              Man City        Midfielder     5.7    7.07
+  Wirtz                  Liverpool       Midfielder     8.4    8.74
+  Richarlison            Spurs           Forward        6.7   11.64
+BENCH:
+  Watkins                Aston Villa     Forward        8.9    3.65
+  Dúbravka               Burnley         Goalkeeper     4.0    2.04
+  Estève                 Burnley         Defender       4.0    1.77
+  Marc Guiu              Chelsea         Forward        4.4  -9999.00
+
+Suggested (C): Richarlison | (VC): Johnson
+------------------------------------------------------------------------------------------------
+
+Transfers: 4  |  Formation: 5-4-1
+Projected XI points: 112.99 | Bench points: -19988.89
+Cost used: 93.50  (XI 74.90 / Bench 18.60)
+Points Out: -9982.36
+Points In: 44.85
+Points Difference: 10027.21
+Points Diff %: -100.45%
+Budget Left: 6.50
+
+OUT:
+  Watkins                Aston Villa     Forward        8.9    6.22
+  Estève                 Burnley         Defender       4.0    5.62
+  N.Williams             Nott'm Forest   Defender       5.0    4.80
+  Anderson               Sunderland      Defender       4.0  -9999.00
+IN:
+  Calafiori              Arsenal         Defender       5.6   11.52
+  Richarlison            Spurs           Forward        6.7   11.45
+  Senesi                 Bournemouth     Defender       4.5   11.07
+  Gudmundsson            Leeds           Defender       4.0   10.81
+
+STARTING XI:
+  Sánchez                Chelsea         Goalkeeper     5.0   10.81
+  Calafiori              Arsenal         Defender       5.6    9.69
+  Senesi                 Bournemouth     Defender       4.5    9.79
+  Pedro Porro            Spurs           Defender       5.6   11.05
+  Gudmundsson            Leeds           Defender       4.0   12.46
+  Andersen               Fulham          Defender       4.5    7.95
+  Johnson                Spurs           Midfielder     7.1   11.50
+  B.Fernandes            Man Utd         Midfielder     9.0    9.27
+  M.Salah                Liverpool       Midfielder    14.5   10.09
+  Wirtz                  Liverpool       Midfielder     8.4    8.74
+  Richarlison            Spurs           Forward        6.7   11.64
+BENCH:
+  Reijnders              Man City        Midfielder     5.7    7.07
+  Dúbravka               Burnley         Goalkeeper     4.0    2.04
+  Kroupi.Jr              Bournemouth     Forward        4.5  -9999.00
+  Marc Guiu              Chelsea         Forward        4.4  -9999.00
+
+Suggested (C): Gudmundsson | (VC): Richarlison
+------------------------------------------------------------------------------------------------
+
+Transfers: 5  |  Formation: 5-4-1
+Projected XI points: 113.77 | Bench points: -19988.89
+Cost used: 92.50  (XI 73.90 / Bench 18.60)
+Points Out: -9976.37
+Points In: 55.65
+Points Difference: 10032.02
+Points Diff %: -100.56%
+Budget Left: 7.50
+
+OUT:
+  Watkins                Aston Villa     Forward        8.9    6.22
+  Wirtz                  Liverpool       Midfielder     8.4    5.99
+  Estève                 Burnley         Defender       4.0    5.62
+  N.Williams             Nott'm Forest   Defender       5.0    4.80
+  Anderson               Sunderland      Defender       4.0  -9999.00
+IN:
+  Calafiori              Arsenal         Defender       5.6   11.52
+  Richarlison            Spurs           Forward        6.7   11.45
+  Senesi                 Bournemouth     Defender       4.5   11.07
+  Gudmundsson            Leeds           Defender       4.0   10.81
+  Semenyo                Bournemouth     Midfielder     7.4   10.80
+
+STARTING XI:
+  Sánchez                Chelsea         Goalkeeper     5.0   10.81
+  Calafiori              Arsenal         Defender       5.6    9.69
+  Senesi                 Bournemouth     Defender       4.5    9.79
+  Pedro Porro            Spurs           Defender       5.6   11.05
+  Gudmundsson            Leeds           Defender       4.0   12.46
+  Andersen               Fulham          Defender       4.5    7.95
+  Johnson                Spurs           Midfielder     7.1   11.50
+  Semenyo                Bournemouth     Midfielder     7.4    9.52
+  B.Fernandes            Man Utd         Midfielder     9.0    9.27
+  M.Salah                Liverpool       Midfielder    14.5   10.09
+  Richarlison            Spurs           Forward        6.7   11.64
+BENCH:
+  Reijnders              Man City        Midfielder     5.7    7.07
+  Dúbravka               Burnley         Goalkeeper     4.0    2.04
+  Kroupi.Jr              Bournemouth     Forward        4.5  -9999.00
+  Marc Guiu              Chelsea         Forward        4.4  -9999.00
+
+Suggested (C): Gudmundsson | (VC): Richarlison
+------------------------------------------------------------------------------------------------

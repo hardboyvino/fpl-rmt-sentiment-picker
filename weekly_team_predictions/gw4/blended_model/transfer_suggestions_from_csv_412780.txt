@@ -1,0 +1,231 @@
+FPL Optimization (predictions CSV) for Entry 412780
+Bank: 3.30 | Current-15 CSV cost: 96.90
+================================================================================================
+
+Transfers: 0  |  Formation: 3-5-2
+Projected XI points: 6.13 | Bench points: -19997.53
+Cost used: 96.90  (XI 80.50 / Bench 16.40)
+Points Out: 0.00
+Points In: 0.00
+Points Difference: 0.00
+Points Diff %: 0.00%
+Budget Left: 3.30
+
+OUT:
+IN:
+
+STARTING XI:
+  Sánchez                Chelsea         Goalkeeper     5.0    0.72
+  Pedro Porro            Spurs           Defender       5.6    0.51
+  Andersen               Fulham          Defender       4.5    0.29
+  N.Williams             Nott'm Forest   Defender       5.0    0.48
+  Semenyo                Bournemouth     Midfielder     7.4    0.67
+  M.Salah                Liverpool       Midfielder    14.5    0.85
+  Reijnders              Man City        Midfielder     5.7    0.42
+  Wirtz                  Liverpool       Midfielder     8.4    0.74
+  B.Fernandes            Man Utd         Midfielder     9.0    0.45
+  Strand Larsen          Wolves          Forward        6.5    0.80
+  Watkins                Aston Villa     Forward        8.9    0.20
+BENCH:
+  Estève                 Burnley         Defender       4.0    0.17
+  Dúbravka               Burnley         Goalkeeper     4.0    0.30
+  Marc Guiu              Chelsea         Forward        4.4  -9999.00
+  Anderson               Sunderland      Defender       4.0  -9999.00
+
+Suggested (C): M.Salah | (VC): Strand Larsen
+------------------------------------------------------------------------------------------------
+
+Transfers: 1  |  Formation: 4-5-1
+Projected XI points: 6.43 | Bench points: -9998.33
+Cost used: 97.90  (XI 76.60 / Bench 21.30)
+Points Out: -9999.00
+Points In: 0.91
+Points Difference: 9999.91
+Points Diff %: -100.01%
+Budget Left: 2.30
+
+OUT:
+  Anderson               Sunderland      Defender       4.0  -9999.00
+IN:
+  Romero                 Spurs           Defender       5.0    0.91
+
+STARTING XI:
+  Sánchez                Chelsea         Goalkeeper     5.0    0.72
+  Romero                 Spurs           Defender       5.0    0.50
+  Pedro Porro            Spurs           Defender       5.6    0.51
+  Andersen               Fulham          Defender       4.5    0.29
+  N.Williams             Nott'm Forest   Defender       5.0    0.48
+  Semenyo                Bournemouth     Midfielder     7.4    0.67
+  M.Salah                Liverpool       Midfielder    14.5    0.85
+  Reijnders              Man City        Midfielder     5.7    0.42
+  Wirtz                  Liverpool       Midfielder     8.4    0.74
+  B.Fernandes            Man Utd         Midfielder     9.0    0.45
+  Strand Larsen          Wolves          Forward        6.5    0.80
+BENCH:
+  Estève                 Burnley         Defender       4.0    0.17
+  Watkins                Aston Villa     Forward        8.9    0.20
+  Dúbravka               Burnley         Goalkeeper     4.0    0.30
+  Marc Guiu              Chelsea         Forward        4.4  -9999.00
+
+Suggested (C): M.Salah | (VC): Strand Larsen
+------------------------------------------------------------------------------------------------
+
+Transfers: 2  |  Formation: 4-5-1
+Projected XI points: 6.91 | Bench points: -9998.33
+Cost used: 93.90  (XI 72.60 / Bench 21.30)
+Points Out: -9998.61
+Points In: 1.83
+Points Difference: 10000.43
+Points Diff %: -100.02%
+Budget Left: 6.30
+
+OUT:
+  B.Fernandes            Man Utd         Midfielder     9.0    0.39
+  Anderson               Sunderland      Defender       4.0  -9999.00
+IN:
+  Stach                  Leeds           Midfielder     5.0    0.92
+  Romero                 Spurs           Defender       5.0    0.91
+
+STARTING XI:
+  Sánchez                Chelsea         Goalkeeper     5.0    0.72
+  Romero                 Spurs           Defender       5.0    0.50
+  Pedro Porro            Spurs           Defender       5.6    0.51
+  Andersen               Fulham          Defender       4.5    0.29
+  N.Williams             Nott'm Forest   Defender       5.0    0.48
+  Stach                  Leeds           Midfielder     5.0    0.93
+  Semenyo                Bournemouth     Midfielder     7.4    0.67
+  M.Salah                Liverpool       Midfielder    14.5    0.85
+  Reijnders              Man City        Midfielder     5.7    0.42
+  Wirtz                  Liverpool       Midfielder     8.4    0.74
+  Strand Larsen          Wolves          Forward        6.5    0.80
+BENCH:
+  Estève                 Burnley         Defender       4.0    0.17
+  Watkins                Aston Villa     Forward        8.9    0.20
+  Dúbravka               Burnley         Goalkeeper     4.0    0.30
+  Marc Guiu              Chelsea         Forward        4.4  -9999.00
+
+Suggested (C): Stach | (VC): M.Salah
+------------------------------------------------------------------------------------------------
+
+Transfers: 3  |  Formation: 3-5-2
+Projected XI points: 7.15 | Bench points: -9998.24
+Cost used: 99.10  (XI 82.20 / Bench 16.90)
+Points Out: -9998.35
+Points In: 2.61
+Points Difference: 10000.97
+Points Diff %: -100.03%
+Budget Left: 1.10
+
+OUT:
+  B.Fernandes            Man Utd         Midfielder     9.0    0.39
+  Watkins                Aston Villa     Forward        8.9    0.25
+  Anderson               Sunderland      Defender       4.0  -9999.00
+IN:
+  Stach                  Leeds           Midfielder     5.0    0.92
+  Romero                 Spurs           Defender       5.0    0.91
+  Haaland                Man City        Forward       14.1    0.79
+
+STARTING XI:
+  Sánchez                Chelsea         Goalkeeper     5.0    0.72
+  Romero                 Spurs           Defender       5.0    0.50
+  Pedro Porro            Spurs           Defender       5.6    0.51
+  N.Williams             Nott'm Forest   Defender       5.0    0.48
+  Stach                  Leeds           Midfielder     5.0    0.93
+  Semenyo                Bournemouth     Midfielder     7.4    0.67
+  M.Salah                Liverpool       Midfielder    14.5    0.85
+  Reijnders              Man City        Midfielder     5.7    0.42
+  Wirtz                  Liverpool       Midfielder     8.4    0.74
+  Haaland                Man City        Forward       14.1    0.53
+  Strand Larsen          Wolves          Forward        6.5    0.80
+BENCH:
+  Andersen               Fulham          Defender       4.5    0.29
+  Estève                 Burnley         Defender       4.0    0.17
+  Dúbravka               Burnley         Goalkeeper     4.0    0.30
+  Marc Guiu              Chelsea         Forward        4.4  -9999.00
+
+Suggested (C): Stach | (VC): M.Salah
+------------------------------------------------------------------------------------------------
+
+Transfers: 4  |  Formation: 3-5-2
+Projected XI points: 7.15 | Bench points: -9998.24
+Cost used: 95.70  (XI 78.80 / Bench 16.90)
+Points Out: -9997.93
+Points In: 3.51
+Points Difference: 10001.44
+Points Diff %: -100.04%
+Budget Left: 4.50
+
+OUT:
+  Wirtz                  Liverpool       Midfielder     8.4    0.42
+  B.Fernandes            Man Utd         Midfielder     9.0    0.39
+  Watkins                Aston Villa     Forward        8.9    0.25
+  Anderson               Sunderland      Defender       4.0  -9999.00
+IN:
+  Stach                  Leeds           Midfielder     5.0    0.92
+  Romero                 Spurs           Defender       5.0    0.91
+  Lukić                  Fulham          Midfielder     5.0    0.90
+  Haaland                Man City        Forward       14.1    0.79
+
+STARTING XI:
+  Sánchez                Chelsea         Goalkeeper     5.0    0.72
+  Romero                 Spurs           Defender       5.0    0.50
+  Pedro Porro            Spurs           Defender       5.6    0.51
+  N.Williams             Nott'm Forest   Defender       5.0    0.48
+  Stach                  Leeds           Midfielder     5.0    0.93
+  Lukić                  Fulham          Midfielder     5.0    0.75
+  Semenyo                Bournemouth     Midfielder     7.4    0.67
+  M.Salah                Liverpool       Midfielder    14.5    0.85
+  Reijnders              Man City        Midfielder     5.7    0.42
+  Haaland                Man City        Forward       14.1    0.53
+  Strand Larsen          Wolves          Forward        6.5    0.80
+BENCH:
+  Andersen               Fulham          Defender       4.5    0.29
+  Estève                 Burnley         Defender       4.0    0.17
+  Dúbravka               Burnley         Goalkeeper     4.0    0.30
+  Marc Guiu              Chelsea         Forward        4.4  -9999.00
+
+Suggested (C): Stach | (VC): M.Salah
+------------------------------------------------------------------------------------------------
+
+Transfers: 5  |  Formation: 3-5-2
+Projected XI points: 7.32 | Bench points: -9998.24
+Cost used: 95.20  (XI 78.30 / Bench 16.90)
+Points Out: -9997.60
+Points In: 4.40
+Points Difference: 10001.99
+Points Diff %: -100.04%
+Budget Left: 5.00
+
+OUT:
+  Wirtz                  Liverpool       Midfielder     8.4    0.42
+  B.Fernandes            Man Utd         Midfielder     9.0    0.39
+  N.Williams             Nott'm Forest   Defender       5.0    0.33
+  Watkins                Aston Villa     Forward        8.9    0.25
+  Anderson               Sunderland      Defender       4.0  -9999.00
+IN:
+  Stach                  Leeds           Midfielder     5.0    0.92
+  Romero                 Spurs           Defender       5.0    0.91
+  Lukić                  Fulham          Midfielder     5.0    0.90
+  Spence                 Spurs           Defender       4.5    0.88
+  Haaland                Man City        Forward       14.1    0.79
+
+STARTING XI:
+  Sánchez                Chelsea         Goalkeeper     5.0    0.72
+  Romero                 Spurs           Defender       5.0    0.50
+  Spence                 Spurs           Defender       4.5    0.65
+  Pedro Porro            Spurs           Defender       5.6    0.51
+  Stach                  Leeds           Midfielder     5.0    0.93
+  Lukić                  Fulham          Midfielder     5.0    0.75
+  Semenyo                Bournemouth     Midfielder     7.4    0.67
+  M.Salah                Liverpool       Midfielder    14.5    0.85
+  Reijnders              Man City        Midfielder     5.7    0.42
+  Haaland                Man City        Forward       14.1    0.53
+  Strand Larsen          Wolves          Forward        6.5    0.80
+BENCH:
+  Andersen               Fulham          Defender       4.5    0.29
+  Estève                 Burnley         Defender       4.0    0.17
+  Dúbravka               Burnley         Goalkeeper     4.0    0.30
+  Marc Guiu              Chelsea         Forward        4.4  -9999.00
+
+Suggested (C): Stach | (VC): M.Salah
+------------------------------------------------------------------------------------------------

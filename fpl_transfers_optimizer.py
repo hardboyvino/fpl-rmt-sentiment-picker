@@ -234,6 +234,22 @@ def _arrange_best_xi_for_fixed_squad(
     b_sel = [i for i in selected_pids if i not in y_sel]
     return y_sel, b_sel
 
+def _arrange_best_xi_over_formations_for_fixed_squad(
+    selected_pids: List[int],
+    pts_dict: Dict[int, float],
+    pos_dict: Dict[int, str],
+    formations: List[Tuple[int,int,int]],
+):
+    best = None
+    best_key = None
+    for f in formations:
+        xi, bench = _arrange_best_xi_for_fixed_squad(selected_pids, pts_dict, pos_dict, f)
+        pts_xi = sum(pts_dict[i] for i in xi)
+        key = (pts_xi,)
+        if best_key is None or key > best_key:
+            best_key = key
+            best = {"formation": f, "xi": xi, "bench": bench, "xi_points": pts_xi}
+    return best
 
 
 # ------------------------ Optimization ------------------------ #
@@ -253,6 +269,8 @@ def optimize_k(
     exclude_teams: Set[str] = None,
     block_add_names: Set[str] = None,
     solver_msg: bool = False,
+    arrange_points_by_key: Dict[str, float] | None = None,
+    arrange_over_formations: bool = True,
 ):
     """
     Choose transfers (≤ k), select a 15-man squad, and then arrange XI+bench.
@@ -390,8 +408,27 @@ def optimize_k(
         x_sel = [i for i in id_list if value(x[i]) > 0.5]
         # NOTE: y/b from this stage might be skewed if a bench cap was applied; we’ll re-arrange next.
 
+        # Map PID -> 1GW arrangement points (fallback to preds pts if not provided)
+        key_by_pid = df.set_index("PID")["key"].to_dict()
+        if arrange_points_by_key is not None:
+            arrange_pts_by_pid = {pid: float(arrange_points_by_key.get(key_by_pid[pid], pts[pid])) for pid in id_list}
+        else:
+            arrange_pts_by_pid = pts
+
         # --- Re-arrange best XI for the fixed squad (guarantees maximum XI points) ---
         y_sel, b_sel = _arrange_best_xi_for_fixed_squad(x_sel, pts, pos, (DEF, MID, FWD))
+
+        # (A) Preds-based XI for THIS formation (used to rank solutions by preds)
+        y_sel_pred, b_sel_pred = _arrange_best_xi_for_fixed_squad(x_sel, pts, pos, (DEF, MID, FWD))
+
+        # (B) 1GW-based XI; allow ANY valid formation if requested (used for reporting/selection order)
+        if arrange_over_formations:
+            best_arr = _arrange_best_xi_over_formations_for_fixed_squad(x_sel, arrange_pts_by_pid, pos, formations)
+            y_sel_arr, b_sel_arr = best_arr["xi"], best_arr["bench"]
+            arr_formation = best_arr["formation"]
+        else:
+            y_sel_arr, b_sel_arr = _arrange_best_xi_for_fixed_squad(x_sel, arrange_pts_by_pid, pos, (DEF, MID, FWD))
+            arr_formation = (DEF, MID, FWD)
 
         # Transfers
         out_pids = sorted(list(current_pids - set(x_sel)))
@@ -404,21 +441,41 @@ def optimize_k(
         start_cost = sum(price[i] for i in y_sel)
         bench_cost = sum(price[i] for i in b_sel)
 
+        # Preds metrics (used for 'best' selection across formation loops)
+        start_pts_pred  = sum(pts[i] for i in y_sel_pred)
+        bench_pts_pred  = sum(pts[i] for i in b_sel_pred)
+
+        # 1GW arrangement metrics (for printing/sorting)
+        start_pts_arr   = sum(arrange_pts_by_pid[i] for i in y_sel_arr)
+        bench_pts_arr   = sum(arrange_pts_by_pid[i] for i in b_sel_arr)
+
         points_out = sum(pts[i] for i in out_pids)
         points_in  = sum(pts[i] for i in in_pids)
         points_diff = points_in - points_out
         points_diff_pct = points_diff / (points_out + 0.1)
         budget_left = (total_current_cost + bank_m) - total_cost
 
-        key = (start_pts, -total_cost, bench_pts)
+        key = (start_pts_pred, -total_cost, bench_pts_pred)
+
         payload = {
             "formation": (DEF, MID, FWD),
-            "selected": x_sel, "starting": y_sel, "bench": b_sel,
-            "out": out_pids, "in": in_pids,
-            "starting_points": start_pts, "bench_points": bench_pts,
-            "total_cost": total_cost, "starting_cost": start_cost, "bench_cost": bench_cost,
-            "points_out": points_out, "points_in": points_in,
-            "points_diff": points_diff, "points_diff_pct": points_diff_pct,
+            "arrangement_formation": arr_formation,
+            "selected": x_sel, 
+            "starting": y_sel_arr, 
+            "bench": b_sel_arr,
+            "out": out_pids, 
+            "in": in_pids,
+            "starting_points": start_pts_pred, 
+            "bench_points": bench_pts_pred,
+            "starting_points_arr": start_pts_arr,
+            "bench_points_arr": bench_pts_arr,
+            "total_cost": total_cost, 
+            "starting_cost": sum(price[i] for i in y_sel_arr),
+            "bench_cost": sum(price[i] for i in b_sel_arr),
+            "points_out": points_out, 
+            "points_in": points_in,
+            "points_diff": points_diff, 
+            "points_diff_pct": points_diff_pct,
             "budget_left": budget_left,
             "_df": df,
         }
@@ -430,9 +487,10 @@ def optimize_k(
 
 # ------------------------ Reporting ------------------------ #
 
-def write_report(entry_id: int, bank_m: float, owned_df: pd.DataFrame, k_results: Dict[int, dict], outfile: str):
-    def row_str(r) -> str:
-        return f"{r['Name']:<22} {r['Team']:<15} {r['Position']:<12} {float(r['Price']):>5.1f}  {float(r['Points']):>6.2f}"
+def write_report(entry_id: int, bank_m: float, owned_df: pd.DataFrame, k_results: Dict[int, dict], outfile: str, arrange_points_by_key=None):
+    def row_str(r, pts_override=None) -> str:
+        pts_val = float(pts_override) if pts_override is not None else float(r["Points"])
+        return f"{r['Name']:<22} {r['Team']:<15} {r['Position']:<12} {float(r['Price']):>5.1f}  {pts_val:>6.2f}"
 
     lines = []
     lines.append(f"FPL Optimization (predictions CSV) for Entry {entry_id}")
@@ -440,15 +498,23 @@ def write_report(entry_id: int, bank_m: float, owned_df: pd.DataFrame, k_results
     lines.append("="*96 + "\n")
 
     for k in sorted(k_results.keys()):
+        arr_map = None
+        # Build once from any result that has arrangement; or pass it in as a param if you prefer
+        # (Simplest: re-use 'arrange_points_by_key' you created in main and pass it into write_report)
+
         res = k_results[k]
         if not res:
             lines.append(f"Transfers: {k}\nNO FEASIBLE SOLUTION\n" + "-"*96 + "\n")
             continue
 
         df = res["_df"].set_index("PID")
-        DEF, MID, FWD = res["formation"]
+        DEF, MID, FWD = res.get("arrangement_formation", res["formation"])
         lines.append(f"Transfers: {k}  |  Formation: {DEF}-{MID}-{FWD}")
-        lines.append(f"Projected XI points: {res['starting_points']:.2f} | Bench points: {res['bench_points']:.2f}")
+
+        xi_pts    = res.get("starting_points_arr", res["starting_points"])
+        bench_pts = res.get("bench_points_arr",   res["bench_points"])
+        lines.append(f"Projected XI points: {xi_pts:.2f} | Bench points: {bench_pts:.2f}")
+
         lines.append(f"Cost used: {res['total_cost']:.2f}  (XI {res['starting_cost']:.2f} / Bench {res['bench_cost']:.2f})")
 
         lines.append(f"Points Out: {res['points_out']:.2f}")
@@ -471,18 +537,33 @@ def write_report(entry_id: int, bank_m: float, owned_df: pd.DataFrame, k_results
         for P in ["Goalkeeper", "Defender", "Midfielder", "Forward"]:
             for pid in res["starting"]:
                 if df.loc[pid, "Position"] == P:
-                    lines.append("  " + row_str(df.loc[pid]))
+                    pts_override = None
+                    if arrange_points_by_key is not None:
+                        key = df.loc[pid, "key"]
+                        pts_override = arrange_points_by_key.get(key, df.loc[pid, "Points"])
+                    lines.append("  " + row_str(df.loc[pid], pts_override))
 
         lines.append("BENCH:")
         for pid in res["bench"]:
-            lines.append("  " + row_str(df.loc[pid]))
+            pts_override = None
+            if arrange_points_by_key is not None:
+                key = df.loc[pid, "key"]
+                pts_override = arrange_points_by_key.get(key, df.loc[pid, "Points"])
+            lines.append("  " + row_str(df.loc[pid], pts_override))
 
         # Simple captain suggestion: top XI by Points
-        xi_sorted = sorted(res["starting"], key=lambda pid: float(df.loc[pid, "Points"]), reverse=True)
+        # Captain based on arrangement (1GW) if available, else preds
+        def _pts_for(pid):
+            if arrange_points_by_key is not None:
+                return float(arrange_points_by_key.get(df.loc[pid, "key"], df.loc[pid, "Points"]))
+            return float(df.loc[pid, "Points"])
+
+        xi_sorted = sorted(res["starting"], key=lambda pid: _pts_for(pid), reverse=True)
         if xi_sorted:
             cap = df.loc[xi_sorted[0], "Name"]
             vc  = df.loc[xi_sorted[1], "Name"] if len(xi_sorted) > 1 else None
             lines.append(f"\nSuggested (C): {cap} | (VC): {vc}")
+
 
         lines.append("-"*96 + "\n")
 
@@ -498,6 +579,9 @@ def parse_args():
     p = argparse.ArgumentParser(description="FPL optimizer using your predictions CSV as the scoring basis.")
     p.add_argument("--entry", type=int, required=True, help="FPL entry (manager) ID")
     p.add_argument("--preds", type=str, required=True, help="Path to CSV with prediction data (Name,Price,Position,Team,Points)")
+    p.add_argument(
+    "--arrange", type=str, default=None,
+    help="Optional 1GW CSV used only to arrange/sort the XI/bench; transfers still optimized from --preds.")
     p.add_argument("--max_transfers", type=int, default=5)
     p.add_argument("--bench_budget", type=float, default=20.0)
     p.add_argument("--max_per_team", type=int, default=3)
@@ -558,6 +642,11 @@ def main():
 
     # Load predictions CSV & map current squad
     preds_df = load_predictions_csv(args.preds)
+    arrange_points_by_key = None
+    if args.arrange:
+        arrange_df = load_predictions_csv(args.arrange)
+        arrange_points_by_key = arrange_df.set_index("key")["Points"].astype(float).to_dict()
+
     pool_df, owned_df, warn = map_current_ids_to_csv_rows(current_ids, elements_api, preds_df)
     for w in warn:
         print(f"NOTE: {w['Name']} ({w['Team']}): {w['note']}", file=sys.stderr)
@@ -583,12 +672,14 @@ def main():
             include_teams=set(args.include_teams or []),
             exclude_teams=set(args.exclude_teams or []),
             block_add_names=set(args.block_add or []),
-            solver_msg=args.solver_msg
+            solver_msg=args.solver_msg,
+            arrange_points_by_key=arrange_points_by_key,
+            arrange_over_formations=True,
         )
         results[k] = res
 
     outfile = args.outfile or f"transfer_suggestions_from_csv_{args.entry}.txt"
-    write_report(args.entry, bank_m, owned_df, results, outfile)
+    write_report(args.entry, bank_m, owned_df, results, outfile, arrange_points_by_key=arrange_points_by_key)
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       13.70     
+Livramento               Newcastle      Defender       5.1       13.84     
+Burn                     Newcastle      Defender       5.0       13.56     
+Gudmundsson              Leeds          Defender       4.0       12.46     
+Grealish                 Everton        Midfielder     6.7       13.74     
+Ndiaye                   Everton        Midfielder     6.5       13.02     
+Garner                   Everton        Midfielder     5.0       12.84     
+Enzo                     Chelsea        Midfielder     6.6       11.98     
+João Pedro               Chelsea        Forward        7.7       12.16     
+Richarlison              Spurs          Forward        6.7       11.64     
+Ekitiké                  Liverpool      Forward        8.7       10.99     
+---------------------------------------------------------------------------
+BENCH
+Chalobah                 Chelsea        Defender       5.1       12.30     
+Rodon                    Leeds          Defender       4.0       12.29     
+Vicario                  Spurs          Goalkeeper     5.0       11.95     
+Stach                    Leeds          Midfielder     5.0       11.84     
+---------------------------------------------------------------------------
+Starting XI points: 139.93
+Bench points:      48.38
+15-Man Team Points: 188.31
+Starting budget used: 67.00
+Bench budget used:    19.10 / 20.00
+Total budget used:    86.10 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       13.70     
+Livramento               Newcastle      Defender       5.1       13.84     
+Burn                     Newcastle      Defender       5.0       13.56     
+Gudmundsson              Leeds          Defender       4.0       12.46     
+Grealish                 Everton        Midfielder     6.7       13.74     
+Ndiaye                   Everton        Midfielder     6.5       13.02     
+Dewsbury-Hall            Everton        Midfielder     5.0       12.84     
+Enzo                     Chelsea        Midfielder     6.6       11.98     
+Stach                    Leeds          Midfielder     5.0       11.84     
+João Pedro               Chelsea        Forward        7.7       12.16     
+Richarlison              Spurs          Forward        6.7       11.64     
+---------------------------------------------------------------------------
+BENCH
+Chalobah                 Chelsea        Defender       5.1       12.30     
+Vicario                  Spurs          Goalkeeper     5.0       11.95     
+Spence                   Spurs          Defender       4.5       10.74     
+Piroe                    Leeds          Forward        5.4       10.35     
+---------------------------------------------------------------------------
+Starting XI points: 140.78
+Bench points:      45.34
+15-Man Team Points: 186.12
+Starting budget used: 63.30
+Bench budget used:    20.00 / 20.00
+Total budget used:    83.30 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       13.70     
+Livramento               Newcastle      Defender       5.1       13.84     
+Burn                     Newcastle      Defender       5.0       13.56     
+Gudmundsson              Leeds          Defender       4.0       12.46     
+Chalobah                 Chelsea        Defender       5.1       12.30     
+Grealish                 Everton        Midfielder     6.7       13.74     
+Ndiaye                   Everton        Midfielder     6.5       13.02     
+Dewsbury-Hall            Everton        Midfielder     5.0       12.84     
+Enzo                     Chelsea        Midfielder     6.6       11.98     
+João Pedro               Chelsea        Forward        7.7       12.16     
+Richarlison              Spurs          Forward        6.7       11.64     
+---------------------------------------------------------------------------
+BENCH
+Rodon                    Leeds          Defender       4.0       12.29     
+Vicario                  Spurs          Goalkeeper     5.0       11.95     
+Munetsi                  Wolves         Midfielder     5.5       10.70     
+Piroe                    Leeds          Forward        5.4       10.35     
+---------------------------------------------------------------------------
+Starting XI points: 141.24
+Bench points:      45.29
+15-Man Team Points: 186.53
+Starting budget used: 63.40
+Bench budget used:    19.90 / 20.00
+Total budget used:    83.30 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       13.70     
+Livramento               Newcastle      Defender       5.1       13.84     
+Burn                     Newcastle      Defender       5.0       13.56     
+Gudmundsson              Leeds          Defender       4.0       12.46     
+Chalobah                 Chelsea        Defender       5.1       12.30     
+Grealish                 Everton        Midfielder     6.7       13.74     
+Ndiaye                   Everton        Midfielder     6.5       13.02     
+Dewsbury-Hall            Everton        Midfielder     5.0       12.84     
+Enzo                     Chelsea        Midfielder     6.6       11.98     
+Stach                    Leeds          Midfielder     5.0       11.84     
+João Pedro               Chelsea        Forward        7.7       12.16     
+---------------------------------------------------------------------------
+BENCH
+Spence                   Spurs          Defender       4.5       10.74     
+Piroe                    Leeds          Forward        5.4       10.35     
+José Sá                  Wolves         Goalkeeper     4.5       9.94      
+Mayenda                  Sunderland     Forward        5.5       6.20      
+---------------------------------------------------------------------------
+Starting XI points: 141.44
+Bench points:      37.23
+15-Man Team Points: 178.67
+Starting budget used: 61.70
+Bench budget used:    19.90 / 20.00
+Total budget used:    81.60 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       13.70     
+Livramento               Newcastle      Defender       5.1       13.84     
+Burn                     Newcastle      Defender       5.0       13.56     
+Gudmundsson              Leeds          Defender       4.0       12.46     
+Chalobah                 Chelsea        Defender       5.1       12.30     
+Rodon                    Leeds          Defender       4.0       12.29     
+Grealish                 Everton        Midfielder     6.7       13.74     
+Ndiaye                   Everton        Midfielder     6.5       13.02     
+Garner                   Everton        Midfielder     5.0       12.84     
+João Pedro               Chelsea        Forward        7.7       12.16     
+Richarlison              Spurs          Forward        6.7       11.64     
+---------------------------------------------------------------------------
+BENCH
+Vicario                  Spurs          Goalkeeper     5.0       11.95     
+P.M.Sarr                 Spurs          Midfielder     5.0       10.46     
+Piroe                    Leeds          Forward        5.4       10.35     
+King                     Fulham         Midfielder     4.5       7.50      
+---------------------------------------------------------------------------
+Starting XI points: 141.55
+Bench points:      40.26
+15-Man Team Points: 181.81
+Starting budget used: 60.80
+Bench budget used:    19.90 / 20.00
+Total budget used:    80.70 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       13.70     
+Livramento               Newcastle      Defender       5.1       13.84     
+Burn                     Newcastle      Defender       5.0       13.56     
+Gudmundsson              Leeds          Defender       4.0       12.46     
+Chalobah                 Chelsea        Defender       5.1       12.30     
+Rodon                    Leeds          Defender       4.0       12.29     
+Grealish                 Everton        Midfielder     6.7       13.74     
+Ndiaye                   Everton        Midfielder     6.5       13.02     
+Garner                   Everton        Midfielder     5.0       12.84     
+Enzo                     Chelsea        Midfielder     6.6       11.98     
+João Pedro               Chelsea        Forward        7.7       12.16     
+---------------------------------------------------------------------------
+BENCH
+Piroe                    Leeds          Forward        5.4       10.35     
+José Sá                  Wolves         Goalkeeper     4.5       9.94      
+King                     Fulham         Midfielder     4.5       7.50      
+Mayenda                  Sunderland     Forward        5.5       6.20      
+---------------------------------------------------------------------------
+Starting XI points: 141.89
+Bench points:      33.99
+15-Man Team Points: 175.88
+Starting budget used: 60.70
+Bench budget used:    19.90 / 20.00
+Total budget used:    80.60 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.0       13.70     
+Livramento               Newcastle      Defender       5.1       13.84     
+Burn                     Newcastle      Defender       5.0       13.56     
+Gudmundsson              Leeds          Defender       4.0       12.46     
+Chalobah                 Chelsea        Defender       5.1       12.30     
+Grealish                 Everton        Midfielder     6.7       13.74     
+Ndiaye                   Everton        Midfielder     6.5       13.02     
+Garner                   Everton        Midfielder     5.0       12.84     
+João Pedro               Chelsea        Forward        7.7       12.16     
+Richarlison              Spurs          Forward        6.7       11.64     
+Ekitiké                  Liverpool      Forward        8.7       10.99     
+---------------------------------------------------------------------------
+BENCH
+Rodon                    Leeds          Defender       4.0       12.29     
+Vicario                  Spurs          Goalkeeper     5.0       11.95     
+Stach                    Leeds          Midfielder     5.0       11.84     
+Caicedo                  Chelsea        Midfielder     5.5       10.81     
+---------------------------------------------------------------------------
+Starting XI points: 140.25
+Bench points:      46.89
+15-Man Team Points: 187.14
+Starting budget used: 65.50
+Bench budget used:    19.50 / 20.00
+Total budget used:    85.00 / 100.00
+===========================================================================
+
+
