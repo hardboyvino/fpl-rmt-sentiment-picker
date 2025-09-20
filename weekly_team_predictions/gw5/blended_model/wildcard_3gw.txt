@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.5       0.87      
+Gabriel                  Arsenal        Defender       6.1       0.79      
+Hartman                  Burnley        Defender       4.0       0.74      
+Spence                   Spurs          Defender       4.5       0.73      
+Xhaka                    Sunderland     Midfielder     5.0       0.94      
+Grealish                 Everton        Midfielder     6.8       0.86      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.86      
+Bentancur                Spurs          Midfielder     5.4       0.85      
+João Pedro               Chelsea        Forward        7.8       0.87      
+Gyökeres                 Arsenal        Forward        9.0       0.75      
+Watkins                  Aston Villa    Forward        8.8       0.71      
+---------------------------------------------------------------------------
+BENCH
+Pickford                 Everton        Goalkeeper     5.5       0.84      
+Lukić                    Fulham         Midfielder     5.0       0.77      
+Lacroix                  Crystal Palace Defender       5.0       0.70      
+Truffert                 Bournemouth    Defender       4.5       0.70      
+---------------------------------------------------------------------------
+Starting XI points: 8.97
+Bench points:      3.02
+15-Man Team Points: 11.99
+Starting budget used: 67.90
+Bench budget used:    20.00 / 20.00
+Total budget used:    87.90 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.5       0.87      
+Gabriel                  Arsenal        Defender       6.1       0.79      
+Hartman                  Burnley        Defender       4.0       0.74      
+Spence                   Spurs          Defender       4.5       0.73      
+Xhaka                    Sunderland     Midfielder     5.0       0.94      
+Grealish                 Everton        Midfielder     6.8       0.86      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.86      
+Bentancur                Spurs          Midfielder     5.4       0.85      
+Lukić                    Fulham         Midfielder     5.0       0.77      
+João Pedro               Chelsea        Forward        7.8       0.87      
+Gyökeres                 Arsenal        Forward        9.0       0.75      
+---------------------------------------------------------------------------
+BENCH
+Pickford                 Everton        Goalkeeper     5.5       0.84      
+Lacroix                  Crystal Palace Defender       5.0       0.70      
+Truffert                 Bournemouth    Defender       4.5       0.70      
+Foster                   Burnley        Forward        5.0       0.61      
+---------------------------------------------------------------------------
+Starting XI points: 9.03
+Bench points:      2.85
+15-Man Team Points: 11.88
+Starting budget used: 64.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    84.10 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.5       0.87      
+Gabriel                  Arsenal        Defender       6.1       0.79      
+Hartman                  Burnley        Defender       4.0       0.74      
+Spence                   Spurs          Defender       4.5       0.73      
+Lacroix                  Crystal Palace Defender       5.0       0.70      
+Xhaka                    Sunderland     Midfielder     5.0       0.94      
+Grealish                 Everton        Midfielder     6.8       0.86      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.86      
+Bentancur                Spurs          Midfielder     5.4       0.85      
+João Pedro               Chelsea        Forward        7.8       0.87      
+Gyökeres                 Arsenal        Forward        9.0       0.75      
+---------------------------------------------------------------------------
+BENCH
+Pickford                 Everton        Goalkeeper     5.5       0.84      
+Lukić                    Fulham         Midfielder     5.0       0.77      
+Truffert                 Bournemouth    Defender       4.5       0.70      
+Foster                   Burnley        Forward        5.0       0.61      
+---------------------------------------------------------------------------
+Starting XI points: 8.96
+Bench points:      2.92
+15-Man Team Points: 11.88
+Starting budget used: 64.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    84.10 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.5       0.87      
+Gabriel                  Arsenal        Defender       6.1       0.79      
+Hartman                  Burnley        Defender       4.0       0.74      
+Spence                   Spurs          Defender       4.5       0.73      
+Lacroix                  Crystal Palace Defender       5.0       0.70      
+Xhaka                    Sunderland     Midfielder     5.0       0.94      
+Grealish                 Everton        Midfielder     6.8       0.86      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.86      
+Bentancur                Spurs          Midfielder     5.4       0.85      
+Lukić                    Fulham         Midfielder     5.0       0.77      
+João Pedro               Chelsea        Forward        7.8       0.87      
+---------------------------------------------------------------------------
+BENCH
+Pickford                 Everton        Goalkeeper     5.5       0.84      
+Ekdal                    Burnley        Defender       4.0       0.69      
+Foster                   Burnley        Forward        5.0       0.61      
+Muniz                    Fulham         Forward        5.5       0.54      
+---------------------------------------------------------------------------
+Starting XI points: 8.99
+Bench points:      2.68
+15-Man Team Points: 11.66
+Starting budget used: 60.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    80.10 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.5       0.87      
+Gabriel                  Arsenal        Defender       6.1       0.79      
+Hartman                  Burnley        Defender       4.0       0.74      
+Spence                   Spurs          Defender       4.5       0.73      
+Lacroix                  Crystal Palace Defender       5.0       0.70      
+Truffert                 Bournemouth    Defender       4.5       0.70      
+Xhaka                    Sunderland     Midfielder     5.0       0.94      
+Grealish                 Everton        Midfielder     6.8       0.86      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.86      
+João Pedro               Chelsea        Forward        7.8       0.87      
+Gyökeres                 Arsenal        Forward        9.0       0.75      
+---------------------------------------------------------------------------
+BENCH
+Bentancur                Spurs          Midfielder     5.4       0.85      
+Lukić                    Fulham         Midfielder     5.0       0.77      
+Petrović                 Bournemouth    Goalkeeper     4.5       0.77      
+Foster                   Burnley        Forward        5.0       0.61      
+---------------------------------------------------------------------------
+Starting XI points: 8.81
+Bench points:      3.00
+15-Man Team Points: 11.82
+Starting budget used: 63.20
+Bench budget used:    19.90 / 20.00
+Total budget used:    83.10 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.5       0.87      
+Gabriel                  Arsenal        Defender       6.1       0.79      
+Hartman                  Burnley        Defender       4.0       0.74      
+Spence                   Spurs          Defender       4.5       0.73      
+Lacroix                  Crystal Palace Defender       5.0       0.70      
+Truffert                 Bournemouth    Defender       4.5       0.70      
+Xhaka                    Sunderland     Midfielder     5.0       0.94      
+Grealish                 Everton        Midfielder     6.8       0.86      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.86      
+Bentancur                Spurs          Midfielder     5.4       0.85      
+João Pedro               Chelsea        Forward        7.8       0.87      
+---------------------------------------------------------------------------
+BENCH
+Lukić                    Fulham         Midfielder     5.0       0.77      
+Petrović                 Bournemouth    Goalkeeper     4.5       0.77      
+Foster                   Burnley        Forward        5.0       0.61      
+Muniz                    Fulham         Forward        5.5       0.54      
+---------------------------------------------------------------------------
+Starting XI points: 8.91
+Bench points:      2.70
+15-Man Team Points: 11.61
+Starting budget used: 59.60
+Bench budget used:    20.00 / 20.00
+Total budget used:    79.60 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.5       0.87      
+Gabriel                  Arsenal        Defender       6.1       0.79      
+Hartman                  Burnley        Defender       4.0       0.74      
+Spence                   Spurs          Defender       4.5       0.73      
+Lacroix                  Crystal Palace Defender       5.0       0.70      
+Xhaka                    Sunderland     Midfielder     5.0       0.94      
+Grealish                 Everton        Midfielder     6.8       0.86      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.86      
+João Pedro               Chelsea        Forward        7.8       0.87      
+Gyökeres                 Arsenal        Forward        9.0       0.75      
+Watkins                  Aston Villa    Forward        8.8       0.71      
+---------------------------------------------------------------------------
+BENCH
+Bentancur                Spurs          Midfielder     5.4       0.85      
+Pickford                 Everton        Goalkeeper     5.5       0.84      
+Lukić                    Fulham         Midfielder     5.0       0.77      
+Ekdal                    Burnley        Defender       4.0       0.69      
+---------------------------------------------------------------------------
+Starting XI points: 8.83
+Bench points:      3.15
+15-Man Team Points: 11.98
+Starting budget used: 67.50
+Bench budget used:    19.90 / 20.00
+Total budget used:    87.40 / 100.00
+===========================================================================
+
+

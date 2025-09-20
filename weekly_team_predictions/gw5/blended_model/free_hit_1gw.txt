@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Vicario                  Spurs          Goalkeeper     5.1       0.83      
+Bogle                    Leeds          Defender       4.5       0.88      
+Gudmundsson              Leeds          Defender       4.0       0.82      
+Hartman                  Burnley        Defender       4.0       0.78      
+Xhaka                    Sunderland     Midfielder     5.0       0.95      
+Sangaré                  Nott'm Forest  Midfielder     5.0       0.89      
+Kamada                   Crystal Palace Midfielder     5.0       0.87      
+Talbi                    Sunderland     Midfielder     5.0       0.85      
+Wood                     Nott'm Forest  Forward        7.6       0.87      
+João Pedro               Chelsea        Forward        7.8       0.84      
+Mateta                   Crystal Palace Forward        7.6       0.79      
+---------------------------------------------------------------------------
+BENCH
+José Sá                  Wolves         Goalkeeper     4.5       0.81      
+Sadiki                   Sunderland     Midfielder     5.0       0.80      
+Muñoz                    Crystal Palace Defender       5.6       0.76      
+Senesi                   Bournemouth    Defender       4.6       0.72      
+---------------------------------------------------------------------------
+Starting XI points: 9.37
+Bench points:      3.10
+15-Man Team Points: 12.47
+Starting budget used: 60.60
+Bench budget used:    19.70 / 20.00
+Total budget used:    80.30 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Vicario                  Spurs          Goalkeeper     5.1       0.83      
+Bogle                    Leeds          Defender       4.5       0.88      
+Gudmundsson              Leeds          Defender       4.0       0.82      
+Hartman                  Burnley        Defender       4.0       0.78      
+Xhaka                    Sunderland     Midfielder     5.0       0.95      
+Sangaré                  Nott'm Forest  Midfielder     5.0       0.89      
+Kamada                   Crystal Palace Midfielder     5.0       0.87      
+Talbi                    Sunderland     Midfielder     5.0       0.85      
+Hughes                   Crystal Palace Midfielder     4.9       0.82      
+Wood                     Nott'm Forest  Forward        7.6       0.87      
+João Pedro               Chelsea        Forward        7.8       0.84      
+---------------------------------------------------------------------------
+BENCH
+José Sá                  Wolves         Goalkeeper     4.5       0.81      
+Milenković               Nott'm Forest  Defender       5.5       0.73      
+Thiago                   Brentford      Forward        6.0       0.70      
+Estève                   Burnley        Defender       4.0       0.70      
+---------------------------------------------------------------------------
+Starting XI points: 9.40
+Bench points:      2.95
+15-Man Team Points: 12.35
+Starting budget used: 57.90
+Bench budget used:    20.00 / 20.00
+Total budget used:    77.90 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Vicario                  Spurs          Goalkeeper     5.1       0.83      
+Bogle                    Leeds          Defender       4.5       0.88      
+Gudmundsson              Leeds          Defender       4.0       0.82      
+Hartman                  Burnley        Defender       4.0       0.78      
+Muñoz                    Crystal Palace Defender       5.6       0.76      
+Xhaka                    Sunderland     Midfielder     5.0       0.95      
+Sangaré                  Nott'm Forest  Midfielder     5.0       0.89      
+Kamada                   Crystal Palace Midfielder     5.0       0.87      
+Talbi                    Sunderland     Midfielder     5.0       0.85      
+Wood                     Nott'm Forest  Forward        7.6       0.87      
+João Pedro               Chelsea        Forward        7.8       0.84      
+---------------------------------------------------------------------------
+BENCH
+Hughes                   Crystal Palace Midfielder     4.9       0.82      
+José Sá                  Wolves         Goalkeeper     4.5       0.81      
+Senesi                   Bournemouth    Defender       4.6       0.72      
+Thiago                   Brentford      Forward        6.0       0.70      
+---------------------------------------------------------------------------
+Starting XI points: 9.34
+Bench points:      3.06
+15-Man Team Points: 12.40
+Starting budget used: 58.60
+Bench budget used:    20.00 / 20.00
+Total budget used:    78.60 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Vicario                  Spurs          Goalkeeper     5.1       0.83      
+Bogle                    Leeds          Defender       4.5       0.88      
+Gudmundsson              Leeds          Defender       4.0       0.82      
+Hartman                  Burnley        Defender       4.0       0.78      
+Muñoz                    Crystal Palace Defender       5.6       0.76      
+Xhaka                    Sunderland     Midfielder     5.0       0.95      
+Sangaré                  Nott'm Forest  Midfielder     5.0       0.89      
+Kamada                   Crystal Palace Midfielder     5.0       0.87      
+Talbi                    Sunderland     Midfielder     5.0       0.85      
+Hughes                   Crystal Palace Midfielder     4.9       0.82      
+Wood                     Nott'm Forest  Forward        7.6       0.87      
+---------------------------------------------------------------------------
+BENCH
+José Sá                  Wolves         Goalkeeper     4.5       0.81      
+Thiago                   Brentford      Forward        6.0       0.70      
+Estève                   Burnley        Defender       4.0       0.70      
+Foster                   Burnley        Forward        5.0       0.65      
+---------------------------------------------------------------------------
+Starting XI points: 9.32
+Bench points:      2.87
+15-Man Team Points: 12.18
+Starting budget used: 55.70
+Bench budget used:    19.50 / 20.00
+Total budget used:    75.20 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Vicario                  Spurs          Goalkeeper     5.1       0.83      
+Bogle                    Leeds          Defender       4.5       0.88      
+Gudmundsson              Leeds          Defender       4.0       0.82      
+Hartman                  Burnley        Defender       4.0       0.78      
+Muñoz                    Crystal Palace Defender       5.6       0.76      
+Milenković               Nott'm Forest  Defender       5.5       0.73      
+Xhaka                    Sunderland     Midfielder     5.0       0.95      
+Sangaré                  Nott'm Forest  Midfielder     5.0       0.89      
+Kamada                   Crystal Palace Midfielder     5.0       0.87      
+Wood                     Nott'm Forest  Forward        7.6       0.87      
+João Pedro               Chelsea        Forward        7.8       0.84      
+---------------------------------------------------------------------------
+BENCH
+Talbi                    Sunderland     Midfielder     5.0       0.85      
+Hughes                   Crystal Palace Midfielder     4.9       0.82      
+José Sá                  Wolves         Goalkeeper     4.5       0.81      
+Foster                   Burnley        Forward        5.0       0.65      
+---------------------------------------------------------------------------
+Starting XI points: 9.22
+Bench points:      3.13
+15-Man Team Points: 12.35
+Starting budget used: 59.10
+Bench budget used:    19.40 / 20.00
+Total budget used:    78.50 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Vicario                  Spurs          Goalkeeper     5.1       0.83      
+Bogle                    Leeds          Defender       4.5       0.88      
+Gudmundsson              Leeds          Defender       4.0       0.82      
+Hartman                  Burnley        Defender       4.0       0.78      
+Muñoz                    Crystal Palace Defender       5.6       0.76      
+Milenković               Nott'm Forest  Defender       5.5       0.73      
+Xhaka                    Sunderland     Midfielder     5.0       0.95      
+Sangaré                  Nott'm Forest  Midfielder     5.0       0.89      
+Kamada                   Crystal Palace Midfielder     5.0       0.87      
+Talbi                    Sunderland     Midfielder     5.0       0.85      
+Wood                     Nott'm Forest  Forward        7.6       0.87      
+---------------------------------------------------------------------------
+BENCH
+Hughes                   Crystal Palace Midfielder     4.9       0.82      
+José Sá                  Wolves         Goalkeeper     4.5       0.81      
+Foster                   Burnley        Forward        5.0       0.65      
+Muniz                    Fulham         Forward        5.5       0.63      
+---------------------------------------------------------------------------
+Starting XI points: 9.23
+Bench points:      2.92
+15-Man Team Points: 12.14
+Starting budget used: 56.30
+Bench budget used:    19.90 / 20.00
+Total budget used:    76.20 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Vicario                  Spurs          Goalkeeper     5.1       0.83      
+Bogle                    Leeds          Defender       4.5       0.88      
+Gudmundsson              Leeds          Defender       4.0       0.82      
+Hartman                  Burnley        Defender       4.0       0.78      
+Muñoz                    Crystal Palace Defender       5.6       0.76      
+Xhaka                    Sunderland     Midfielder     5.0       0.95      
+Sangaré                  Nott'm Forest  Midfielder     5.0       0.89      
+Kamada                   Crystal Palace Midfielder     5.0       0.87      
+Wood                     Nott'm Forest  Forward        7.6       0.87      
+João Pedro               Chelsea        Forward        7.8       0.84      
+Mateta                   Crystal Palace Forward        7.6       0.79      
+---------------------------------------------------------------------------
+BENCH
+Talbi                    Sunderland     Midfielder     5.0       0.85      
+José Sá                  Wolves         Goalkeeper     4.5       0.81      
+Sadiki                   Sunderland     Midfielder     5.0       0.80      
+Milenković               Nott'm Forest  Defender       5.5       0.73      
+---------------------------------------------------------------------------
+Starting XI points: 9.29
+Bench points:      3.19
+15-Man Team Points: 12.47
+Starting budget used: 61.20
+Bench budget used:    20.00 / 20.00
+Total budget used:    81.20 / 100.00
+===========================================================================
+
+

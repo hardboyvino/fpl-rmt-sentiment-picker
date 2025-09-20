@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.5       13.29     
+Guéhi                    Crystal Palace Defender       4.7       13.37     
+Rodon                    Leeds          Defender       4.0       12.94     
+Lacroix                  Crystal Palace Defender       5.0       12.92     
+Xhaka                    Sunderland     Midfielder     5.0       12.39     
+Longstaff                Leeds          Midfielder     4.9       12.21     
+Stach                    Leeds          Midfielder     5.0       11.90     
+Diarra                   Sunderland     Midfielder     5.5       11.80     
+João Pedro               Chelsea        Forward        7.8       12.34     
+Mateta                   Crystal Palace Forward        7.6       11.25     
+Wood                     Nott'm Forest  Forward        7.6       10.12     
+---------------------------------------------------------------------------
+BENCH
+Anthony                  Burnley        Midfielder     5.5       11.54     
+Chalobah                 Chelsea        Defender       5.1       11.30     
+Ekdal                    Burnley        Defender       4.0       10.63     
+Vicario                  Spurs          Goalkeeper     5.1       10.17     
+---------------------------------------------------------------------------
+Starting XI points: 134.53
+Bench points:      43.64
+15-Man Team Points: 178.17
+Starting budget used: 61.60
+Bench budget used:    19.70 / 20.00
+Total budget used:    81.30 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.5       13.29     
+Guéhi                    Crystal Palace Defender       4.7       13.37     
+Rodon                    Leeds          Defender       4.0       12.94     
+Lacroix                  Crystal Palace Defender       5.0       12.92     
+Xhaka                    Sunderland     Midfielder     5.0       12.39     
+Longstaff                Leeds          Midfielder     4.9       12.21     
+Stach                    Leeds          Midfielder     5.0       11.90     
+Diarra                   Sunderland     Midfielder     5.5       11.80     
+Enzo                     Chelsea        Midfielder     6.6       11.62     
+João Pedro               Chelsea        Forward        7.8       12.34     
+Mateta                   Crystal Palace Forward        7.6       11.25     
+---------------------------------------------------------------------------
+BENCH
+Chalobah                 Chelsea        Defender       5.1       11.30     
+Ekdal                    Burnley        Defender       4.0       10.63     
+Vicario                  Spurs          Goalkeeper     5.1       10.17     
+Foster                   Burnley        Forward        5.0       9.73      
+---------------------------------------------------------------------------
+Starting XI points: 136.03
+Bench points:      41.83
+15-Man Team Points: 177.86
+Starting budget used: 60.60
+Bench budget used:    19.20 / 20.00
+Total budget used:    79.80 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.5       13.29     
+Guéhi                    Crystal Palace Defender       4.7       13.37     
+Rodon                    Leeds          Defender       4.0       12.94     
+Lacroix                  Crystal Palace Defender       5.0       12.92     
+Alderete                 Sunderland     Defender       4.0       12.57     
+Xhaka                    Sunderland     Midfielder     5.0       12.39     
+Longstaff                Leeds          Midfielder     4.9       12.21     
+Stach                    Leeds          Midfielder     5.0       11.90     
+Enzo                     Chelsea        Midfielder     6.6       11.62     
+João Pedro               Chelsea        Forward        7.8       12.34     
+Mateta                   Crystal Palace Forward        7.6       11.25     
+---------------------------------------------------------------------------
+BENCH
+Anthony                  Burnley        Midfielder     5.5       11.54     
+Chalobah                 Chelsea        Defender       5.1       11.30     
+Dúbravka                 Burnley        Goalkeeper     4.0       9.91      
+Foster                   Burnley        Forward        5.0       9.73      
+---------------------------------------------------------------------------
+Starting XI points: 136.80
+Bench points:      42.48
+15-Man Team Points: 179.28
+Starting budget used: 59.10
+Bench budget used:    19.60 / 20.00
+Total budget used:    78.70 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.5       13.29     
+Guéhi                    Crystal Palace Defender       4.7       13.37     
+Rodon                    Leeds          Defender       4.0       12.94     
+Lacroix                  Crystal Palace Defender       5.0       12.92     
+Muñoz                    Crystal Palace Defender       5.6       12.73     
+Xhaka                    Sunderland     Midfielder     5.0       12.39     
+Longstaff                Leeds          Midfielder     4.9       12.21     
+Stach                    Leeds          Midfielder     5.0       11.90     
+Diarra                   Sunderland     Midfielder     5.5       11.80     
+Enzo                     Chelsea        Midfielder     6.6       11.62     
+João Pedro               Chelsea        Forward        7.8       12.34     
+---------------------------------------------------------------------------
+BENCH
+Ekdal                    Burnley        Defender       4.0       10.63     
+Dúbravka                 Burnley        Goalkeeper     4.0       9.91      
+Foster                   Burnley        Forward        5.0       9.73      
+Evanilson                Bournemouth    Forward        7.0       7.75      
+---------------------------------------------------------------------------
+Starting XI points: 137.51
+Bench points:      38.02
+15-Man Team Points: 175.53
+Starting budget used: 58.60
+Bench budget used:    20.00 / 20.00
+Total budget used:    78.60 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.5       13.29     
+Guéhi                    Crystal Palace Defender       4.7       13.37     
+Rodon                    Leeds          Defender       4.0       12.94     
+Lacroix                  Crystal Palace Defender       5.0       12.92     
+Alderete                 Sunderland     Defender       4.0       12.57     
+Gudmundsson              Leeds          Defender       4.0       12.21     
+Xhaka                    Sunderland     Midfielder     5.0       12.39     
+Longstaff                Leeds          Midfielder     4.9       12.21     
+Enzo                     Chelsea        Midfielder     6.6       11.62     
+João Pedro               Chelsea        Forward        7.8       12.34     
+Mateta                   Crystal Palace Forward        7.6       11.25     
+---------------------------------------------------------------------------
+BENCH
+Caicedo                  Chelsea        Midfielder     5.6       11.30     
+Cullen                   Burnley        Midfielder     5.0       11.09     
+Dúbravka                 Burnley        Goalkeeper     4.0       9.91      
+Foster                   Burnley        Forward        5.0       9.73      
+---------------------------------------------------------------------------
+Starting XI points: 137.11
+Bench points:      42.03
+15-Man Team Points: 179.14
+Starting budget used: 58.10
+Bench budget used:    19.60 / 20.00
+Total budget used:    77.70 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.5       13.29     
+Guéhi                    Crystal Palace Defender       4.7       13.37     
+Rodon                    Leeds          Defender       4.0       12.94     
+Lacroix                  Crystal Palace Defender       5.0       12.92     
+Muñoz                    Crystal Palace Defender       5.6       12.73     
+Alderete                 Sunderland     Defender       4.0       12.57     
+Xhaka                    Sunderland     Midfielder     5.0       12.39     
+Longstaff                Leeds          Midfielder     4.9       12.21     
+Stach                    Leeds          Midfielder     5.0       11.90     
+Enzo                     Chelsea        Midfielder     6.6       11.62     
+João Pedro               Chelsea        Forward        7.8       12.34     
+---------------------------------------------------------------------------
+BENCH
+Anthony                  Burnley        Midfielder     5.5       11.54     
+Dúbravka                 Burnley        Goalkeeper     4.0       9.91      
+Foster                   Burnley        Forward        5.0       9.73      
+Muniz                    Fulham         Forward        5.5       7.05      
+---------------------------------------------------------------------------
+Starting XI points: 138.28
+Bench points:      38.23
+15-Man Team Points: 176.51
+Starting budget used: 57.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    77.10 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.5       13.29     
+Guéhi                    Crystal Palace Defender       4.7       13.37     
+Rodon                    Leeds          Defender       4.0       12.94     
+Lacroix                  Crystal Palace Defender       5.0       12.92     
+Alderete                 Sunderland     Defender       4.0       12.57     
+Xhaka                    Sunderland     Midfielder     5.0       12.39     
+Longstaff                Leeds          Midfielder     4.9       12.21     
+Stach                    Leeds          Midfielder     5.0       11.90     
+João Pedro               Chelsea        Forward        7.8       12.34     
+Mateta                   Crystal Palace Forward        7.6       11.25     
+Wood                     Nott'm Forest  Forward        7.6       10.12     
+---------------------------------------------------------------------------
+BENCH
+Anthony                  Burnley        Midfielder     5.5       11.54     
+Chalobah                 Chelsea        Defender       5.1       11.30     
+Cullen                   Burnley        Midfielder     5.0       11.09     
+Dúbravka                 Burnley        Goalkeeper     4.0       9.91      
+---------------------------------------------------------------------------
+Starting XI points: 135.30
+Bench points:      43.84
+15-Man Team Points: 179.14
+Starting budget used: 60.10
+Bench budget used:    19.60 / 20.00
+Total budget used:    79.70 / 100.00
+===========================================================================
+
+

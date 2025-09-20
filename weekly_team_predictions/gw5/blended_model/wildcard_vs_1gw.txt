@@ -1,0 +1,258 @@
+Optimized Team (3GW selections re-arranged for 1GW)
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+================================================================================
+
+Optimized Team:
+3GW selection formation: 3-4-3  |  1GW best formation: 3-5-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Raya                     Arsenal        Goalkeeper     5.5       0.87      0.65      
+Hartman                  Burnley        Defender       4.0       0.74      0.78      
+Lacroix                  Crystal Palace Defender       5.0       0.70      0.66      
+Truffert                 Bournemouth    Defender       4.5       0.70      0.58      
+Xhaka                    Sunderland     Midfielder     5.0       0.94      0.95      
+Grealish                 Everton        Midfielder     6.8       0.86      0.54      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.86      0.55      
+Bentancur                Spurs          Midfielder     5.4       0.85      0.66      
+Lukić                    Fulham         Midfielder     5.0       0.77      0.68      
+João Pedro               Chelsea        Forward        7.8       0.87      0.84      
+Watkins                  Aston Villa    Forward        8.8       0.71      0.58      
+--------------------------------------------------------------------------------
+BENCH
+Gabriel                  Arsenal        Defender       6.1       0.79      0.49      
+Gyökeres                 Arsenal        Forward        9.0       0.75      0.52      
+Spence                   Spurs          Defender       4.5       0.73      0.35      
+Pickford                 Everton        Goalkeeper     5.5       0.84      0.45      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 7.47
+Starting XI points (3GW): 8.87
+Bench points (1GW):      1.81
+Bench points (3GW):      3.11
+15-Man Team Points (1GW): 9.27
+15-Man Team Points (3GW): 11.99
+Starting budget used: 62.80
+Bench budget used:    25.10 / 20.00
+Total budget used:    87.90 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 3-5-2  |  1GW best formation: 3-5-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Raya                     Arsenal        Goalkeeper     5.5       0.87      0.65      
+Hartman                  Burnley        Defender       4.0       0.74      0.78      
+Lacroix                  Crystal Palace Defender       5.0       0.70      0.66      
+Truffert                 Bournemouth    Defender       4.5       0.70      0.58      
+Xhaka                    Sunderland     Midfielder     5.0       0.94      0.95      
+Grealish                 Everton        Midfielder     6.8       0.86      0.54      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.86      0.55      
+Bentancur                Spurs          Midfielder     5.4       0.85      0.66      
+Lukić                    Fulham         Midfielder     5.0       0.77      0.68      
+João Pedro               Chelsea        Forward        7.8       0.87      0.84      
+Foster                   Burnley        Forward        5.0       0.61      0.65      
+--------------------------------------------------------------------------------
+BENCH
+Gabriel                  Arsenal        Defender       6.1       0.79      0.49      
+Gyökeres                 Arsenal        Forward        9.0       0.75      0.52      
+Spence                   Spurs          Defender       4.5       0.73      0.35      
+Pickford                 Everton        Goalkeeper     5.5       0.84      0.45      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 7.53
+Starting XI points (3GW): 8.77
+Bench points (1GW):      1.81
+Bench points (3GW):      3.11
+15-Man Team Points (1GW): 9.34
+15-Man Team Points (3GW): 11.88
+Starting budget used: 59.00
+Bench budget used:    25.10 / 20.00
+Total budget used:    84.10 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 4-4-2  |  1GW best formation: 3-5-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Raya                     Arsenal        Goalkeeper     5.5       0.87      0.65      
+Hartman                  Burnley        Defender       4.0       0.74      0.78      
+Lacroix                  Crystal Palace Defender       5.0       0.70      0.66      
+Truffert                 Bournemouth    Defender       4.5       0.70      0.58      
+Xhaka                    Sunderland     Midfielder     5.0       0.94      0.95      
+Grealish                 Everton        Midfielder     6.8       0.86      0.54      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.86      0.55      
+Bentancur                Spurs          Midfielder     5.4       0.85      0.66      
+Lukić                    Fulham         Midfielder     5.0       0.77      0.68      
+João Pedro               Chelsea        Forward        7.8       0.87      0.84      
+Foster                   Burnley        Forward        5.0       0.61      0.65      
+--------------------------------------------------------------------------------
+BENCH
+Gabriel                  Arsenal        Defender       6.1       0.79      0.49      
+Gyökeres                 Arsenal        Forward        9.0       0.75      0.52      
+Spence                   Spurs          Defender       4.5       0.73      0.35      
+Pickford                 Everton        Goalkeeper     5.5       0.84      0.45      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 7.53
+Starting XI points (3GW): 8.77
+Bench points (1GW):      1.81
+Bench points (3GW):      3.11
+15-Man Team Points (1GW): 9.34
+15-Man Team Points (3GW): 11.88
+Starting budget used: 59.00
+Bench budget used:    25.10 / 20.00
+Total budget used:    84.10 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 4-5-1  |  1GW best formation: 3-4-3
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Raya                     Arsenal        Goalkeeper     5.5       0.87      0.65      
+Gabriel                  Arsenal        Defender       6.1       0.79      0.49      
+Hartman                  Burnley        Defender       4.0       0.74      0.78      
+Lacroix                  Crystal Palace Defender       5.0       0.70      0.66      
+Xhaka                    Sunderland     Midfielder     5.0       0.94      0.95      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.86      0.55      
+Bentancur                Spurs          Midfielder     5.4       0.85      0.66      
+Lukić                    Fulham         Midfielder     5.0       0.77      0.68      
+João Pedro               Chelsea        Forward        7.8       0.87      0.84      
+Foster                   Burnley        Forward        5.0       0.61      0.65      
+Muniz                    Fulham         Forward        5.5       0.54      0.63      
+--------------------------------------------------------------------------------
+BENCH
+Grealish                 Everton        Midfielder     6.8       0.86      0.54      
+Spence                   Spurs          Defender       4.5       0.73      0.35      
+Pickford                 Everton        Goalkeeper     5.5       0.84      0.45      
+Ekdal                    Burnley        Defender       4.0       0.69      0.41      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 7.54
+Starting XI points (3GW): 8.54
+Bench points (1GW):      1.74
+Bench points (3GW):      3.13
+15-Man Team Points (1GW): 9.28
+15-Man Team Points (3GW): 11.66
+Starting budget used: 59.30
+Bench budget used:    20.80 / 20.00
+Total budget used:    80.10 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 5-3-2  |  1GW best formation: 3-5-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Raya                     Arsenal        Goalkeeper     5.5       0.87      0.65      
+Hartman                  Burnley        Defender       4.0       0.74      0.78      
+Lacroix                  Crystal Palace Defender       5.0       0.70      0.66      
+Truffert                 Bournemouth    Defender       4.5       0.70      0.58      
+Xhaka                    Sunderland     Midfielder     5.0       0.94      0.95      
+Grealish                 Everton        Midfielder     6.8       0.86      0.54      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.86      0.55      
+Bentancur                Spurs          Midfielder     5.4       0.85      0.66      
+Lukić                    Fulham         Midfielder     5.0       0.77      0.68      
+João Pedro               Chelsea        Forward        7.8       0.87      0.84      
+Foster                   Burnley        Forward        5.0       0.61      0.65      
+--------------------------------------------------------------------------------
+BENCH
+Gabriel                  Arsenal        Defender       6.1       0.79      0.49      
+Gyökeres                 Arsenal        Forward        9.0       0.75      0.52      
+Spence                   Spurs          Defender       4.5       0.73      0.35      
+Petrović                 Bournemouth    Goalkeeper     4.5       0.77      0.58      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 7.53
+Starting XI points (3GW): 8.77
+Bench points (1GW):      1.94
+Bench points (3GW):      3.05
+15-Man Team Points (1GW): 9.47
+15-Man Team Points (3GW): 11.82
+Starting budget used: 59.00
+Bench budget used:    24.10 / 20.00
+Total budget used:    83.10 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 5-4-1  |  1GW best formation: 3-4-3
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Raya                     Arsenal        Goalkeeper     5.5       0.87      0.65      
+Hartman                  Burnley        Defender       4.0       0.74      0.78      
+Lacroix                  Crystal Palace Defender       5.0       0.70      0.66      
+Truffert                 Bournemouth    Defender       4.5       0.70      0.58      
+Xhaka                    Sunderland     Midfielder     5.0       0.94      0.95      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.86      0.55      
+Bentancur                Spurs          Midfielder     5.4       0.85      0.66      
+Lukić                    Fulham         Midfielder     5.0       0.77      0.68      
+João Pedro               Chelsea        Forward        7.8       0.87      0.84      
+Foster                   Burnley        Forward        5.0       0.61      0.65      
+Muniz                    Fulham         Forward        5.5       0.54      0.63      
+--------------------------------------------------------------------------------
+BENCH
+Grealish                 Everton        Midfielder     6.8       0.86      0.54      
+Gabriel                  Arsenal        Defender       6.1       0.79      0.49      
+Spence                   Spurs          Defender       4.5       0.73      0.35      
+Petrović                 Bournemouth    Goalkeeper     4.5       0.77      0.58      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 7.63
+Starting XI points (3GW): 8.44
+Bench points (1GW):      1.96
+Bench points (3GW):      3.16
+15-Man Team Points (1GW): 9.58
+15-Man Team Points (3GW): 11.61
+Starting budget used: 57.70
+Bench budget used:    21.90 / 20.00
+Total budget used:    79.60 / 100.00
+[BEST 1GW XI]
+[BEST 1GW XI+Bench]
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 4-3-3  |  1GW best formation: 3-5-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Raya                     Arsenal        Goalkeeper     5.5       0.87      0.65      
+Gabriel                  Arsenal        Defender       6.1       0.79      0.49      
+Hartman                  Burnley        Defender       4.0       0.74      0.78      
+Lacroix                  Crystal Palace Defender       5.0       0.70      0.66      
+Xhaka                    Sunderland     Midfielder     5.0       0.94      0.95      
+Grealish                 Everton        Midfielder     6.8       0.86      0.54      
+P.M.Sarr                 Spurs          Midfielder     5.0       0.86      0.55      
+Bentancur                Spurs          Midfielder     5.4       0.85      0.66      
+Lukić                    Fulham         Midfielder     5.0       0.77      0.68      
+João Pedro               Chelsea        Forward        7.8       0.87      0.84      
+Watkins                  Aston Villa    Forward        8.8       0.71      0.58      
+--------------------------------------------------------------------------------
+BENCH
+Gyökeres                 Arsenal        Forward        9.0       0.75      0.52      
+Spence                   Spurs          Defender       4.5       0.73      0.35      
+Pickford                 Everton        Goalkeeper     5.5       0.84      0.45      
+Ekdal                    Burnley        Defender       4.0       0.69      0.41      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 7.38
+Starting XI points (3GW): 8.97
+Bench points (1GW):      1.73
+Bench points (3GW):      3.01
+15-Man Team Points (1GW): 9.11
+15-Man Team Points (3GW): 11.98
+Starting budget used: 64.40
+Bench budget used:    23.00 / 20.00
+Total budget used:    87.40 / 100.00
+================================================================================
+
+
+

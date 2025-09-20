@@ -1,0 +1,231 @@
+FPL Optimization (predictions CSV) for Entry 6686286
+Bank: 11.40 | Current-15 CSV cost: 88.70
+================================================================================================
+
+Transfers: 0  |  Formation: 5-4-1
+Projected XI points: 115.84 | Bench points: 15.78
+Cost used: 88.70  (XI 60.90 / Bench 27.80)
+Points Out: 0.00
+Points In: 0.00
+Points Difference: 0.00
+Points Diff %: 0.00%
+Budget Left: 11.40
+
+OUT:
+IN:
+
+STARTING XI:
+  Vicario                Spurs           Goalkeeper     5.1   10.17
+  Senesi                 Bournemouth     Defender       4.6    9.41
+  Calafiori              Arsenal         Defender       5.7    7.42
+  Chalobah               Chelsea         Defender       5.1   11.30
+  Rodon                  Leeds           Defender       4.0   12.94
+  Gudmundsson            Leeds           Defender       4.0   12.21
+  Semenyo                Bournemouth     Midfielder     7.5    8.65
+  Tavernier              Bournemouth     Midfielder     5.5    7.88
+  Enzo                   Chelsea         Midfielder     6.6   11.62
+  Stach                  Leeds           Midfielder     5.0   11.90
+  João Pedro             Chelsea         Forward        7.8   12.34
+BENCH:
+  Gyökeres               Arsenal         Forward        9.0    7.24
+  Leno                   Fulham          Goalkeeper     5.0    8.54
+  Johnson                Spurs           Midfielder     7.1    0.00
+  Richarlison            Spurs           Forward        6.7    0.00
+
+Suggested (C): Rodon | (VC): João Pedro
+------------------------------------------------------------------------------------------------
+
+Transfers: 1  |  Formation: 4-5-1
+Projected XI points: 119.96 | Bench points: 23.20
+Cost used: 87.10  (XI 60.70 / Bench 26.40)
+Points Out: 0.00
+Points In: 10.99
+Points Difference: 10.99
+Points Diff %: 10989.89%
+Budget Left: 13.00
+
+OUT:
+  Johnson                Spurs           Midfielder     7.1    0.00
+IN:
+  Anthony                Burnley         Midfielder     5.5   10.99
+
+STARTING XI:
+  Vicario                Spurs           Goalkeeper     5.1   10.17
+  Senesi                 Bournemouth     Defender       4.6    9.41
+  Chalobah               Chelsea         Defender       5.1   11.30
+  Rodon                  Leeds           Defender       4.0   12.94
+  Gudmundsson            Leeds           Defender       4.0   12.21
+  Anthony                Burnley         Midfielder     5.5   11.54
+  Semenyo                Bournemouth     Midfielder     7.5    8.65
+  Tavernier              Bournemouth     Midfielder     5.5    7.88
+  Enzo                   Chelsea         Midfielder     6.6   11.62
+  Stach                  Leeds           Midfielder     5.0   11.90
+  João Pedro             Chelsea         Forward        7.8   12.34
+BENCH:
+  Calafiori              Arsenal         Defender       5.7    7.42
+  Gyökeres               Arsenal         Forward        9.0    7.24
+  Leno                   Fulham          Goalkeeper     5.0    8.54
+  Richarlison            Spurs           Forward        6.7    0.00
+
+Suggested (C): Rodon | (VC): João Pedro
+------------------------------------------------------------------------------------------------
+
+Transfers: 2  |  Formation: 4-5-1
+Projected XI points: 117.15 | Bench points: 23.20
+Cost used: 87.10  (XI 60.70 / Bench 26.40)
+Points Out: 5.85
+Points In: 21.91
+Points Difference: 16.06
+Points Diff %: 269.92%
+Budget Left: 13.00
+
+OUT:
+  Stach                  Leeds           Midfielder     5.0    5.85
+  Johnson                Spurs           Midfielder     7.1    0.00
+IN:
+  Anthony                Burnley         Midfielder     5.5   10.99
+  P.M.Sarr               Spurs           Midfielder     5.0   10.92
+
+STARTING XI:
+  Vicario                Spurs           Goalkeeper     5.1   10.17
+  Senesi                 Bournemouth     Defender       4.6    9.41
+  Chalobah               Chelsea         Defender       5.1   11.30
+  Rodon                  Leeds           Defender       4.0   12.94
+  Gudmundsson            Leeds           Defender       4.0   12.21
+  Anthony                Burnley         Midfielder     5.5   11.54
+  P.M.Sarr               Spurs           Midfielder     5.0    9.09
+  Semenyo                Bournemouth     Midfielder     7.5    8.65
+  Tavernier              Bournemouth     Midfielder     5.5    7.88
+  Enzo                   Chelsea         Midfielder     6.6   11.62
+  João Pedro             Chelsea         Forward        7.8   12.34
+BENCH:
+  Calafiori              Arsenal         Defender       5.7    7.42
+  Gyökeres               Arsenal         Forward        9.0    7.24
+  Leno                   Fulham          Goalkeeper     5.0    8.54
+  Richarlison            Spurs           Forward        6.7    0.00
+
+Suggested (C): Rodon | (VC): João Pedro
+------------------------------------------------------------------------------------------------
+
+Transfers: 3  |  Formation: 4-5-1
+Projected XI points: 119.45 | Bench points: 23.20
+Cost used: 86.70  (XI 60.30 / Bench 26.40)
+Points Out: 14.58
+Points In: 33.86
+Points Difference: 19.28
+Points Diff %: 131.34%
+Budget Left: 13.40
+
+OUT:
+  Chalobah               Chelsea         Defender       5.1    8.73
+  Stach                  Leeds           Midfielder     5.0    5.85
+  Johnson                Spurs           Midfielder     7.1    0.00
+IN:
+  Van de Ven             Spurs           Defender       4.7   12.13
+  Anthony                Burnley         Midfielder     5.5   10.99
+  Xhaka                  Sunderland      Midfielder     5.0   10.74
+
+STARTING XI:
+  Vicario                Spurs           Goalkeeper     5.1   10.17
+  Van de Ven             Spurs           Defender       4.7   10.30
+  Senesi                 Bournemouth     Defender       4.6    9.41
+  Rodon                  Leeds           Defender       4.0   12.94
+  Gudmundsson            Leeds           Defender       4.0   12.21
+  Anthony                Burnley         Midfielder     5.5   11.54
+  Xhaka                  Sunderland      Midfielder     5.0   12.39
+  Semenyo                Bournemouth     Midfielder     7.5    8.65
+  Tavernier              Bournemouth     Midfielder     5.5    7.88
+  Enzo                   Chelsea         Midfielder     6.6   11.62
+  João Pedro             Chelsea         Forward        7.8   12.34
+BENCH:
+  Calafiori              Arsenal         Defender       5.7    7.42
+  Gyökeres               Arsenal         Forward        9.0    7.24
+  Leno                   Fulham          Goalkeeper     5.0    8.54
+  Richarlison            Spurs           Forward        6.7    0.00
+
+Suggested (C): Rodon | (VC): Xhaka
+------------------------------------------------------------------------------------------------
+
+Transfers: 4  |  Formation: 5-4-1
+Projected XI points: 121.06 | Bench points: 23.66
+Cost used: 86.70  (XI 60.50 / Bench 26.20)
+Points Out: 24.20
+Points In: 45.55
+Points Difference: 21.35
+Points Diff %: 87.86%
+Budget Left: 13.40
+
+OUT:
+  Calafiori              Arsenal         Defender       5.7    9.62
+  Chalobah               Chelsea         Defender       5.1    8.73
+  Stach                  Leeds           Midfielder     5.0    5.85
+  Johnson                Spurs           Midfielder     7.1    0.00
+IN:
+  Van de Ven             Spurs           Defender       4.7   12.13
+  J.Timber               Arsenal         Defender       5.7   11.69
+  Anthony                Burnley         Midfielder     5.5   10.99
+  Xhaka                  Sunderland      Midfielder     5.0   10.74
+
+STARTING XI:
+  Vicario                Spurs           Goalkeeper     5.1   10.17
+  Van de Ven             Spurs           Defender       4.7   10.30
+  J.Timber               Arsenal         Defender       5.7    9.49
+  Senesi                 Bournemouth     Defender       4.6    9.41
+  Rodon                  Leeds           Defender       4.0   12.94
+  Gudmundsson            Leeds           Defender       4.0   12.21
+  Anthony                Burnley         Midfielder     5.5   11.54
+  Xhaka                  Sunderland      Midfielder     5.0   12.39
+  Semenyo                Bournemouth     Midfielder     7.5    8.65
+  Enzo                   Chelsea         Midfielder     6.6   11.62
+  João Pedro             Chelsea         Forward        7.8   12.34
+BENCH:
+  Gyökeres               Arsenal         Forward        9.0    7.24
+  Tavernier              Bournemouth     Midfielder     5.5    7.88
+  Leno                   Fulham          Goalkeeper     5.0    8.54
+  Richarlison            Spurs           Forward        6.7    0.00
+
+Suggested (C): Rodon | (VC): Xhaka
+------------------------------------------------------------------------------------------------
+
+Transfers: 5  |  Formation: 4-4-2
+Projected XI points: 116.30 | Bench points: 31.08
+Cost used: 87.20  (XI 62.00 / Bench 25.20)
+Points Out: 21.78
+Points In: 55.88
+Points Difference: 34.10
+Points Diff %: 155.85%
+Budget Left: 12.90
+
+OUT:
+  Chalobah               Chelsea         Defender       5.1    8.73
+  Rodon                  Leeds           Defender       4.0    6.88
+  Gudmundsson            Leeds           Defender       4.0    6.17
+  Johnson                Spurs           Midfielder     7.1    0.00
+  Richarlison            Spurs           Forward        6.7    0.00
+IN:
+  Van de Ven             Spurs           Defender       4.7   12.13
+  Romero                 Spurs           Defender       5.0   12.13
+  J.Timber               Arsenal         Defender       5.7   11.69
+  Xhaka                  Sunderland      Midfielder     5.0   10.74
+  Foster                 Burnley         Forward        5.0    9.19
+
+STARTING XI:
+  Vicario                Spurs           Goalkeeper     5.1   10.17
+  Van de Ven             Spurs           Defender       4.7   10.30
+  Romero                 Spurs           Defender       5.0   10.30
+  J.Timber               Arsenal         Defender       5.7    9.49
+  Senesi                 Bournemouth     Defender       4.6    9.41
+  Xhaka                  Sunderland      Midfielder     5.0   12.39
+  Semenyo                Bournemouth     Midfielder     7.5    8.65
+  Enzo                   Chelsea         Midfielder     6.6   11.62
+  Stach                  Leeds           Midfielder     5.0   11.90
+  João Pedro             Chelsea         Forward        7.8   12.34
+  Foster                 Burnley         Forward        5.0    9.73
+BENCH:
+  Calafiori              Arsenal         Defender       5.7    7.42
+  Gyökeres               Arsenal         Forward        9.0    7.24
+  Tavernier              Bournemouth     Midfielder     5.5    7.88
+  Leno                   Fulham          Goalkeeper     5.0    8.54
+
+Suggested (C): Xhaka | (VC): João Pedro
+------------------------------------------------------------------------------------------------

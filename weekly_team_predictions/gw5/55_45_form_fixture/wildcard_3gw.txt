@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.5       11.64     
+Romero                   Spurs          Defender       5.0       12.13     
+Van de Ven               Spurs          Defender       4.7       12.13     
+J.Timber                 Arsenal        Defender       5.7       11.69     
+J.Palhinha               Spurs          Midfielder     5.5       11.23     
+Anthony                  Burnley        Midfielder     5.5       10.99     
+Xhaka                    Sunderland     Midfielder     5.0       10.74     
+Cullen                   Burnley        Midfielder     5.0       10.54     
+João Pedro               Chelsea        Forward        7.8       9.77      
+Gyökeres                 Arsenal        Forward        9.0       9.44      
+Haaland                  Man City       Forward        14.2      9.28      
+---------------------------------------------------------------------------
+BENCH
+Alderete                 Sunderland     Defender       4.0       10.92     
+Senesi                   Bournemouth    Defender       4.6       10.70     
+Zubimendi                Arsenal        Midfielder     5.4       9.62      
+Dúbravka                 Burnley        Goalkeeper     4.0       9.37      
+---------------------------------------------------------------------------
+Starting XI points: 119.58
+Bench points:      40.61
+15-Man Team Points: 160.19
+Starting budget used: 71.90
+Bench budget used:    18.00 / 20.00
+Total budget used:    89.90 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.5       11.64     
+Romero                   Spurs          Defender       5.0       12.13     
+Van de Ven               Spurs          Defender       4.7       12.13     
+J.Timber                 Arsenal        Defender       5.7       11.69     
+J.Palhinha               Spurs          Midfielder     5.5       11.23     
+Anthony                  Burnley        Midfielder     5.5       10.99     
+Xhaka                    Sunderland     Midfielder     5.0       10.74     
+Cullen                   Burnley        Midfielder     5.0       10.54     
+Diarra                   Sunderland     Midfielder     5.5       10.15     
+João Pedro               Chelsea        Forward        7.8       9.77      
+Gyökeres                 Arsenal        Forward        9.0       9.44      
+---------------------------------------------------------------------------
+BENCH
+Senesi                   Bournemouth    Defender       4.6       10.70     
+Calafiori                Arsenal        Defender       5.7       9.62      
+Foster                   Burnley        Forward        5.0       9.19      
+Petrović                 Bournemouth    Goalkeeper     4.5       8.72      
+---------------------------------------------------------------------------
+Starting XI points: 120.45
+Bench points:      38.23
+15-Man Team Points: 158.68
+Starting budget used: 63.20
+Bench budget used:    19.80 / 20.00
+Total budget used:    83.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.5       11.64     
+Romero                   Spurs          Defender       5.0       12.13     
+Van de Ven               Spurs          Defender       4.7       12.13     
+J.Timber                 Arsenal        Defender       5.7       11.69     
+Alderete                 Sunderland     Defender       4.0       10.92     
+J.Palhinha               Spurs          Midfielder     5.5       11.23     
+Anthony                  Burnley        Midfielder     5.5       10.99     
+Xhaka                    Sunderland     Midfielder     5.0       10.74     
+Cullen                   Burnley        Midfielder     5.0       10.54     
+João Pedro               Chelsea        Forward        7.8       9.77      
+Gyökeres                 Arsenal        Forward        9.0       9.44      
+---------------------------------------------------------------------------
+BENCH
+Senesi                   Bournemouth    Defender       4.6       10.70     
+Zubimendi                Arsenal        Midfielder     5.4       9.62      
+Foster                   Burnley        Forward        5.0       9.19      
+Petrović                 Bournemouth    Goalkeeper     4.5       8.72      
+---------------------------------------------------------------------------
+Starting XI points: 121.22
+Bench points:      38.23
+15-Man Team Points: 159.45
+Starting budget used: 61.70
+Bench budget used:    19.50 / 20.00
+Total budget used:    81.20 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.5       11.64     
+Romero                   Spurs          Defender       5.0       12.13     
+Van de Ven               Spurs          Defender       4.7       12.13     
+J.Timber                 Arsenal        Defender       5.7       11.69     
+Mukiele                  Sunderland     Defender       4.0       10.92     
+J.Palhinha               Spurs          Midfielder     5.5       11.23     
+Anthony                  Burnley        Midfielder     5.5       10.99     
+Xhaka                    Sunderland     Midfielder     5.0       10.74     
+Cullen                   Burnley        Midfielder     5.0       10.54     
+Semenyo                  Bournemouth    Midfielder     7.5       9.93      
+João Pedro               Chelsea        Forward        7.8       9.77      
+---------------------------------------------------------------------------
+BENCH
+Senesi                   Bournemouth    Defender       4.6       10.70     
+Foster                   Burnley        Forward        5.0       9.19      
+Petrović                 Bournemouth    Goalkeeper     4.5       8.72      
+Muniz                    Fulham         Forward        5.5       6.87      
+---------------------------------------------------------------------------
+Starting XI points: 121.71
+Bench points:      35.48
+15-Man Team Points: 157.19
+Starting budget used: 60.20
+Bench budget used:    19.60 / 20.00
+Total budget used:    79.80 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.5       11.64     
+Romero                   Spurs          Defender       5.0       12.13     
+Van de Ven               Spurs          Defender       4.7       12.13     
+J.Timber                 Arsenal        Defender       5.7       11.69     
+Mukiele                  Sunderland     Defender       4.0       10.92     
+Alderete                 Sunderland     Defender       4.0       10.92     
+J.Palhinha               Spurs          Midfielder     5.5       11.23     
+Anthony                  Burnley        Midfielder     5.5       10.99     
+Cullen                   Burnley        Midfielder     5.0       10.54     
+João Pedro               Chelsea        Forward        7.8       9.77      
+Gyökeres                 Arsenal        Forward        9.0       9.44      
+---------------------------------------------------------------------------
+BENCH
+Zubimendi                Arsenal        Midfielder     5.4       9.62      
+Foster                   Burnley        Forward        5.0       9.19      
+Petrović                 Bournemouth    Goalkeeper     4.5       8.72      
+Brooks                   Bournemouth    Midfielder     5.0       8.00      
+---------------------------------------------------------------------------
+Starting XI points: 121.40
+Bench points:      35.53
+15-Man Team Points: 156.93
+Starting budget used: 60.70
+Bench budget used:    19.90 / 20.00
+Total budget used:    80.60 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.5       11.64     
+Romero                   Spurs          Defender       5.0       12.13     
+Van de Ven               Spurs          Defender       4.7       12.13     
+J.Timber                 Arsenal        Defender       5.7       11.69     
+Alderete                 Sunderland     Defender       4.0       10.92     
+Senesi                   Bournemouth    Defender       4.6       10.70     
+J.Palhinha               Spurs          Midfielder     5.5       11.23     
+Anthony                  Burnley        Midfielder     5.5       10.99     
+Xhaka                    Sunderland     Midfielder     5.0       10.74     
+Cullen                   Burnley        Midfielder     5.0       10.54     
+João Pedro               Chelsea        Forward        7.8       9.77      
+---------------------------------------------------------------------------
+BENCH
+Foster                   Burnley        Forward        5.0       9.19      
+Petrović                 Bournemouth    Goalkeeper     4.5       8.72      
+Brooks                   Bournemouth    Midfielder     5.0       8.00      
+Muniz                    Fulham         Forward        5.5       6.87      
+---------------------------------------------------------------------------
+Starting XI points: 122.48
+Bench points:      32.78
+15-Man Team Points: 155.26
+Starting budget used: 57.30
+Bench budget used:    20.00 / 20.00
+Total budget used:    77.30 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.5       11.64     
+Romero                   Spurs          Defender       5.0       12.13     
+Van de Ven               Spurs          Defender       4.7       12.13     
+J.Timber                 Arsenal        Defender       5.7       11.69     
+Alderete                 Sunderland     Defender       4.0       10.92     
+J.Palhinha               Spurs          Midfielder     5.5       11.23     
+Anthony                  Burnley        Midfielder     5.5       10.99     
+Xhaka                    Sunderland     Midfielder     5.0       10.74     
+João Pedro               Chelsea        Forward        7.8       9.77      
+Gyökeres                 Arsenal        Forward        9.0       9.44      
+Haaland                  Man City       Forward        14.2      9.28      
+---------------------------------------------------------------------------
+BENCH
+Senesi                   Bournemouth    Defender       4.6       10.70     
+Cullen                   Burnley        Midfielder     5.0       10.54     
+Zubimendi                Arsenal        Midfielder     5.4       9.62      
+Dúbravka                 Burnley        Goalkeeper     4.0       9.37      
+---------------------------------------------------------------------------
+Starting XI points: 119.96
+Bench points:      40.23
+15-Man Team Points: 160.19
+Starting budget used: 70.90
+Bench budget used:    19.00 / 20.00
+Total budget used:    89.90 / 100.00
+===========================================================================
+
+

@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.5       2.10      
+Rodon                    Leeds          Defender       4.0       1.60      
+Lacroix                  Crystal Palace Defender       5.0       1.56      
+Khusanov                 Man City       Defender       5.4       1.50      
+Grealish                 Everton        Midfielder     6.8       2.02      
+Sangaré                  Nott'm Forest  Midfielder     5.0       1.95      
+Schade                   Brentford      Midfielder     7.0       1.94      
+Dewsbury-Hall            Everton        Midfielder     5.0       1.91      
+Wood                     Nott'm Forest  Forward        7.6       1.78      
+Watkins                  Aston Villa    Forward        8.8       1.75      
+João Pedro               Chelsea        Forward        7.8       1.65      
+---------------------------------------------------------------------------
+BENCH
+Hughes                   Crystal Palace Midfielder     4.9       1.80      
+Pickford                 Everton        Goalkeeper     5.5       1.80      
+Livramento               Newcastle      Defender       5.1       1.45      
+Bogle                    Leeds          Defender       4.5       1.43      
+---------------------------------------------------------------------------
+Starting XI points: 19.76
+Bench points:      6.48
+15-Man Team Points: 26.24
+Starting budget used: 67.90
+Bench budget used:    20.00 / 20.00
+Total budget used:    87.90 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.5       2.10      
+Rodon                    Leeds          Defender       4.0       1.60      
+Lacroix                  Crystal Palace Defender       5.0       1.56      
+Khusanov                 Man City       Defender       5.4       1.50      
+Grealish                 Everton        Midfielder     6.8       2.02      
+Sangaré                  Nott'm Forest  Midfielder     5.0       1.95      
+Schade                   Brentford      Midfielder     7.0       1.94      
+Dewsbury-Hall            Everton        Midfielder     5.0       1.91      
+Rogers                   Aston Villa    Midfielder     7.0       1.89      
+Wood                     Nott'm Forest  Forward        7.6       1.78      
+Watkins                  Aston Villa    Forward        8.8       1.75      
+---------------------------------------------------------------------------
+BENCH
+Pickford                 Everton        Goalkeeper     5.5       1.80      
+Bogle                    Leeds          Defender       4.5       1.43      
+Cash                     Aston Villa    Defender       4.5       1.42      
+Muniz                    Fulham         Forward        5.5       1.41      
+---------------------------------------------------------------------------
+Starting XI points: 20.00
+Bench points:      6.06
+15-Man Team Points: 26.07
+Starting budget used: 67.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    87.10 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.5       2.10      
+Rodon                    Leeds          Defender       4.0       1.60      
+Lacroix                  Crystal Palace Defender       5.0       1.56      
+Khusanov                 Man City       Defender       5.4       1.50      
+Kerkez                   Liverpool      Defender       6.0       1.48      
+Grealish                 Everton        Midfielder     6.8       2.02      
+Sangaré                  Nott'm Forest  Midfielder     5.0       1.95      
+Schade                   Brentford      Midfielder     7.0       1.94      
+Dewsbury-Hall            Everton        Midfielder     5.0       1.91      
+Wood                     Nott'm Forest  Forward        7.6       1.78      
+Watkins                  Aston Villa    Forward        8.8       1.75      
+---------------------------------------------------------------------------
+BENCH
+Hughes                   Crystal Palace Midfielder     4.9       1.80      
+Pickford                 Everton        Goalkeeper     5.5       1.80      
+Muniz                    Fulham         Forward        5.5       1.41      
+Hartman                  Burnley        Defender       4.0       1.39      
+---------------------------------------------------------------------------
+Starting XI points: 19.59
+Bench points:      6.41
+15-Man Team Points: 26.00
+Starting budget used: 66.10
+Bench budget used:    19.90 / 20.00
+Total budget used:    86.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.5       2.10      
+Rodon                    Leeds          Defender       4.0       1.60      
+Lacroix                  Crystal Palace Defender       5.0       1.56      
+Khusanov                 Man City       Defender       5.4       1.50      
+Kerkez                   Liverpool      Defender       6.0       1.48      
+Grealish                 Everton        Midfielder     6.8       2.02      
+Sangaré                  Nott'm Forest  Midfielder     5.0       1.95      
+Schade                   Brentford      Midfielder     7.0       1.94      
+Dewsbury-Hall            Everton        Midfielder     5.0       1.91      
+Rogers                   Aston Villa    Midfielder     7.0       1.89      
+Wood                     Nott'm Forest  Forward        7.6       1.78      
+---------------------------------------------------------------------------
+BENCH
+Pickford                 Everton        Goalkeeper     5.5       1.80      
+Muniz                    Fulham         Forward        5.5       1.41      
+Hartman                  Burnley        Defender       4.0       1.39      
+Foster                   Burnley        Forward        5.0       1.31      
+---------------------------------------------------------------------------
+Starting XI points: 19.74
+Bench points:      5.91
+15-Man Team Points: 25.65
+Starting budget used: 64.30
+Bench budget used:    20.00 / 20.00
+Total budget used:    84.30 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.5       2.10      
+Rodon                    Leeds          Defender       4.0       1.60      
+Lacroix                  Crystal Palace Defender       5.0       1.56      
+Khusanov                 Man City       Defender       5.4       1.50      
+Kerkez                   Liverpool      Defender       6.0       1.48      
+Gabriel                  Arsenal        Defender       6.1       1.48      
+Grealish                 Everton        Midfielder     6.8       2.02      
+Sangaré                  Nott'm Forest  Midfielder     5.0       1.95      
+Schade                   Brentford      Midfielder     7.0       1.94      
+Wood                     Nott'm Forest  Forward        7.6       1.78      
+Watkins                  Aston Villa    Forward        8.8       1.75      
+---------------------------------------------------------------------------
+BENCH
+Dewsbury-Hall            Everton        Midfielder     5.0       1.91      
+King                     Fulham         Midfielder     4.5       1.76      
+Leno                     Fulham         Goalkeeper     5.0       1.73      
+Muniz                    Fulham         Forward        5.5       1.41      
+---------------------------------------------------------------------------
+Starting XI points: 19.16
+Bench points:      6.81
+15-Man Team Points: 25.97
+Starting budget used: 67.20
+Bench budget used:    20.00 / 20.00
+Total budget used:    87.20 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.5       2.10      
+Rodon                    Leeds          Defender       4.0       1.60      
+Lacroix                  Crystal Palace Defender       5.0       1.56      
+Khusanov                 Man City       Defender       5.4       1.50      
+Kerkez                   Liverpool      Defender       6.0       1.48      
+Gabriel                  Arsenal        Defender       6.1       1.48      
+Grealish                 Everton        Midfielder     6.8       2.02      
+Sangaré                  Nott'm Forest  Midfielder     5.0       1.95      
+Schade                   Brentford      Midfielder     7.0       1.94      
+Dewsbury-Hall            Everton        Midfielder     5.0       1.91      
+Wood                     Nott'm Forest  Forward        7.6       1.78      
+---------------------------------------------------------------------------
+BENCH
+King                     Fulham         Midfielder     4.5       1.76      
+Leno                     Fulham         Goalkeeper     5.0       1.73      
+Muniz                    Fulham         Forward        5.5       1.41      
+Foster                   Burnley        Forward        5.0       1.31      
+---------------------------------------------------------------------------
+Starting XI points: 19.32
+Bench points:      6.20
+15-Man Team Points: 25.53
+Starting budget used: 63.40
+Bench budget used:    20.00 / 20.00
+Total budget used:    83.40 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.5       2.10      
+Rodon                    Leeds          Defender       4.0       1.60      
+Lacroix                  Crystal Palace Defender       5.0       1.56      
+Khusanov                 Man City       Defender       5.4       1.50      
+Kerkez                   Liverpool      Defender       6.0       1.48      
+Grealish                 Everton        Midfielder     6.8       2.02      
+Sangaré                  Nott'm Forest  Midfielder     5.0       1.95      
+Schade                   Brentford      Midfielder     7.0       1.94      
+Wood                     Nott'm Forest  Forward        7.6       1.78      
+Watkins                  Aston Villa    Forward        8.8       1.75      
+João Pedro               Chelsea        Forward        7.8       1.65      
+---------------------------------------------------------------------------
+BENCH
+Dewsbury-Hall            Everton        Midfielder     5.0       1.91      
+Hughes                   Crystal Palace Midfielder     4.9       1.80      
+Pickford                 Everton        Goalkeeper     5.5       1.80      
+Bogle                    Leeds          Defender       4.5       1.43      
+---------------------------------------------------------------------------
+Starting XI points: 19.32
+Bench points:      6.95
+15-Man Team Points: 26.27
+Starting budget used: 68.90
+Bench budget used:    19.90 / 20.00
+Total budget used:    88.80 / 100.00
+===========================================================================
+
+

@@ -1,0 +1,231 @@
+FPL Optimization (predictions CSV) for Entry 412780
+Bank: 11.00 | Current-15 CSV cost: 89.00
+================================================================================================
+
+Transfers: 0  |  Formation: 5-4-1
+Projected XI points: 6.56 | Bench points: -9998.03
+Cost used: 89.00  (XI 57.30 / Bench 31.70)
+Points Out: 0.00
+Points In: 0.00
+Points Difference: 0.00
+Points Diff %: 0.00%
+Budget Left: 11.00
+
+OUT:
+IN:
+
+STARTING XI:
+  Pope                   Newcastle       Goalkeeper     5.0    0.59
+  Spence                 Spurs           Defender       4.5    0.35
+  Van de Ven             Spurs           Defender       4.7    0.61
+  Senesi                 Bournemouth     Defender       4.6    0.72
+  Romero                 Spurs           Defender       5.0    0.48
+  Bogle                  Leeds           Defender       4.5    0.88
+  Lukić                  Fulham          Midfielder     5.0    0.68
+  Adams                  Bournemouth     Midfielder     5.0    0.50
+  Berge                  Fulham          Midfielder     5.0    0.56
+  Stach                  Leeds           Midfielder     5.0    0.67
+  Gyökeres               Arsenal         Forward        9.0    0.52
+BENCH:
+  Pickford               Everton         Goalkeeper     5.5    0.45
+  Rice                   Arsenal         Midfielder     6.5    0.30
+  Haaland                Man City        Forward       14.2    0.22
+  Mayenda                Sunderland      Forward        5.5  -9999.00
+
+Suggested (C): Bogle | (VC): Senesi
+------------------------------------------------------------------------------------------------
+
+Transfers: 1  |  Formation: 5-4-1
+Projected XI points: 6.85 | Bench points: -9998.03
+Cost used: 89.00  (XI 57.30 / Bench 31.70)
+Points Out: 0.22
+Points In: 0.94
+Points Difference: 0.71
+Points Diff %: 221.42%
+Budget Left: 11.00
+
+OUT:
+  Stach                  Leeds           Midfielder     5.0    0.22
+IN:
+  Xhaka                  Sunderland      Midfielder     5.0    0.94
+
+STARTING XI:
+  Pope                   Newcastle       Goalkeeper     5.0    0.59
+  Spence                 Spurs           Defender       4.5    0.35
+  Van de Ven             Spurs           Defender       4.7    0.61
+  Senesi                 Bournemouth     Defender       4.6    0.72
+  Romero                 Spurs           Defender       5.0    0.48
+  Bogle                  Leeds           Defender       4.5    0.88
+  Xhaka                  Sunderland      Midfielder     5.0    0.95
+  Lukić                  Fulham          Midfielder     5.0    0.68
+  Adams                  Bournemouth     Midfielder     5.0    0.50
+  Berge                  Fulham          Midfielder     5.0    0.56
+  Gyökeres               Arsenal         Forward        9.0    0.52
+BENCH:
+  Pickford               Everton         Goalkeeper     5.5    0.45
+  Rice                   Arsenal         Midfielder     6.5    0.30
+  Haaland                Man City        Forward       14.2    0.22
+  Mayenda                Sunderland      Forward        5.5  -9999.00
+
+Suggested (C): Xhaka | (VC): Bogle
+------------------------------------------------------------------------------------------------
+
+Transfers: 2  |  Formation: 4-4-2
+Projected XI points: 7.34 | Bench points: -9997.90
+Cost used: 82.60  (XI 60.60 / Bench 22.00)
+Points Out: 0.72
+Points In: 1.81
+Points Difference: 1.09
+Points Diff %: 133.12%
+Budget Left: 17.40
+
+OUT:
+  Haaland                Man City        Forward       14.2    0.50
+  Stach                  Leeds           Midfielder     5.0    0.22
+IN:
+  Xhaka                  Sunderland      Midfielder     5.0    0.94
+  João Pedro             Chelsea         Forward        7.8    0.87
+
+STARTING XI:
+  Pope                   Newcastle       Goalkeeper     5.0    0.59
+  Van de Ven             Spurs           Defender       4.7    0.61
+  Senesi                 Bournemouth     Defender       4.6    0.72
+  Romero                 Spurs           Defender       5.0    0.48
+  Bogle                  Leeds           Defender       4.5    0.88
+  Xhaka                  Sunderland      Midfielder     5.0    0.95
+  Lukić                  Fulham          Midfielder     5.0    0.68
+  Adams                  Bournemouth     Midfielder     5.0    0.50
+  Berge                  Fulham          Midfielder     5.0    0.56
+  João Pedro             Chelsea         Forward        7.8    0.84
+  Gyökeres               Arsenal         Forward        9.0    0.52
+BENCH:
+  Pickford               Everton         Goalkeeper     5.5    0.45
+  Spence                 Spurs           Defender       4.5    0.35
+  Rice                   Arsenal         Midfielder     6.5    0.30
+  Mayenda                Sunderland      Forward        5.5  -9999.00
+
+Suggested (C): Xhaka | (VC): Bogle
+------------------------------------------------------------------------------------------------
+
+Transfers: 3  |  Formation: 4-4-2
+Projected XI points: 7.31 | Bench points: -9997.90
+Cost used: 84.40  (XI 62.40 / Bench 22.00)
+Points Out: 1.18
+Points In: 2.67
+Points Difference: 1.49
+Points Diff %: 116.39%
+Budget Left: 15.60
+
+OUT:
+  Haaland                Man City        Forward       14.2    0.50
+  Berge                  Fulham          Midfielder     5.0    0.46
+  Stach                  Leeds           Midfielder     5.0    0.22
+IN:
+  Xhaka                  Sunderland      Midfielder     5.0    0.94
+  João Pedro             Chelsea         Forward        7.8    0.87
+  Grealish               Everton         Midfielder     6.8    0.86
+
+STARTING XI:
+  Pope                   Newcastle       Goalkeeper     5.0    0.59
+  Van de Ven             Spurs           Defender       4.7    0.61
+  Senesi                 Bournemouth     Defender       4.6    0.72
+  Romero                 Spurs           Defender       5.0    0.48
+  Bogle                  Leeds           Defender       4.5    0.88
+  Xhaka                  Sunderland      Midfielder     5.0    0.95
+  Grealish               Everton         Midfielder     6.8    0.54
+  Lukić                  Fulham          Midfielder     5.0    0.68
+  Adams                  Bournemouth     Midfielder     5.0    0.50
+  João Pedro             Chelsea         Forward        7.8    0.84
+  Gyökeres               Arsenal         Forward        9.0    0.52
+BENCH:
+  Pickford               Everton         Goalkeeper     5.5    0.45
+  Spence                 Spurs           Defender       4.5    0.35
+  Rice                   Arsenal         Midfielder     6.5    0.30
+  Mayenda                Sunderland      Forward        5.5  -9999.00
+
+Suggested (C): Xhaka | (VC): Bogle
+------------------------------------------------------------------------------------------------
+
+Transfers: 4  |  Formation: 4-4-2
+Projected XI points: 7.32 | Bench points: -9997.90
+Cost used: 85.50  (XI 63.50 / Bench 22.00)
+Points Out: 1.77
+Points In: 3.46
+Points Difference: 1.69
+Points Diff %: 90.14%
+Budget Left: 14.50
+
+OUT:
+  Romero                 Spurs           Defender       5.0    0.59
+  Haaland                Man City        Forward       14.2    0.50
+  Berge                  Fulham          Midfielder     5.0    0.46
+  Stach                  Leeds           Midfielder     5.0    0.22
+IN:
+  Xhaka                  Sunderland      Midfielder     5.0    0.94
+  João Pedro             Chelsea         Forward        7.8    0.87
+  Grealish               Everton         Midfielder     6.8    0.86
+  Gabriel                Arsenal         Defender       6.1    0.79
+
+STARTING XI:
+  Pope                   Newcastle       Goalkeeper     5.0    0.59
+  Gabriel                Arsenal         Defender       6.1    0.49
+  Van de Ven             Spurs           Defender       4.7    0.61
+  Senesi                 Bournemouth     Defender       4.6    0.72
+  Bogle                  Leeds           Defender       4.5    0.88
+  Xhaka                  Sunderland      Midfielder     5.0    0.95
+  Grealish               Everton         Midfielder     6.8    0.54
+  Lukić                  Fulham          Midfielder     5.0    0.68
+  Adams                  Bournemouth     Midfielder     5.0    0.50
+  João Pedro             Chelsea         Forward        7.8    0.84
+  Gyökeres               Arsenal         Forward        9.0    0.52
+BENCH:
+  Pickford               Everton         Goalkeeper     5.5    0.45
+  Spence                 Spurs           Defender       4.5    0.35
+  Rice                   Arsenal         Midfielder     6.5    0.30
+  Mayenda                Sunderland      Forward        5.5  -9999.00
+
+Suggested (C): Xhaka | (VC): Bogle
+------------------------------------------------------------------------------------------------
+
+Transfers: 5  |  Formation: 3-5-2
+Projected XI points: 7.38 | Bench points: -9997.72
+Cost used: 84.00  (XI 62.40 / Bench 21.60)
+Points Out: 2.46
+Points In: 4.32
+Points Difference: 1.87
+Points Diff %: 72.90%
+Budget Left: 16.00
+
+OUT:
+  Rice                   Arsenal         Midfielder     6.5    0.68
+  Romero                 Spurs           Defender       5.0    0.59
+  Haaland                Man City        Forward       14.2    0.50
+  Berge                  Fulham          Midfielder     5.0    0.46
+  Stach                  Leeds           Midfielder     5.0    0.22
+IN:
+  Xhaka                  Sunderland      Midfielder     5.0    0.94
+  João Pedro             Chelsea         Forward        7.8    0.87
+  Grealish               Everton         Midfielder     6.8    0.86
+  P.M.Sarr               Spurs           Midfielder     5.0    0.86
+  Gabriel                Arsenal         Defender       6.1    0.79
+
+STARTING XI:
+  Pope                   Newcastle       Goalkeeper     5.0    0.59
+  Van de Ven             Spurs           Defender       4.7    0.61
+  Senesi                 Bournemouth     Defender       4.6    0.72
+  Bogle                  Leeds           Defender       4.5    0.88
+  Xhaka                  Sunderland      Midfielder     5.0    0.95
+  Grealish               Everton         Midfielder     6.8    0.54
+  P.M.Sarr               Spurs           Midfielder     5.0    0.55
+  Lukić                  Fulham          Midfielder     5.0    0.68
+  Adams                  Bournemouth     Midfielder     5.0    0.50
+  João Pedro             Chelsea         Forward        7.8    0.84
+  Gyökeres               Arsenal         Forward        9.0    0.52
+BENCH:
+  Pickford               Everton         Goalkeeper     5.5    0.45
+  Gabriel                Arsenal         Defender       6.1    0.49
+  Spence                 Spurs           Defender       4.5    0.35
+  Mayenda                Sunderland      Forward        5.5  -9999.00
+
+Suggested (C): Xhaka | (VC): Bogle
+------------------------------------------------------------------------------------------------

@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+José Sá                  Wolves         Goalkeeper     4.5       1.43      
+Trippier                 Newcastle      Defender       5.0       1.15      
+Tarkowski                Everton        Defender       5.5       1.14      
+Bogle                    Leeds          Defender       4.5       1.13      
+Dewsbury-Hall            Everton        Midfielder     5.0       1.62      
+Sessegnon                Fulham         Midfielder     5.4       1.52      
+Rogers                   Aston Villa    Midfielder     7.0       1.46      
+Sangaré                  Nott'm Forest  Midfielder     5.0       1.42      
+Wood                     Nott'm Forest  Forward        7.6       1.43      
+Thiago                   Brentford      Forward        6.0       1.42      
+Watkins                  Aston Villa    Forward        8.8       1.41      
+---------------------------------------------------------------------------
+BENCH
+Pope                     Newcastle      Goalkeeper     5.0       1.42      
+Xhaka                    Sunderland     Midfielder     5.0       1.34      
+Mosquera                 Arsenal        Defender       5.4       1.13      
+Hartman                  Burnley        Defender       4.0       1.12      
+---------------------------------------------------------------------------
+Starting XI points: 15.13
+Bench points:      5.01
+15-Man Team Points: 20.14
+Starting budget used: 64.30
+Bench budget used:    19.40 / 20.00
+Total budget used:    83.70 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+José Sá                  Wolves         Goalkeeper     4.5       1.43      
+Trippier                 Newcastle      Defender       5.0       1.15      
+Tarkowski                Everton        Defender       5.5       1.14      
+Bogle                    Leeds          Defender       4.5       1.13      
+Dewsbury-Hall            Everton        Midfielder     5.0       1.62      
+Sessegnon                Fulham         Midfielder     5.4       1.52      
+Rogers                   Aston Villa    Midfielder     7.0       1.46      
+Sangaré                  Nott'm Forest  Midfielder     5.0       1.42      
+Mbeumo                   Man Utd        Midfielder     8.1       1.38      
+Wood                     Nott'm Forest  Forward        7.6       1.43      
+Thiago                   Brentford      Forward        6.0       1.42      
+---------------------------------------------------------------------------
+BENCH
+Pope                     Newcastle      Goalkeeper     5.0       1.42      
+Muniz                    Fulham         Forward        5.5       1.14      
+Mosquera                 Arsenal        Defender       5.4       1.13      
+Hartman                  Burnley        Defender       4.0       1.12      
+---------------------------------------------------------------------------
+Starting XI points: 15.10
+Bench points:      4.81
+15-Man Team Points: 19.91
+Starting budget used: 63.60
+Bench budget used:    19.90 / 20.00
+Total budget used:    83.50 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+José Sá                  Wolves         Goalkeeper     4.5       1.43      
+Trippier                 Newcastle      Defender       5.0       1.15      
+Tarkowski                Everton        Defender       5.5       1.14      
+Bogle                    Leeds          Defender       4.5       1.13      
+Mosquera                 Arsenal        Defender       5.4       1.13      
+Dewsbury-Hall            Everton        Midfielder     5.0       1.62      
+Sessegnon                Fulham         Midfielder     5.4       1.52      
+Rogers                   Aston Villa    Midfielder     7.0       1.46      
+Sangaré                  Nott'm Forest  Midfielder     5.0       1.42      
+Wood                     Nott'm Forest  Forward        7.6       1.43      
+Thiago                   Brentford      Forward        6.0       1.42      
+---------------------------------------------------------------------------
+BENCH
+Pope                     Newcastle      Goalkeeper     5.0       1.42      
+Xhaka                    Sunderland     Midfielder     5.0       1.34      
+Muniz                    Fulham         Forward        5.5       1.14      
+Hartman                  Burnley        Defender       4.0       1.12      
+---------------------------------------------------------------------------
+Starting XI points: 14.85
+Bench points:      5.03
+15-Man Team Points: 19.88
+Starting budget used: 60.90
+Bench budget used:    19.50 / 20.00
+Total budget used:    80.40 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+José Sá                  Wolves         Goalkeeper     4.5       1.43      
+Trippier                 Newcastle      Defender       5.0       1.15      
+Tarkowski                Everton        Defender       5.5       1.14      
+Bogle                    Leeds          Defender       4.5       1.13      
+Mosquera                 Arsenal        Defender       5.4       1.13      
+Dewsbury-Hall            Everton        Midfielder     5.0       1.62      
+Sessegnon                Fulham         Midfielder     5.4       1.52      
+Rogers                   Aston Villa    Midfielder     7.0       1.46      
+Sangaré                  Nott'm Forest  Midfielder     5.0       1.42      
+Mbeumo                   Man Utd        Midfielder     8.1       1.38      
+Wood                     Nott'm Forest  Forward        7.6       1.43      
+---------------------------------------------------------------------------
+BENCH
+Thiago                   Brentford      Forward        6.0       1.42      
+Pope                     Newcastle      Goalkeeper     5.0       1.42      
+Hartman                  Burnley        Defender       4.0       1.12      
+Foster                   Burnley        Forward        5.0       0.97      
+---------------------------------------------------------------------------
+Starting XI points: 14.80
+Bench points:      4.93
+15-Man Team Points: 19.73
+Starting budget used: 63.00
+Bench budget used:    20.00 / 20.00
+Total budget used:    83.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+José Sá                  Wolves         Goalkeeper     4.5       1.43      
+Trippier                 Newcastle      Defender       5.0       1.15      
+Tarkowski                Everton        Defender       5.5       1.14      
+Bogle                    Leeds          Defender       4.5       1.13      
+Mosquera                 Arsenal        Defender       5.4       1.13      
+O'Brien                  Everton        Defender       5.0       1.13      
+Dewsbury-Hall            Everton        Midfielder     5.0       1.62      
+Sessegnon                Fulham         Midfielder     5.4       1.52      
+Rogers                   Aston Villa    Midfielder     7.0       1.46      
+Wood                     Nott'm Forest  Forward        7.6       1.43      
+Thiago                   Brentford      Forward        6.0       1.42      
+---------------------------------------------------------------------------
+BENCH
+Sangaré                  Nott'm Forest  Midfielder     5.0       1.42      
+Pope                     Newcastle      Goalkeeper     5.0       1.42      
+Xhaka                    Sunderland     Midfielder     5.0       1.34      
+Foster                   Burnley        Forward        5.0       0.97      
+---------------------------------------------------------------------------
+Starting XI points: 14.55
+Bench points:      5.16
+15-Man Team Points: 19.71
+Starting budget used: 60.90
+Bench budget used:    20.00 / 20.00
+Total budget used:    80.90 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+José Sá                  Wolves         Goalkeeper     4.5       1.43      
+Trippier                 Newcastle      Defender       5.0       1.15      
+Tarkowski                Everton        Defender       5.5       1.14      
+Bogle                    Leeds          Defender       4.5       1.13      
+Mosquera                 Arsenal        Defender       5.4       1.13      
+O'Brien                  Everton        Defender       5.0       1.13      
+Dewsbury-Hall            Everton        Midfielder     5.0       1.62      
+Sessegnon                Fulham         Midfielder     5.4       1.52      
+Rogers                   Aston Villa    Midfielder     7.0       1.46      
+Sangaré                  Nott'm Forest  Midfielder     5.0       1.42      
+Wood                     Nott'm Forest  Forward        7.6       1.43      
+---------------------------------------------------------------------------
+BENCH
+Thiago                   Brentford      Forward        6.0       1.42      
+Xhaka                    Sunderland     Midfielder     5.0       1.34      
+Foster                   Burnley        Forward        5.0       0.97      
+Dúbravka                 Burnley        Goalkeeper     4.0       0.88      
+---------------------------------------------------------------------------
+Starting XI points: 14.55
+Bench points:      4.61
+15-Man Team Points: 19.17
+Starting budget used: 59.90
+Bench budget used:    20.00 / 20.00
+Total budget used:    79.90 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+José Sá                  Wolves         Goalkeeper     4.5       1.43      
+Trippier                 Newcastle      Defender       5.0       1.15      
+Tarkowski                Everton        Defender       5.5       1.14      
+Bogle                    Leeds          Defender       4.5       1.13      
+Mosquera                 Arsenal        Defender       5.4       1.13      
+Dewsbury-Hall            Everton        Midfielder     5.0       1.62      
+Sessegnon                Fulham         Midfielder     5.4       1.52      
+Rogers                   Aston Villa    Midfielder     7.0       1.46      
+Wood                     Nott'm Forest  Forward        7.6       1.43      
+Thiago                   Brentford      Forward        6.0       1.42      
+Watkins                  Aston Villa    Forward        8.8       1.41      
+---------------------------------------------------------------------------
+BENCH
+Sangaré                  Nott'm Forest  Midfielder     5.0       1.42      
+Pope                     Newcastle      Goalkeeper     5.0       1.42      
+Xhaka                    Sunderland     Midfielder     5.0       1.34      
+O'Brien                  Everton        Defender       5.0       1.13      
+---------------------------------------------------------------------------
+Starting XI points: 14.83
+Bench points:      5.32
+15-Man Team Points: 20.15
+Starting budget used: 64.70
+Bench budget used:    20.00 / 20.00
+Total budget used:    84.70 / 100.00
+===========================================================================
+
+
