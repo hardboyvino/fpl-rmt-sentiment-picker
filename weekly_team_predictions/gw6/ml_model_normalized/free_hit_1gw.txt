@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Verbruggen               Brighton       Goalkeeper     4.5       1.18      
+Livramento               Newcastle      Defender       5.1       1.51      
+Tosin                    Chelsea        Defender       4.5       1.21      
+Mukiele                  Sunderland     Defender       4.0       1.17      
+Stach                    Leeds          Midfielder     5.0       1.72      
+Szoboszlai               Liverpool      Midfielder     6.5       1.68      
+Bergvall                 Spurs          Midfielder     5.4       1.63      
+Talbi                    Sunderland     Midfielder     5.0       1.57      
+Richarlison              Spurs          Forward        6.8       1.27      
+Evanilson                Bournemouth    Forward        7.0       1.26      
+Muniz                    Fulham         Forward        5.5       1.18      
+---------------------------------------------------------------------------
+BENCH
+Okafor                   Leeds          Midfielder     5.5       1.52      
+Khusanov                 Man City       Defender       5.4       1.17      
+Petrović                 Bournemouth    Goalkeeper     4.5       1.14      
+Shaw                     Man Utd        Defender       4.5       1.11      
+---------------------------------------------------------------------------
+Starting XI points: 15.39
+Bench points:      4.94
+15-Man Team Points: 20.33
+Starting budget used: 59.30
+Bench budget used:    19.90 / 20.00
+Total budget used:    79.20 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Verbruggen               Brighton       Goalkeeper     4.5       1.18      
+Livramento               Newcastle      Defender       5.1       1.51      
+Tosin                    Chelsea        Defender       4.5       1.21      
+Mukiele                  Sunderland     Defender       4.0       1.17      
+Stach                    Leeds          Midfielder     5.0       1.72      
+Szoboszlai               Liverpool      Midfielder     6.5       1.68      
+Bergvall                 Spurs          Midfielder     5.4       1.63      
+Talbi                    Sunderland     Midfielder     5.0       1.57      
+Semenyo                  Bournemouth    Midfielder     7.7       1.52      
+Richarlison              Spurs          Forward        6.8       1.27      
+Evanilson                Bournemouth    Forward        7.0       1.26      
+---------------------------------------------------------------------------
+BENCH
+Muniz                    Fulham         Forward        5.5       1.18      
+Khusanov                 Man City       Defender       5.4       1.17      
+Petrović                 Bournemouth    Goalkeeper     4.5       1.14      
+Shaw                     Man Utd        Defender       4.5       1.11      
+---------------------------------------------------------------------------
+Starting XI points: 15.73
+Bench points:      4.60
+15-Man Team Points: 20.33
+Starting budget used: 61.50
+Bench budget used:    19.90 / 20.00
+Total budget used:    81.40 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Verbruggen               Brighton       Goalkeeper     4.5       1.18      
+Livramento               Newcastle      Defender       5.1       1.51      
+Tosin                    Chelsea        Defender       4.5       1.21      
+Mukiele                  Sunderland     Defender       4.0       1.17      
+Khusanov                 Man City       Defender       5.4       1.17      
+Stach                    Leeds          Midfielder     5.0       1.72      
+Szoboszlai               Liverpool      Midfielder     6.5       1.68      
+Bergvall                 Spurs          Midfielder     5.4       1.63      
+Talbi                    Sunderland     Midfielder     5.0       1.57      
+Richarlison              Spurs          Forward        6.8       1.27      
+Evanilson                Bournemouth    Forward        7.0       1.26      
+---------------------------------------------------------------------------
+BENCH
+Okafor                   Leeds          Midfielder     5.5       1.52      
+Muniz                    Fulham         Forward        5.5       1.18      
+Petrović                 Bournemouth    Goalkeeper     4.5       1.14      
+Shaw                     Man Utd        Defender       4.5       1.11      
+---------------------------------------------------------------------------
+Starting XI points: 15.38
+Bench points:      4.95
+15-Man Team Points: 20.33
+Starting budget used: 59.20
+Bench budget used:    20.00 / 20.00
+Total budget used:    79.20 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Verbruggen               Brighton       Goalkeeper     4.5       1.18      
+Livramento               Newcastle      Defender       5.1       1.51      
+Tosin                    Chelsea        Defender       4.5       1.21      
+Mukiele                  Sunderland     Defender       4.0       1.17      
+Khusanov                 Man City       Defender       5.4       1.17      
+Stach                    Leeds          Midfielder     5.0       1.72      
+Szoboszlai               Liverpool      Midfielder     6.5       1.68      
+Bergvall                 Spurs          Midfielder     5.4       1.63      
+Talbi                    Sunderland     Midfielder     5.0       1.57      
+Semenyo                  Bournemouth    Midfielder     7.7       1.52      
+Richarlison              Spurs          Forward        6.8       1.27      
+---------------------------------------------------------------------------
+BENCH
+Muniz                    Fulham         Forward        5.5       1.18      
+Sels                     Nott'm Forest  Goalkeeper     5.0       1.17      
+Shaw                     Man Utd        Defender       4.5       1.11      
+Foster                   Burnley        Forward        5.0       1.07      
+---------------------------------------------------------------------------
+Starting XI points: 15.64
+Bench points:      4.53
+15-Man Team Points: 20.17
+Starting budget used: 59.90
+Bench budget used:    20.00 / 20.00
+Total budget used:    79.90 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Verbruggen               Brighton       Goalkeeper     4.5       1.18      
+Livramento               Newcastle      Defender       5.1       1.51      
+Tosin                    Chelsea        Defender       4.5       1.21      
+Mukiele                  Sunderland     Defender       4.0       1.17      
+Khusanov                 Man City       Defender       5.4       1.17      
+Shaw                     Man Utd        Defender       4.5       1.11      
+Stach                    Leeds          Midfielder     5.0       1.72      
+Szoboszlai               Liverpool      Midfielder     6.5       1.68      
+Bergvall                 Spurs          Midfielder     5.4       1.63      
+Richarlison              Spurs          Forward        6.8       1.27      
+Evanilson                Bournemouth    Forward        7.0       1.26      
+---------------------------------------------------------------------------
+BENCH
+Talbi                    Sunderland     Midfielder     5.0       1.57      
+Adams                    Bournemouth    Midfielder     5.0       1.48      
+Muniz                    Fulham         Forward        5.5       1.18      
+Petrović                 Bournemouth    Goalkeeper     4.5       1.14      
+---------------------------------------------------------------------------
+Starting XI points: 14.92
+Bench points:      5.36
+15-Man Team Points: 20.29
+Starting budget used: 58.70
+Bench budget used:    20.00 / 20.00
+Total budget used:    78.70 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Verbruggen               Brighton       Goalkeeper     4.5       1.18      
+Livramento               Newcastle      Defender       5.1       1.51      
+Tosin                    Chelsea        Defender       4.5       1.21      
+Mukiele                  Sunderland     Defender       4.0       1.17      
+Khusanov                 Man City       Defender       5.4       1.17      
+Shaw                     Man Utd        Defender       4.5       1.11      
+Stach                    Leeds          Midfielder     5.0       1.72      
+Szoboszlai               Liverpool      Midfielder     6.5       1.68      
+Bergvall                 Spurs          Midfielder     5.4       1.63      
+Talbi                    Sunderland     Midfielder     5.0       1.57      
+Richarlison              Spurs          Forward        6.8       1.27      
+---------------------------------------------------------------------------
+BENCH
+Adams                    Bournemouth    Midfielder     5.0       1.48      
+Muniz                    Fulham         Forward        5.5       1.18      
+Petrović                 Bournemouth    Goalkeeper     4.5       1.14      
+Foster                   Burnley        Forward        5.0       1.07      
+---------------------------------------------------------------------------
+Starting XI points: 15.23
+Bench points:      4.86
+15-Man Team Points: 20.09
+Starting budget used: 56.70
+Bench budget used:    20.00 / 20.00
+Total budget used:    76.70 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Verbruggen               Brighton       Goalkeeper     4.5       1.18      
+Livramento               Newcastle      Defender       5.1       1.51      
+Tosin                    Chelsea        Defender       4.5       1.21      
+Mukiele                  Sunderland     Defender       4.0       1.17      
+Khusanov                 Man City       Defender       5.4       1.17      
+Stach                    Leeds          Midfielder     5.0       1.72      
+Szoboszlai               Liverpool      Midfielder     6.5       1.68      
+Bergvall                 Spurs          Midfielder     5.4       1.63      
+Richarlison              Spurs          Forward        6.8       1.27      
+Evanilson                Bournemouth    Forward        7.0       1.26      
+Muniz                    Fulham         Forward        5.5       1.18      
+---------------------------------------------------------------------------
+BENCH
+Talbi                    Sunderland     Midfielder     5.0       1.57      
+Okafor                   Leeds          Midfielder     5.5       1.52      
+Sels                     Nott'm Forest  Goalkeeper     5.0       1.17      
+Shaw                     Man Utd        Defender       4.5       1.11      
+---------------------------------------------------------------------------
+Starting XI points: 14.99
+Bench points:      5.37
+15-Man Team Points: 20.37
+Starting budget used: 59.70
+Bench budget used:    20.00 / 20.00
+Total budget used:    79.70 / 100.00
+===========================================================================
+
+

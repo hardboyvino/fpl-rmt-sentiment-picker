@@ -1,0 +1,258 @@
+Optimized Team (3GW selections re-arranged for 1GW)
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+================================================================================
+
+Optimized Team:
+3GW selection formation: 3-4-3  |  1GW best formation: 4-4-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Pope                     Newcastle      Goalkeeper     5.1       9.35      11.74     
+Alderete                 Sunderland     Defender       4.1       12.20     12.20     
+Mukiele                  Sunderland     Defender       4.0       10.72     10.72     
+Hartman                  Burnley        Defender       4.0       10.15     10.15     
+Van de Ven               Spurs          Defender       4.8       9.35      9.17      
+Minteh                   Brighton       Midfielder     5.9       12.00     14.02     
+Anthony                  Burnley        Midfielder     5.7       11.64     11.64     
+Ayari                    Brighton       Midfielder     4.9       10.78     12.80     
+Mitoma                   Brighton       Midfielder     6.4       10.65     12.66     
+Haaland                  Man City       Forward        14.4      12.68     12.87     
+Foster                   Burnley        Forward        5.0       10.29     10.29     
+--------------------------------------------------------------------------------
+BENCH
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     10.99     
+Calvert-Lewin            Leeds          Forward        5.5       9.77      4.45      
+Longstaff                Leeds          Midfielder     4.9       10.35     5.04      
+Rodon                    Leeds          Defender       4.0       9.45      4.13      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 128.26
+Starting XI points (3GW): 119.81
+Bench points (1GW):      24.61
+Bench points (3GW):      40.56
+15-Man Team Points (1GW): 152.87
+15-Man Team Points (3GW): 160.37
+Starting budget used: 64.30
+Bench budget used:    19.00 / 20.00
+Total budget used:    83.30 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 3-5-2  |  1GW best formation: 3-5-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Pope                     Newcastle      Goalkeeper     5.1       9.35      11.74     
+Alderete                 Sunderland     Defender       4.1       12.20     12.20     
+Mukiele                  Sunderland     Defender       4.0       10.72     10.72     
+Hartman                  Burnley        Defender       4.0       10.15     10.15     
+Minteh                   Brighton       Midfielder     5.9       12.00     14.02     
+Anthony                  Burnley        Midfielder     5.7       11.64     11.64     
+Ayari                    Brighton       Midfielder     4.9       10.78     12.80     
+Mitoma                   Brighton       Midfielder     6.4       10.65     12.66     
+Doku                     Man City       Midfielder     6.6       10.43     10.62     
+Haaland                  Man City       Forward        14.4      12.68     12.87     
+Foster                   Burnley        Forward        5.0       10.29     10.29     
+--------------------------------------------------------------------------------
+BENCH
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     10.99     
+Calvert-Lewin            Leeds          Forward        5.5       9.77      4.45      
+Rodon                    Leeds          Defender       4.0       9.45      4.13      
+Van de Ven               Spurs          Defender       4.8       9.35      9.17      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 129.71
+Starting XI points (3GW): 120.89
+Bench points (1GW):      28.74
+Bench points (3GW):      39.56
+15-Man Team Points (1GW): 158.45
+15-Man Team Points (3GW): 160.45
+Starting budget used: 66.10
+Bench budget used:    18.90 / 20.00
+Total budget used:    85.00 / 100.00
+[BEST 1GW XI+Bench]
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 4-4-2  |  1GW best formation: 4-4-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Pope                     Newcastle      Goalkeeper     5.1       9.35      11.74     
+Alderete                 Sunderland     Defender       4.1       12.20     12.20     
+Mukiele                  Sunderland     Defender       4.0       10.72     10.72     
+Hartman                  Burnley        Defender       4.0       10.15     10.15     
+F.Kadıoğlu               Brighton       Defender       4.4       10.02     12.04     
+Minteh                   Brighton       Midfielder     5.9       12.00     14.02     
+Anthony                  Burnley        Midfielder     5.7       11.64     11.64     
+Ayari                    Brighton       Midfielder     4.9       10.78     12.80     
+Doku                     Man City       Midfielder     6.6       10.43     10.62     
+Haaland                  Man City       Forward        14.4      12.68     12.87     
+Foster                   Burnley        Forward        5.0       10.29     10.29     
+--------------------------------------------------------------------------------
+BENCH
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     10.99     
+Longstaff                Leeds          Midfielder     4.9       10.35     5.04      
+Calvert-Lewin            Leeds          Forward        5.5       9.77      4.45      
+Rodon                    Leeds          Defender       4.0       9.45      4.13      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 129.09
+Starting XI points (3GW): 120.26
+Bench points (1GW):      24.61
+Bench points (3GW):      40.56
+15-Man Team Points (1GW): 153.70
+15-Man Team Points (3GW): 160.82
+Starting budget used: 64.10
+Bench budget used:    19.00 / 20.00
+Total budget used:    83.10 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 4-5-1  |  1GW best formation: 4-5-1
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     10.99     
+Alderete                 Sunderland     Defender       4.1       12.20     12.20     
+Mukiele                  Sunderland     Defender       4.0       10.72     10.72     
+Hartman                  Burnley        Defender       4.0       10.15     10.15     
+F.Kadıoğlu               Brighton       Defender       4.4       10.02     12.04     
+Minteh                   Brighton       Midfielder     5.9       12.00     14.02     
+Anthony                  Burnley        Midfielder     5.7       11.64     11.64     
+Ayari                    Brighton       Midfielder     4.9       10.78     12.80     
+Cullen                   Burnley        Midfielder     5.0       10.46     10.46     
+Doku                     Man City       Midfielder     6.6       10.43     10.62     
+Haaland                  Man City       Forward        14.4      12.68     12.87     
+--------------------------------------------------------------------------------
+BENCH
+Calvert-Lewin            Leeds          Forward        5.5       9.77      4.45      
+Rodon                    Leeds          Defender       4.0       9.45      4.13      
+Darlow                   Leeds          Goalkeeper     4.0       8.73      3.42      
+Thiago                   Brentford      Forward        6.0       7.33      6.24      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 128.51
+Starting XI points (3GW): 122.07
+Bench points (1GW):      18.24
+Bench points (3GW):      35.28
+15-Man Team Points (1GW): 146.75
+15-Man Team Points (3GW): 157.35
+Starting budget used: 63.60
+Bench budget used:    19.50 / 20.00
+Total budget used:    83.10 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 5-3-2  |  1GW best formation: 5-3-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     10.99     
+Alderete                 Sunderland     Defender       4.1       12.20     12.20     
+Mukiele                  Sunderland     Defender       4.0       10.72     10.72     
+Hartman                  Burnley        Defender       4.0       10.15     10.15     
+F.Kadıoğlu               Brighton       Defender       4.4       10.02     12.04     
+Van Hecke                Brighton       Defender       4.4       10.02     12.04     
+Minteh                   Brighton       Midfielder     5.9       12.00     14.02     
+Anthony                  Burnley        Midfielder     5.7       11.64     11.64     
+Doku                     Man City       Midfielder     6.6       10.43     10.62     
+Haaland                  Man City       Forward        14.4      12.68     12.87     
+Foster                   Burnley        Forward        5.0       10.29     10.29     
+--------------------------------------------------------------------------------
+BENCH
+Longstaff                Leeds          Midfielder     4.9       10.35     5.04      
+Gravenberch              Liverpool      Midfielder     5.6       10.33     8.31      
+Calvert-Lewin            Leeds          Forward        5.5       9.77      4.45      
+Darlow                   Leeds          Goalkeeper     4.0       8.73      3.42      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 127.58
+Starting XI points (3GW): 121.14
+Bench points (1GW):      21.22
+Bench points (3GW):      39.18
+15-Man Team Points (1GW): 148.80
+15-Man Team Points (3GW): 160.32
+Starting budget used: 63.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    83.10 / 100.00
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 5-4-1  |  1GW best formation: 4-4-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     10.99     
+Alderete                 Sunderland     Defender       4.1       12.20     12.20     
+Mukiele                  Sunderland     Defender       4.0       10.72     10.72     
+Van Hecke                Brighton       Defender       4.4       10.02     12.04     
+Gabriel                  Arsenal        Defender       6.2       9.65      14.05     
+Minteh                   Brighton       Midfielder     5.9       12.00     14.02     
+Anthony                  Burnley        Midfielder     5.7       11.64     11.64     
+Ayari                    Brighton       Midfielder     4.9       10.78     12.80     
+Doku                     Man City       Midfielder     6.6       10.43     10.62     
+Haaland                  Man City       Forward        14.4      12.68     12.87     
+Foster                   Burnley        Forward        5.0       10.29     10.29     
+--------------------------------------------------------------------------------
+BENCH
+Hartman                  Burnley        Defender       4.0       10.15     10.15     
+Longstaff                Leeds          Midfielder     4.9       10.35     5.04      
+Calvert-Lewin            Leeds          Forward        5.5       9.77      4.45      
+Darlow                   Leeds          Goalkeeper     4.0       8.73      3.42      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 132.24
+Starting XI points (3GW): 121.40
+Bench points (1GW):      23.06
+Bench points (3GW):      39.00
+15-Man Team Points (1GW): 155.30
+15-Man Team Points (3GW): 160.40
+Starting budget used: 65.80
+Bench budget used:    18.40 / 20.00
+Total budget used:    84.20 / 100.00
+[BEST 1GW XI]
+================================================================================
+
+
+
+Optimized Team:
+3GW selection formation: 4-3-3  |  1GW best formation: 4-4-2
+Name                     Team           Position       Price     3GW       1GW       
+--------------------------------------------------------------------------------
+STARTING XI (arranged for 1GW)
+Pope                     Newcastle      Goalkeeper     5.1       9.35      11.74     
+Alderete                 Sunderland     Defender       4.1       12.20     12.20     
+Mukiele                  Sunderland     Defender       4.0       10.72     10.72     
+Hartman                  Burnley        Defender       4.0       10.15     10.15     
+F.Kadıoğlu               Brighton       Defender       4.4       10.02     12.04     
+Minteh                   Brighton       Midfielder     5.9       12.00     14.02     
+Anthony                  Burnley        Midfielder     5.7       11.64     11.64     
+Ayari                    Brighton       Midfielder     4.9       10.78     12.80     
+Gravenberch              Liverpool      Midfielder     5.6       10.33     8.31      
+Haaland                  Man City       Forward        14.4      12.68     12.87     
+Foster                   Burnley        Forward        5.0       10.29     10.29     
+--------------------------------------------------------------------------------
+BENCH
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     10.99     
+Calvert-Lewin            Leeds          Forward        5.5       9.77      4.45      
+Longstaff                Leeds          Midfielder     4.9       10.35     5.04      
+Rodon                    Leeds          Defender       4.0       9.45      4.13      
+--------------------------------------------------------------------------------
+Starting XI points (1GW): 126.78
+Starting XI points (3GW): 120.16
+Bench points (1GW):      24.61
+Bench points (3GW):      40.56
+15-Man Team Points (1GW): 151.39
+15-Man Team Points (3GW): 160.72
+Starting budget used: 63.10
+Bench budget used:    19.00 / 20.00
+Total budget used:    82.10 / 100.00
+================================================================================
+
+
+

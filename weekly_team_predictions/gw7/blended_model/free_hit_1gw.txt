@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       0.90      
+F.Kadıoğlu               Brighton       Defender       4.4       0.93      
+Estève                   Burnley        Defender       4.0       0.72      
+O’Reilly                 Man City       Defender       4.9       0.71      
+Zubimendi                Arsenal        Midfielder     5.5       0.94      
+Georginio                Brighton       Midfielder     5.8       0.93      
+Mitoma                   Brighton       Midfielder     6.4       0.88      
+Cullen                   Burnley        Midfielder     5.0       0.86      
+Woltemade                Newcastle      Forward        7.1       0.93      
+Watkins                  Aston Villa    Forward        8.7       0.91      
+Gyökeres                 Arsenal        Forward        9.0       0.90      
+---------------------------------------------------------------------------
+BENCH
+Martinez                 Aston Villa    Goalkeeper     5.0       0.82      
+Ndoye                    Nott'm Forest  Midfielder     6.0       0.81      
+Ekdal                    Burnley        Defender       4.0       0.69      
+Mitchell                 Crystal Palace Defender       5.0       0.66      
+---------------------------------------------------------------------------
+Starting XI points: 9.61
+Bench points:      2.99
+15-Man Team Points: 12.60
+Starting budget used: 66.40
+Bench budget used:    20.00 / 20.00
+Total budget used:    86.40 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       0.90      
+F.Kadıoğlu               Brighton       Defender       4.4       0.93      
+Estève                   Burnley        Defender       4.0       0.72      
+O’Reilly                 Man City       Defender       4.9       0.71      
+Zubimendi                Arsenal        Midfielder     5.5       0.94      
+Georginio                Brighton       Midfielder     5.8       0.93      
+Eze                      Arsenal        Midfielder     7.6       0.90      
+Mitoma                   Brighton       Midfielder     6.4       0.88      
+Cullen                   Burnley        Midfielder     5.0       0.86      
+Woltemade                Newcastle      Forward        7.1       0.93      
+Watkins                  Aston Villa    Forward        8.7       0.91      
+---------------------------------------------------------------------------
+BENCH
+Isidor                   Sunderland     Forward        5.6       0.83      
+Martinez                 Aston Villa    Goalkeeper     5.0       0.82      
+Ekdal                    Burnley        Defender       4.0       0.69      
+Mitchell                 Crystal Palace Defender       5.0       0.66      
+---------------------------------------------------------------------------
+Starting XI points: 9.61
+Bench points:      3.01
+15-Man Team Points: 12.62
+Starting budget used: 65.00
+Bench budget used:    19.60 / 20.00
+Total budget used:    84.60 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       0.90      
+F.Kadıoğlu               Brighton       Defender       4.4       0.93      
+Estève                   Burnley        Defender       4.0       0.72      
+O’Reilly                 Man City       Defender       4.9       0.71      
+Ekdal                    Burnley        Defender       4.0       0.69      
+Zubimendi                Arsenal        Midfielder     5.5       0.94      
+Georginio                Brighton       Midfielder     5.8       0.93      
+Eze                      Arsenal        Midfielder     7.6       0.90      
+Mitoma                   Brighton       Midfielder     6.4       0.88      
+Woltemade                Newcastle      Forward        7.1       0.93      
+Watkins                  Aston Villa    Forward        8.7       0.91      
+---------------------------------------------------------------------------
+BENCH
+Laurent                  Burnley        Midfielder     4.9       0.85      
+Isidor                   Sunderland     Forward        5.6       0.83      
+Martinez                 Aston Villa    Goalkeeper     5.0       0.82      
+Mings                    Aston Villa    Defender       4.5       0.60      
+---------------------------------------------------------------------------
+Starting XI points: 9.44
+Bench points:      3.10
+15-Man Team Points: 12.54
+Starting budget used: 64.00
+Bench budget used:    20.00 / 20.00
+Total budget used:    84.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       0.90      
+F.Kadıoğlu               Brighton       Defender       4.4       0.93      
+Estève                   Burnley        Defender       4.0       0.72      
+O’Reilly                 Man City       Defender       4.9       0.71      
+Ekdal                    Burnley        Defender       4.0       0.69      
+Zubimendi                Arsenal        Midfielder     5.5       0.94      
+Georginio                Brighton       Midfielder     5.8       0.93      
+Eze                      Arsenal        Midfielder     7.6       0.90      
+Mitoma                   Brighton       Midfielder     6.4       0.88      
+Cullen                   Burnley        Midfielder     5.0       0.86      
+Woltemade                Newcastle      Forward        7.1       0.93      
+---------------------------------------------------------------------------
+BENCH
+Isidor                   Sunderland     Forward        5.6       0.83      
+Thiago                   Brentford      Forward        6.0       0.53      
+Alderete                 Sunderland     Defender       4.1       0.50      
+Darlow                   Leeds          Goalkeeper     4.0       0.31      
+---------------------------------------------------------------------------
+Starting XI points: 9.40
+Bench points:      2.17
+15-Man Team Points: 11.57
+Starting budget used: 60.30
+Bench budget used:    19.70 / 20.00
+Total budget used:    80.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       0.90      
+F.Kadıoğlu               Brighton       Defender       4.4       0.93      
+Saliba                   Arsenal        Defender       6.0       0.72      
+Estève                   Burnley        Defender       4.0       0.72      
+O’Reilly                 Man City       Defender       4.9       0.71      
+Ekdal                    Burnley        Defender       4.0       0.69      
+Zubimendi                Arsenal        Midfielder     5.5       0.94      
+Georginio                Brighton       Midfielder     5.8       0.93      
+Mitoma                   Brighton       Midfielder     6.4       0.88      
+Woltemade                Newcastle      Forward        7.1       0.93      
+Watkins                  Aston Villa    Forward        8.7       0.91      
+---------------------------------------------------------------------------
+BENCH
+Foster                   Burnley        Forward        5.0       0.83      
+Martinez                 Aston Villa    Goalkeeper     5.0       0.82      
+Kamada                   Crystal Palace Midfielder     5.0       0.68      
+Talbi                    Sunderland     Midfielder     5.0       0.68      
+---------------------------------------------------------------------------
+Starting XI points: 9.26
+Bench points:      3.02
+15-Man Team Points: 12.28
+Starting budget used: 62.40
+Bench budget used:    20.00 / 20.00
+Total budget used:    82.40 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       0.90      
+F.Kadıoğlu               Brighton       Defender       4.4       0.93      
+Saliba                   Arsenal        Defender       6.0       0.72      
+Estève                   Burnley        Defender       4.0       0.72      
+O’Reilly                 Man City       Defender       4.9       0.71      
+Ekdal                    Burnley        Defender       4.0       0.69      
+Zubimendi                Arsenal        Midfielder     5.5       0.94      
+Georginio                Brighton       Midfielder     5.8       0.93      
+Mitoma                   Brighton       Midfielder     6.4       0.88      
+Cullen                   Burnley        Midfielder     5.0       0.86      
+Woltemade                Newcastle      Forward        7.1       0.93      
+---------------------------------------------------------------------------
+BENCH
+Isidor                   Sunderland     Forward        5.6       0.83      
+E.Le Fée                 Sunderland     Midfielder     4.9       0.58      
+Darlow                   Leeds          Goalkeeper     4.0       0.31      
+Calvert-Lewin            Leeds          Forward        5.5       0.20      
+---------------------------------------------------------------------------
+Starting XI points: 9.22
+Bench points:      1.92
+15-Man Team Points: 11.14
+Starting budget used: 58.70
+Bench budget used:    20.00 / 20.00
+Total budget used:    78.70 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       0.90      
+F.Kadıoğlu               Brighton       Defender       4.4       0.93      
+Estève                   Burnley        Defender       4.0       0.72      
+O’Reilly                 Man City       Defender       4.9       0.71      
+Ekdal                    Burnley        Defender       4.0       0.69      
+Zubimendi                Arsenal        Midfielder     5.5       0.94      
+Georginio                Brighton       Midfielder     5.8       0.93      
+Mitoma                   Brighton       Midfielder     6.4       0.88      
+Woltemade                Newcastle      Forward        7.1       0.93      
+Watkins                  Aston Villa    Forward        8.7       0.91      
+Gyökeres                 Arsenal        Forward        9.0       0.90      
+---------------------------------------------------------------------------
+BENCH
+Cullen                   Burnley        Midfielder     5.0       0.86      
+Martinez                 Aston Villa    Goalkeeper     5.0       0.82      
+Kamada                   Crystal Palace Midfielder     5.0       0.68      
+Mitchell                 Crystal Palace Defender       5.0       0.66      
+---------------------------------------------------------------------------
+Starting XI points: 9.44
+Bench points:      3.03
+15-Man Team Points: 12.47
+Starting budget used: 65.40
+Bench budget used:    20.00 / 20.00
+Total budget used:    85.40 / 100.00
+===========================================================================
+
+

@@ -1,0 +1,231 @@
+FPL Optimization (predictions CSV) for Entry 6686286
+Bank: 13.00 | Current-15 CSV cost: 87.80
+================================================================================================
+
+Transfers: 0  |  Formation: 3-4-3
+Projected XI points: 110.32 | Bench points: 24.87
+Cost used: 87.80  (XI 69.80 / Bench 18.00)
+Points Out: 0.00
+Points In: 0.00
+Points Difference: 0.00
+Points Diff %: 0.00%
+Budget Left: 13.00
+
+OUT:
+IN:
+
+STARTING XI:
+  Vicario                Spurs           Goalkeeper     5.1   12.80
+  Chalobah               Chelsea         Defender       5.2   11.30
+  Calafiori              Arsenal         Defender       5.7    8.50
+  Senesi                 Bournemouth     Defender       4.8   10.52
+  Anthony                Burnley         Midfielder     5.5    7.79
+  Enzo                   Chelsea         Midfielder     6.7   10.27
+  Semenyo                Bournemouth     Midfielder     7.7    9.62
+  Tavernier              Bournemouth     Midfielder     5.5    7.82
+  Richarlison            Spurs           Forward        6.8   12.80
+  Gyökeres               Arsenal         Forward        9.0    8.50
+  João Pedro             Chelsea         Forward        7.8   10.40
+BENCH:
+  Stach                  Leeds           Midfielder     5.0    5.04
+  Rodon                  Leeds           Defender       4.0    4.13
+  Gudmundsson            Leeds           Defender       4.0    4.13
+  Leno                   Fulham          Goalkeeper     5.0   11.57
+
+Suggested (C): Vicario | (VC): Richarlison
+------------------------------------------------------------------------------------------------
+
+Transfers: 1  |  Formation: 3-4-3
+Projected XI points: 115.88 | Bench points: 24.87
+Cost used: 87.70  (XI 69.70 / Bench 18.00)
+Points Out: 5.80
+Points In: 11.55
+Points Difference: 5.75
+Points Diff %: 97.46%
+Budget Left: 13.10
+
+OUT:
+  Tavernier              Bournemouth     Midfielder     5.5    5.80
+IN:
+  Bergvall               Spurs           Midfielder     5.4   11.55
+
+STARTING XI:
+  Vicario                Spurs           Goalkeeper     5.1   12.80
+  Chalobah               Chelsea         Defender       5.2   11.30
+  Calafiori              Arsenal         Defender       5.7    8.50
+  Senesi                 Bournemouth     Defender       4.8   10.52
+  Bergvall               Spurs           Midfielder     5.4   13.38
+  Anthony                Burnley         Midfielder     5.5    7.79
+  Enzo                   Chelsea         Midfielder     6.7   10.27
+  Semenyo                Bournemouth     Midfielder     7.7    9.62
+  Richarlison            Spurs           Forward        6.8   12.80
+  Gyökeres               Arsenal         Forward        9.0    8.50
+  João Pedro             Chelsea         Forward        7.8   10.40
+BENCH:
+  Stach                  Leeds           Midfielder     5.0    5.04
+  Rodon                  Leeds           Defender       4.0    4.13
+  Gudmundsson            Leeds           Defender       4.0    4.13
+  Leno                   Fulham          Goalkeeper     5.0   11.57
+
+Suggested (C): Bergvall | (VC): Vicario
+------------------------------------------------------------------------------------------------
+
+Transfers: 2  |  Formation: 3-4-3
+Projected XI points: 118.92 | Bench points: 24.87
+Cost used: 94.20  (XI 76.20 / Bench 18.00)
+Points Out: 14.00
+Points In: 24.07
+Points Difference: 10.07
+Points Diff %: 71.42%
+Budget Left: 6.60
+
+OUT:
+  João Pedro             Chelsea         Forward        7.8    8.20
+  Tavernier              Bournemouth     Midfielder     5.5    5.80
+IN:
+  Haaland                Man City        Forward       14.3   12.52
+  Bergvall               Spurs           Midfielder     5.4   11.55
+
+STARTING XI:
+  Vicario                Spurs           Goalkeeper     5.1   12.80
+  Chalobah               Chelsea         Defender       5.2   11.30
+  Calafiori              Arsenal         Defender       5.7    8.50
+  Senesi                 Bournemouth     Defender       4.8   10.52
+  Bergvall               Spurs           Midfielder     5.4   13.38
+  Anthony                Burnley         Midfielder     5.5    7.79
+  Enzo                   Chelsea         Midfielder     6.7   10.27
+  Semenyo                Bournemouth     Midfielder     7.7    9.62
+  Haaland                Man City        Forward       14.3   13.44
+  Richarlison            Spurs           Forward        6.8   12.80
+  Gyökeres               Arsenal         Forward        9.0    8.50
+BENCH:
+  Stach                  Leeds           Midfielder     5.0    5.04
+  Rodon                  Leeds           Defender       4.0    4.13
+  Gudmundsson            Leeds           Defender       4.0    4.13
+  Leno                   Fulham          Goalkeeper     5.0   11.57
+
+Suggested (C): Haaland | (VC): Bergvall
+------------------------------------------------------------------------------------------------
+
+Transfers: 3  |  Formation: 4-3-3
+Projected XI points: 120.28 | Bench points: 28.53
+Cost used: 92.00  (XI 72.50 / Bench 19.50)
+Points Out: 21.95
+Points In: 35.20
+Points Difference: 13.25
+Points Diff %: 60.09%
+Budget Left: 8.80
+
+OUT:
+  João Pedro             Chelsea         Forward        7.8    8.20
+  Semenyo                Bournemouth     Midfielder     7.7    7.60
+  Gudmundsson            Leeds           Defender       4.0    6.15
+IN:
+  Haaland                Man City        Forward       14.3   12.52
+  Bergvall               Spurs           Midfielder     5.4   11.55
+  Mukiele                Sunderland      Defender       4.0   11.13
+
+STARTING XI:
+  Vicario                Spurs           Goalkeeper     5.1   12.80
+  Mukiele                Sunderland      Defender       4.0   10.95
+  Chalobah               Chelsea         Defender       5.2   11.30
+  Calafiori              Arsenal         Defender       5.7    8.50
+  Senesi                 Bournemouth     Defender       4.8   10.52
+  Bergvall               Spurs           Midfielder     5.4   13.38
+  Enzo                   Chelsea         Midfielder     6.7   10.27
+  Tavernier              Bournemouth     Midfielder     5.5    7.82
+  Haaland                Man City        Forward       14.3   13.44
+  Richarlison            Spurs           Forward        6.8   12.80
+  Gyökeres               Arsenal         Forward        9.0    8.50
+BENCH:
+  Anthony                Burnley         Midfielder     5.5    7.79
+  Stach                  Leeds           Midfielder     5.0    5.04
+  Rodon                  Leeds           Defender       4.0    4.13
+  Leno                   Fulham          Goalkeeper     5.0   11.57
+
+Suggested (C): Haaland | (VC): Bergvall
+------------------------------------------------------------------------------------------------
+
+Transfers: 4  |  Formation: 4-3-3
+Projected XI points: 120.57 | Bench points: 28.53
+Cost used: 91.20  (XI 71.70 / Bench 19.50)
+Points Out: 30.45
+Points In: 46.20
+Points Difference: 15.75
+Points Diff %: 51.55%
+Budget Left: 9.60
+
+OUT:
+  Senesi                 Bournemouth     Defender       4.8    8.50
+  João Pedro             Chelsea         Forward        7.8    8.20
+  Semenyo                Bournemouth     Midfielder     7.7    7.60
+  Gudmundsson            Leeds           Defender       4.0    6.15
+IN:
+  Haaland                Man City        Forward       14.3   12.52
+  Bergvall               Spurs           Midfielder     5.4   11.55
+  Mukiele                Sunderland      Defender       4.0   11.13
+  Alderete               Sunderland      Defender       4.0   11.00
+
+STARTING XI:
+  Vicario                Spurs           Goalkeeper     5.1   12.80
+  Mukiele                Sunderland      Defender       4.0   10.95
+  Alderete               Sunderland      Defender       4.0   10.81
+  Chalobah               Chelsea         Defender       5.2   11.30
+  Calafiori              Arsenal         Defender       5.7    8.50
+  Bergvall               Spurs           Midfielder     5.4   13.38
+  Enzo                   Chelsea         Midfielder     6.7   10.27
+  Tavernier              Bournemouth     Midfielder     5.5    7.82
+  Haaland                Man City        Forward       14.3   13.44
+  Richarlison            Spurs           Forward        6.8   12.80
+  Gyökeres               Arsenal         Forward        9.0    8.50
+BENCH:
+  Anthony                Burnley         Midfielder     5.5    7.79
+  Stach                  Leeds           Midfielder     5.0    5.04
+  Rodon                  Leeds           Defender       4.0    4.13
+  Leno                   Fulham          Goalkeeper     5.0   11.57
+
+Suggested (C): Haaland | (VC): Bergvall
+------------------------------------------------------------------------------------------------
+
+Transfers: 5  |  Formation: 4-3-3
+Projected XI points: 120.49 | Bench points: 28.53
+Cost used: 89.40  (XI 69.90 / Bench 19.50)
+Points Out: 38.51
+Points In: 56.57
+Points Difference: 18.06
+Points Diff %: 46.78%
+Budget Left: 11.40
+
+OUT:
+  Senesi                 Bournemouth     Defender       4.8    8.50
+  João Pedro             Chelsea         Forward        7.8    8.20
+  Enzo                   Chelsea         Midfielder     6.7    8.06
+  Semenyo                Bournemouth     Midfielder     7.7    7.60
+  Gudmundsson            Leeds           Defender       4.0    6.15
+IN:
+  Haaland                Man City        Forward       14.3   12.52
+  Bergvall               Spurs           Midfielder     5.4   11.55
+  Mukiele                Sunderland      Defender       4.0   11.13
+  Alderete               Sunderland      Defender       4.0   11.00
+  E.Le Fée               Sunderland      Midfielder     4.9   10.37
+
+STARTING XI:
+  Vicario                Spurs           Goalkeeper     5.1   12.80
+  Mukiele                Sunderland      Defender       4.0   10.95
+  Alderete               Sunderland      Defender       4.0   10.81
+  Chalobah               Chelsea         Defender       5.2   11.30
+  Calafiori              Arsenal         Defender       5.7    8.50
+  Bergvall               Spurs           Midfielder     5.4   13.38
+  E.Le Fée               Sunderland      Midfielder     4.9   10.19
+  Tavernier              Bournemouth     Midfielder     5.5    7.82
+  Haaland                Man City        Forward       14.3   13.44
+  Richarlison            Spurs           Forward        6.8   12.80
+  Gyökeres               Arsenal         Forward        9.0    8.50
+BENCH:
+  Anthony                Burnley         Midfielder     5.5    7.79
+  Stach                  Leeds           Midfielder     5.0    5.04
+  Rodon                  Leeds           Defender       4.0    4.13
+  Leno                   Fulham          Goalkeeper     5.0   11.57
+
+Suggested (C): Haaland | (VC): Bergvall
+------------------------------------------------------------------------------------------------

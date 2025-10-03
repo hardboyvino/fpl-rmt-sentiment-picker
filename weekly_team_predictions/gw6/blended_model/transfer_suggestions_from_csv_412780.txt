@@ -1,0 +1,231 @@
+FPL Optimization (predictions CSV) for Entry 412780
+Bank: 11.00 | Current-15 CSV cost: 89.40
+================================================================================================
+
+Transfers: 0  |  Formation: 3-5-2
+Projected XI points: 7.05 | Bench points: 0.74
+Cost used: 89.40  (XI 69.90 / Bench 19.50)
+Points Out: 0.00
+Points In: 0.00
+Points Difference: 0.00
+Points Diff %: 0.00%
+Budget Left: 11.00
+
+OUT:
+IN:
+
+STARTING XI:
+  Pickford               Everton         Goalkeeper     5.5    0.84
+  Van de Ven             Spurs           Defender       4.7    0.68
+  Romero                 Spurs           Defender       5.1    0.61
+  Senesi                 Bournemouth     Defender       4.8    0.52
+  Xhaka                  Sunderland      Midfielder     5.0    0.57
+  Adams                  Bournemouth     Midfielder     5.0    0.76
+  Rice                   Arsenal         Midfielder     6.5    0.47
+  Lukić                  Fulham          Midfielder     5.0    0.58
+  Berge                  Fulham          Midfielder     5.0    0.70
+  Haaland                Man City        Forward       14.3    0.75
+  Gyökeres               Arsenal         Forward        9.0    0.57
+BENCH:
+  Pope                   Newcastle       Goalkeeper     5.0    0.48
+  Bogle                  Leeds           Defender       4.5    0.26
+  Spence                 Spurs           Defender       4.5    0.00
+  Mayenda                Sunderland      Forward        5.5    0.00
+
+Suggested (C): Pickford | (VC): Adams
+------------------------------------------------------------------------------------------------
+
+Transfers: 1  |  Formation: 3-5-2
+Projected XI points: 7.18 | Bench points: 0.74
+Cost used: 89.40  (XI 69.90 / Bench 19.50)
+Points Out: 0.33
+Points In: 0.94
+Points Difference: 0.61
+Points Diff %: 140.85%
+Budget Left: 11.00
+
+OUT:
+  Berge                  Fulham          Midfielder     5.0    0.33
+IN:
+  Talbi                  Sunderland      Midfielder     5.0    0.94
+
+STARTING XI:
+  Pickford               Everton         Goalkeeper     5.5    0.84
+  Van de Ven             Spurs           Defender       4.7    0.68
+  Romero                 Spurs           Defender       5.1    0.61
+  Senesi                 Bournemouth     Defender       4.8    0.52
+  Talbi                  Sunderland      Midfielder     5.0    0.83
+  Xhaka                  Sunderland      Midfielder     5.0    0.57
+  Adams                  Bournemouth     Midfielder     5.0    0.76
+  Rice                   Arsenal         Midfielder     6.5    0.47
+  Lukić                  Fulham          Midfielder     5.0    0.58
+  Haaland                Man City        Forward       14.3    0.75
+  Gyökeres               Arsenal         Forward        9.0    0.57
+BENCH:
+  Pope                   Newcastle       Goalkeeper     5.0    0.48
+  Bogle                  Leeds           Defender       4.5    0.26
+  Spence                 Spurs           Defender       4.5    0.00
+  Mayenda                Sunderland      Forward        5.5    0.00
+
+Suggested (C): Pickford | (VC): Talbi
+------------------------------------------------------------------------------------------------
+
+Transfers: 2  |  Formation: 3-5-2
+Projected XI points: 7.25 | Bench points: 0.74
+Cost used: 85.40  (XI 65.90 / Bench 19.50)
+Points Out: 0.75
+Points In: 1.76
+Points Difference: 1.01
+Points Diff %: 119.74%
+Budget Left: 15.00
+
+OUT:
+  Gyökeres               Arsenal         Forward        9.0    0.42
+  Berge                  Fulham          Midfielder     5.0    0.33
+IN:
+  Talbi                  Sunderland      Midfielder     5.0    0.94
+  Foster                 Burnley         Forward        5.0    0.82
+
+STARTING XI:
+  Pickford               Everton         Goalkeeper     5.5    0.84
+  Van de Ven             Spurs           Defender       4.7    0.68
+  Romero                 Spurs           Defender       5.1    0.61
+  Senesi                 Bournemouth     Defender       4.8    0.52
+  Talbi                  Sunderland      Midfielder     5.0    0.83
+  Xhaka                  Sunderland      Midfielder     5.0    0.57
+  Adams                  Bournemouth     Midfielder     5.0    0.76
+  Rice                   Arsenal         Midfielder     6.5    0.47
+  Lukić                  Fulham          Midfielder     5.0    0.58
+  Foster                 Burnley         Forward        5.0    0.64
+  Haaland                Man City        Forward       14.3    0.75
+BENCH:
+  Pope                   Newcastle       Goalkeeper     5.0    0.48
+  Bogle                  Leeds           Defender       4.5    0.26
+  Spence                 Spurs           Defender       4.5    0.00
+  Mayenda                Sunderland      Forward        5.5    0.00
+
+Suggested (C): Pickford | (VC): Talbi
+------------------------------------------------------------------------------------------------
+
+Transfers: 3  |  Formation: 3-4-3
+Projected XI points: 7.85 | Bench points: 1.83
+Cost used: 89.10  (XI 69.80 / Bench 19.30)
+Points Out: 0.45
+Points In: 2.66
+Points Difference: 2.21
+Points Diff %: 398.34%
+Budget Left: 11.30
+
+OUT:
+  Rice                   Arsenal         Midfielder     6.5    0.45
+  Spence                 Spurs           Defender       4.5    0.00
+  Mayenda                Sunderland      Forward        5.5    0.00
+IN:
+  Bergvall               Spurs           Midfielder     5.4    0.98
+  Gvardiol               Man City        Defender       5.8    0.86
+  Foster                 Burnley         Forward        5.0    0.82
+
+STARTING XI:
+  Pickford               Everton         Goalkeeper     5.5    0.84
+  Gvardiol               Man City        Defender       5.8    0.74
+  Van de Ven             Spurs           Defender       4.7    0.68
+  Romero                 Spurs           Defender       5.1    0.61
+  Bergvall               Spurs           Midfielder     5.4    0.99
+  Adams                  Bournemouth     Midfielder     5.0    0.76
+  Lukić                  Fulham          Midfielder     5.0    0.58
+  Berge                  Fulham          Midfielder     5.0    0.70
+  Foster                 Burnley         Forward        5.0    0.64
+  Haaland                Man City        Forward       14.3    0.75
+  Gyökeres               Arsenal         Forward        9.0    0.57
+BENCH:
+  Xhaka                  Sunderland      Midfielder     5.0    0.57
+  Pope                   Newcastle       Goalkeeper     5.0    0.48
+  Bogle                  Leeds           Defender       4.5    0.26
+  Senesi                 Bournemouth     Defender       4.8    0.52
+
+Suggested (C): Bergvall | (VC): Pickford
+------------------------------------------------------------------------------------------------
+
+Transfers: 4  |  Formation: 3-4-3
+Projected XI points: 8.07 | Bench points: 1.83
+Cost used: 86.50  (XI 67.20 / Bench 19.30)
+Points Out: 0.87
+Points In: 3.49
+Points Difference: 2.62
+Points Diff %: 269.98%
+Budget Left: 13.90
+
+OUT:
+  Rice                   Arsenal         Midfielder     6.5    0.45
+  Gyökeres               Arsenal         Forward        9.0    0.42
+  Spence                 Spurs           Defender       4.5    0.00
+  Mayenda                Sunderland      Forward        5.5    0.00
+IN:
+  Talbi                  Sunderland      Midfielder     5.0    0.94
+  Richarlison            Spurs           Forward        6.8    0.87
+  Gvardiol               Man City        Defender       5.8    0.86
+  Foster                 Burnley         Forward        5.0    0.82
+
+STARTING XI:
+  Pickford               Everton         Goalkeeper     5.5    0.84
+  Gvardiol               Man City        Defender       5.8    0.74
+  Van de Ven             Spurs           Defender       4.7    0.68
+  Romero                 Spurs           Defender       5.1    0.61
+  Talbi                  Sunderland      Midfielder     5.0    0.83
+  Adams                  Bournemouth     Midfielder     5.0    0.76
+  Lukić                  Fulham          Midfielder     5.0    0.58
+  Berge                  Fulham          Midfielder     5.0    0.70
+  Richarlison            Spurs           Forward        6.8    0.95
+  Foster                 Burnley         Forward        5.0    0.64
+  Haaland                Man City        Forward       14.3    0.75
+BENCH:
+  Xhaka                  Sunderland      Midfielder     5.0    0.57
+  Pope                   Newcastle       Goalkeeper     5.0    0.48
+  Bogle                  Leeds           Defender       4.5    0.26
+  Senesi                 Bournemouth     Defender       4.8    0.52
+
+Suggested (C): Richarlison | (VC): Pickford
+------------------------------------------------------------------------------------------------
+
+Transfers: 5  |  Formation: 3-5-2
+Projected XI points: 7.95 | Bench points: 1.26
+Cost used: 87.00  (XI 67.20 / Bench 19.80)
+Points Out: 1.59
+Points In: 4.46
+Points Difference: 2.87
+Points Diff %: 169.96%
+Budget Left: 13.40
+
+OUT:
+  Rice                   Arsenal         Midfielder     6.5    0.45
+  Gyökeres               Arsenal         Forward        9.0    0.42
+  Lukić                  Fulham          Midfielder     5.0    0.39
+  Berge                  Fulham          Midfielder     5.0    0.33
+  Spence                 Spurs           Defender       4.5    0.00
+IN:
+  Bergvall               Spurs           Midfielder     5.4    0.98
+  Talbi                  Sunderland      Midfielder     5.0    0.94
+  Mitoma                 Brighton        Midfielder     6.4    0.86
+  Gvardiol               Man City        Defender       5.8    0.86
+  Foster                 Burnley         Forward        5.0    0.82
+
+STARTING XI:
+  Pickford               Everton         Goalkeeper     5.5    0.84
+  Gvardiol               Man City        Defender       5.8    0.74
+  Van de Ven             Spurs           Defender       4.7    0.68
+  Romero                 Spurs           Defender       5.1    0.61
+  Bergvall               Spurs           Midfielder     5.4    0.99
+  Talbi                  Sunderland      Midfielder     5.0    0.83
+  Mitoma                 Brighton        Midfielder     6.4    0.55
+  Xhaka                  Sunderland      Midfielder     5.0    0.57
+  Adams                  Bournemouth     Midfielder     5.0    0.76
+  Foster                 Burnley         Forward        5.0    0.64
+  Haaland                Man City        Forward       14.3    0.75
+BENCH:
+  Pope                   Newcastle       Goalkeeper     5.0    0.48
+  Bogle                  Leeds           Defender       4.5    0.26
+  Senesi                 Bournemouth     Defender       4.8    0.52
+  Mayenda                Sunderland      Forward        5.5    0.00
+
+Suggested (C): Bergvall | (VC): Pickford
+------------------------------------------------------------------------------------------------

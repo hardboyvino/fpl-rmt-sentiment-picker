@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       0.87      
+Pedro Porro              Spurs          Defender       5.6       0.88      
+Gvardiol                 Man City       Defender       5.8       0.86      
+Dunk                     Brighton       Defender       4.5       0.82      
+Bergvall                 Spurs          Midfielder     5.4       0.98      
+Talbi                    Sunderland     Midfielder     5.0       0.94      
+Diarra                   Sunderland     Midfielder     5.5       0.87      
+Mitoma                   Brighton       Midfielder     6.4       0.86      
+Richarlison              Spurs          Forward        6.8       0.87      
+Foster                   Burnley        Forward        5.0       0.82      
+Haaland                  Man City       Forward        14.3      0.68      
+---------------------------------------------------------------------------
+BENCH
+Cullen                   Burnley        Midfielder     5.0       0.81      
+Hume                     Sunderland     Defender       4.5       0.76      
+Pickford                 Everton        Goalkeeper     5.5       0.73      
+Lewis-Potter             Brentford      Defender       5.0       0.71      
+---------------------------------------------------------------------------
+Starting XI points: 9.46
+Bench points:      3.02
+15-Man Team Points: 12.48
+Starting budget used: 69.90
+Bench budget used:    20.00 / 20.00
+Total budget used:    89.90 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       0.87      
+Pedro Porro              Spurs          Defender       5.6       0.88      
+Gvardiol                 Man City       Defender       5.8       0.86      
+Dunk                     Brighton       Defender       4.5       0.82      
+Bergvall                 Spurs          Midfielder     5.4       0.98      
+Talbi                    Sunderland     Midfielder     5.0       0.94      
+Diarra                   Sunderland     Midfielder     5.5       0.87      
+Mitoma                   Brighton       Midfielder     6.4       0.86      
+Cullen                   Burnley        Midfielder     5.0       0.81      
+Richarlison              Spurs          Forward        6.8       0.87      
+Foster                   Burnley        Forward        5.0       0.82      
+---------------------------------------------------------------------------
+BENCH
+Mukiele                  Sunderland     Defender       4.0       0.72      
+Kayode                   Brentford      Defender       4.5       0.70      
+Verbruggen               Brighton       Goalkeeper     4.5       0.67      
+Evanilson                Bournemouth    Forward        7.0       0.57      
+---------------------------------------------------------------------------
+Starting XI points: 9.59
+Bench points:      2.67
+15-Man Team Points: 12.26
+Starting budget used: 60.60
+Bench budget used:    20.00 / 20.00
+Total budget used:    80.60 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       0.87      
+Pedro Porro              Spurs          Defender       5.6       0.88      
+Gvardiol                 Man City       Defender       5.8       0.86      
+Dunk                     Brighton       Defender       4.5       0.82      
+Hume                     Sunderland     Defender       4.5       0.76      
+Bergvall                 Spurs          Midfielder     5.4       0.98      
+Talbi                    Sunderland     Midfielder     5.0       0.94      
+Diarra                   Sunderland     Midfielder     5.5       0.87      
+Mitoma                   Brighton       Midfielder     6.4       0.86      
+Richarlison              Spurs          Forward        6.8       0.87      
+Foster                   Burnley        Forward        5.0       0.82      
+---------------------------------------------------------------------------
+BENCH
+Cullen                   Burnley        Midfielder     5.0       0.81      
+Kayode                   Brentford      Defender       4.5       0.70      
+Pope                     Newcastle      Goalkeeper     5.0       0.68      
+Muniz                    Fulham         Forward        5.5       0.45      
+---------------------------------------------------------------------------
+Starting XI points: 9.54
+Bench points:      2.65
+15-Man Team Points: 12.18
+Starting budget used: 60.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    80.10 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       0.87      
+Pedro Porro              Spurs          Defender       5.6       0.88      
+Gvardiol                 Man City       Defender       5.8       0.86      
+Van de Ven               Spurs          Defender       4.7       0.82      
+Dunk                     Brighton       Defender       4.5       0.82      
+Bergvall                 Spurs          Midfielder     5.4       0.98      
+Talbi                    Sunderland     Midfielder     5.0       0.94      
+Diarra                   Sunderland     Midfielder     5.5       0.87      
+Mitoma                   Brighton       Midfielder     6.4       0.86      
+Cullen                   Burnley        Midfielder     5.0       0.81      
+Foster                   Burnley        Forward        5.0       0.82      
+---------------------------------------------------------------------------
+BENCH
+Mukiele                  Sunderland     Defender       4.0       0.72      
+Verbruggen               Brighton       Goalkeeper     4.5       0.67      
+Muniz                    Fulham         Forward        5.5       0.45      
+Thiago                   Brentford      Forward        6.0       0.36      
+---------------------------------------------------------------------------
+Starting XI points: 9.54
+Bench points:      2.20
+15-Man Team Points: 11.74
+Starting budget used: 58.50
+Bench budget used:    20.00 / 20.00
+Total budget used:    78.50 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       0.87      
+Pedro Porro              Spurs          Defender       5.6       0.88      
+Gvardiol                 Man City       Defender       5.8       0.86      
+Dunk                     Brighton       Defender       4.5       0.82      
+Hume                     Sunderland     Defender       4.5       0.76      
+Gabriel                  Arsenal        Defender       6.1       0.73      
+Bergvall                 Spurs          Midfielder     5.4       0.98      
+Talbi                    Sunderland     Midfielder     5.0       0.94      
+Diarra                   Sunderland     Midfielder     5.5       0.87      
+Richarlison              Spurs          Forward        6.8       0.87      
+Foster                   Burnley        Forward        5.0       0.82      
+---------------------------------------------------------------------------
+BENCH
+Cullen                   Burnley        Midfielder     5.0       0.81      
+Ayari                    Brighton       Midfielder     4.9       0.81      
+Verbruggen               Brighton       Goalkeeper     4.5       0.67      
+Muniz                    Fulham         Forward        5.5       0.45      
+---------------------------------------------------------------------------
+Starting XI points: 9.41
+Bench points:      2.74
+15-Man Team Points: 12.14
+Starting budget used: 59.80
+Bench budget used:    19.90 / 20.00
+Total budget used:    79.70 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       0.87      
+Pedro Porro              Spurs          Defender       5.6       0.88      
+Gvardiol                 Man City       Defender       5.8       0.86      
+Van de Ven               Spurs          Defender       4.7       0.82      
+Dunk                     Brighton       Defender       4.5       0.82      
+Hume                     Sunderland     Defender       4.5       0.76      
+Bergvall                 Spurs          Midfielder     5.4       0.98      
+Talbi                    Sunderland     Midfielder     5.0       0.94      
+Diarra                   Sunderland     Midfielder     5.5       0.87      
+Mitoma                   Brighton       Midfielder     6.4       0.86      
+Foster                   Burnley        Forward        5.0       0.82      
+---------------------------------------------------------------------------
+BENCH
+Cullen                   Burnley        Midfielder     5.0       0.81      
+Dúbravka                 Burnley        Goalkeeper     4.0       0.57      
+Muniz                    Fulham         Forward        5.5       0.45      
+Tolu                     Wolves         Forward        5.5       0.27      
+---------------------------------------------------------------------------
+Starting XI points: 9.49
+Bench points:      2.10
+15-Man Team Points: 11.59
+Starting budget used: 58.00
+Bench budget used:    20.00 / 20.00
+Total budget used:    78.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       0.87      
+Pedro Porro              Spurs          Defender       5.6       0.88      
+Gvardiol                 Man City       Defender       5.8       0.86      
+Dunk                     Brighton       Defender       4.5       0.82      
+Hume                     Sunderland     Defender       4.5       0.76      
+Bergvall                 Spurs          Midfielder     5.4       0.98      
+Talbi                    Sunderland     Midfielder     5.0       0.94      
+Diarra                   Sunderland     Midfielder     5.5       0.87      
+Richarlison              Spurs          Forward        6.8       0.87      
+Foster                   Burnley        Forward        5.0       0.82      
+Haaland                  Man City       Forward        14.3      0.68      
+---------------------------------------------------------------------------
+BENCH
+Cullen                   Burnley        Midfielder     5.0       0.81      
+Ayari                    Brighton       Midfielder     4.9       0.81      
+Pickford                 Everton        Goalkeeper     5.5       0.73      
+Kayode                   Brentford      Defender       4.5       0.70      
+---------------------------------------------------------------------------
+Starting XI points: 9.36
+Bench points:      3.05
+15-Man Team Points: 12.41
+Starting budget used: 68.00
+Bench budget used:    19.90 / 20.00
+Total budget used:    87.90 / 100.00
+===========================================================================
+
+

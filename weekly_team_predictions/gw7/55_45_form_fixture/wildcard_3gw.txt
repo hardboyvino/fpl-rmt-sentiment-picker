@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     
+Alderete                 Sunderland     Defender       4.1       12.20     
+Mukiele                  Sunderland     Defender       4.0       10.72     
+Hartman                  Burnley        Defender       4.0       10.15     
+Minteh                   Brighton       Midfielder     5.9       12.00     
+Anthony                  Burnley        Midfielder     5.7       11.64     
+Ayari                    Brighton       Midfielder     4.9       10.78     
+Mitoma                   Brighton       Midfielder     6.4       10.65     
+Haaland                  Man City       Forward        14.4      12.68     
+Foster                   Burnley        Forward        5.0       10.29     
+Calvert-Lewin            Leeds          Forward        5.5       9.77      
+---------------------------------------------------------------------------
+BENCH
+Longstaff                Leeds          Midfielder     4.9       10.35     
+Rodon                    Leeds          Defender       4.0       9.45      
+Pope                     Newcastle      Goalkeeper     5.1       9.35      
+Van de Ven               Spurs          Defender       4.8       9.35      
+---------------------------------------------------------------------------
+Starting XI points: 121.87
+Bench points:      38.50
+15-Man Team Points: 160.37
+Starting budget used: 64.50
+Bench budget used:    18.80 / 20.00
+Total budget used:    83.30 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     
+Alderete                 Sunderland     Defender       4.1       12.20     
+Mukiele                  Sunderland     Defender       4.0       10.72     
+Hartman                  Burnley        Defender       4.0       10.15     
+Minteh                   Brighton       Midfielder     5.9       12.00     
+Anthony                  Burnley        Midfielder     5.7       11.64     
+Ayari                    Brighton       Midfielder     4.9       10.78     
+Mitoma                   Brighton       Midfielder     6.4       10.65     
+Doku                     Man City       Midfielder     6.6       10.43     
+Haaland                  Man City       Forward        14.4      12.68     
+Foster                   Burnley        Forward        5.0       10.29     
+---------------------------------------------------------------------------
+BENCH
+Calvert-Lewin            Leeds          Forward        5.5       9.77      
+Rodon                    Leeds          Defender       4.0       9.45      
+Pope                     Newcastle      Goalkeeper     5.1       9.35      
+Van de Ven               Spurs          Defender       4.8       9.35      
+---------------------------------------------------------------------------
+Starting XI points: 122.53
+Bench points:      37.92
+15-Man Team Points: 160.45
+Starting budget used: 65.60
+Bench budget used:    19.40 / 20.00
+Total budget used:    85.00 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     
+Alderete                 Sunderland     Defender       4.1       12.20     
+Mukiele                  Sunderland     Defender       4.0       10.72     
+Hartman                  Burnley        Defender       4.0       10.15     
+F.Kadıoğlu               Brighton       Defender       4.4       10.02     
+Minteh                   Brighton       Midfielder     5.9       12.00     
+Anthony                  Burnley        Midfielder     5.7       11.64     
+Ayari                    Brighton       Midfielder     4.9       10.78     
+Doku                     Man City       Midfielder     6.6       10.43     
+Haaland                  Man City       Forward        14.4      12.68     
+Foster                   Burnley        Forward        5.0       10.29     
+---------------------------------------------------------------------------
+BENCH
+Longstaff                Leeds          Midfielder     4.9       10.35     
+Calvert-Lewin            Leeds          Forward        5.5       9.77      
+Rodon                    Leeds          Defender       4.0       9.45      
+Pope                     Newcastle      Goalkeeper     5.1       9.35      
+---------------------------------------------------------------------------
+Starting XI points: 121.90
+Bench points:      38.92
+15-Man Team Points: 160.82
+Starting budget used: 63.60
+Bench budget used:    19.50 / 20.00
+Total budget used:    83.10 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     
+Alderete                 Sunderland     Defender       4.1       12.20     
+Mukiele                  Sunderland     Defender       4.0       10.72     
+Hartman                  Burnley        Defender       4.0       10.15     
+F.Kadıoğlu               Brighton       Defender       4.4       10.02     
+Minteh                   Brighton       Midfielder     5.9       12.00     
+Anthony                  Burnley        Midfielder     5.7       11.64     
+Ayari                    Brighton       Midfielder     4.9       10.78     
+Cullen                   Burnley        Midfielder     5.0       10.46     
+Doku                     Man City       Midfielder     6.6       10.43     
+Haaland                  Man City       Forward        14.4      12.68     
+---------------------------------------------------------------------------
+BENCH
+Calvert-Lewin            Leeds          Forward        5.5       9.77      
+Rodon                    Leeds          Defender       4.0       9.45      
+Darlow                   Leeds          Goalkeeper     4.0       8.73      
+Thiago                   Brentford      Forward        6.0       7.33      
+---------------------------------------------------------------------------
+Starting XI points: 122.07
+Bench points:      35.28
+15-Man Team Points: 157.35
+Starting budget used: 63.60
+Bench budget used:    19.50 / 20.00
+Total budget used:    83.10 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     
+Alderete                 Sunderland     Defender       4.1       12.20     
+Mukiele                  Sunderland     Defender       4.0       10.72     
+Hartman                  Burnley        Defender       4.0       10.15     
+F.Kadıoğlu               Brighton       Defender       4.4       10.02     
+Van Hecke                Brighton       Defender       4.4       10.02     
+Minteh                   Brighton       Midfielder     5.9       12.00     
+Anthony                  Burnley        Midfielder     5.7       11.64     
+Doku                     Man City       Midfielder     6.6       10.43     
+Haaland                  Man City       Forward        14.4      12.68     
+Foster                   Burnley        Forward        5.0       10.29     
+---------------------------------------------------------------------------
+BENCH
+Longstaff                Leeds          Midfielder     4.9       10.35     
+Gravenberch              Liverpool      Midfielder     5.6       10.33     
+Calvert-Lewin            Leeds          Forward        5.5       9.77      
+Darlow                   Leeds          Goalkeeper     4.0       8.73      
+---------------------------------------------------------------------------
+Starting XI points: 121.14
+Bench points:      39.18
+15-Man Team Points: 160.32
+Starting budget used: 63.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    83.10 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     
+Alderete                 Sunderland     Defender       4.1       12.20     
+Mukiele                  Sunderland     Defender       4.0       10.72     
+Hartman                  Burnley        Defender       4.0       10.15     
+Van Hecke                Brighton       Defender       4.4       10.02     
+Gabriel                  Arsenal        Defender       6.2       9.65      
+Minteh                   Brighton       Midfielder     5.9       12.00     
+Anthony                  Burnley        Midfielder     5.7       11.64     
+Ayari                    Brighton       Midfielder     4.9       10.78     
+Doku                     Man City       Midfielder     6.6       10.43     
+Haaland                  Man City       Forward        14.4      12.68     
+---------------------------------------------------------------------------
+BENCH
+Longstaff                Leeds          Midfielder     4.9       10.35     
+Foster                   Burnley        Forward        5.0       10.29     
+Calvert-Lewin            Leeds          Forward        5.5       9.77      
+Darlow                   Leeds          Goalkeeper     4.0       8.73      
+---------------------------------------------------------------------------
+Starting XI points: 121.26
+Bench points:      39.14
+15-Man Team Points: 160.40
+Starting budget used: 64.80
+Bench budget used:    19.40 / 20.00
+Total budget used:    84.20 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     
+Alderete                 Sunderland     Defender       4.1       12.20     
+Mukiele                  Sunderland     Defender       4.0       10.72     
+Hartman                  Burnley        Defender       4.0       10.15     
+F.Kadıoğlu               Brighton       Defender       4.4       10.02     
+Minteh                   Brighton       Midfielder     5.9       12.00     
+Anthony                  Burnley        Midfielder     5.7       11.64     
+Ayari                    Brighton       Midfielder     4.9       10.78     
+Haaland                  Man City       Forward        14.4      12.68     
+Foster                   Burnley        Forward        5.0       10.29     
+Calvert-Lewin            Leeds          Forward        5.5       9.77      
+---------------------------------------------------------------------------
+BENCH
+Longstaff                Leeds          Midfielder     4.9       10.35     
+Gravenberch              Liverpool      Midfielder     5.6       10.33     
+Rodon                    Leeds          Defender       4.0       9.45      
+Pope                     Newcastle      Goalkeeper     5.1       9.35      
+---------------------------------------------------------------------------
+Starting XI points: 121.24
+Bench points:      39.48
+15-Man Team Points: 160.72
+Starting budget used: 62.50
+Bench budget used:    19.60 / 20.00
+Total budget used:    82.10 / 100.00
+===========================================================================
+
+

@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       1.85      
+Bogle                    Leeds          Defender       4.5       1.69      
+Dunk                     Brighton       Defender       4.5       1.60      
+Gvardiol                 Man City       Defender       5.8       1.58      
+Talbi                    Sunderland     Midfielder     5.0       2.13      
+Stach                    Leeds          Midfielder     5.0       1.99      
+Szoboszlai               Liverpool      Midfielder     6.5       1.98      
+Gakpo                    Liverpool      Midfielder     7.7       1.96      
+Foster                   Burnley        Forward        5.0       1.55      
+Richarlison              Spurs          Forward        6.8       1.54      
+Evanilson                Bournemouth    Forward        7.0       1.46      
+---------------------------------------------------------------------------
+BENCH
+Adams                    Bournemouth    Midfielder     5.0       1.96      
+Pickford                 Everton        Goalkeeper     5.5       1.82      
+Kayode                   Brentford      Defender       4.5       1.57      
+O'Brien                  Everton        Defender       5.0       1.56      
+---------------------------------------------------------------------------
+Starting XI points: 19.31
+Bench points:      6.92
+15-Man Team Points: 26.23
+Starting budget used: 63.40
+Bench budget used:    20.00 / 20.00
+Total budget used:    83.40 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       1.85      
+Bogle                    Leeds          Defender       4.5       1.69      
+Dunk                     Brighton       Defender       4.5       1.60      
+Gvardiol                 Man City       Defender       5.8       1.58      
+Talbi                    Sunderland     Midfielder     5.0       2.13      
+Stach                    Leeds          Midfielder     5.0       1.99      
+Szoboszlai               Liverpool      Midfielder     6.5       1.98      
+Gakpo                    Liverpool      Midfielder     7.7       1.96      
+Adams                    Bournemouth    Midfielder     5.0       1.96      
+Foster                   Burnley        Forward        5.0       1.55      
+Richarlison              Spurs          Forward        6.8       1.54      
+---------------------------------------------------------------------------
+BENCH
+Pickford                 Everton        Goalkeeper     5.5       1.82      
+Kayode                   Brentford      Defender       4.5       1.57      
+Tete                     Fulham         Defender       4.5       1.54      
+Muniz                    Fulham         Forward        5.5       1.45      
+---------------------------------------------------------------------------
+Starting XI points: 19.82
+Bench points:      6.38
+15-Man Team Points: 26.20
+Starting budget used: 61.40
+Bench budget used:    20.00 / 20.00
+Total budget used:    81.40 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       1.85      
+Bogle                    Leeds          Defender       4.5       1.69      
+Dunk                     Brighton       Defender       4.5       1.60      
+Gvardiol                 Man City       Defender       5.8       1.58      
+Kayode                   Brentford      Defender       4.5       1.57      
+Talbi                    Sunderland     Midfielder     5.0       2.13      
+Stach                    Leeds          Midfielder     5.0       1.99      
+Szoboszlai               Liverpool      Midfielder     6.5       1.98      
+Gakpo                    Liverpool      Midfielder     7.7       1.96      
+Foster                   Burnley        Forward        5.0       1.55      
+Richarlison              Spurs          Forward        6.8       1.54      
+---------------------------------------------------------------------------
+BENCH
+Adams                    Bournemouth    Midfielder     5.0       1.96      
+José Sá                  Wolves         Goalkeeper     4.5       1.72      
+O'Brien                  Everton        Defender       5.0       1.56      
+Muniz                    Fulham         Forward        5.5       1.45      
+---------------------------------------------------------------------------
+Starting XI points: 19.43
+Bench points:      6.68
+15-Man Team Points: 26.11
+Starting budget used: 60.90
+Bench budget used:    20.00 / 20.00
+Total budget used:    80.90 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       1.85      
+Bogle                    Leeds          Defender       4.5       1.69      
+Dunk                     Brighton       Defender       4.5       1.60      
+Gvardiol                 Man City       Defender       5.8       1.58      
+Kayode                   Brentford      Defender       4.5       1.57      
+Talbi                    Sunderland     Midfielder     5.0       2.13      
+Stach                    Leeds          Midfielder     5.0       1.99      
+Szoboszlai               Liverpool      Midfielder     6.5       1.98      
+Gakpo                    Liverpool      Midfielder     7.7       1.96      
+Adams                    Bournemouth    Midfielder     5.0       1.96      
+Foster                   Burnley        Forward        5.0       1.55      
+---------------------------------------------------------------------------
+BENCH
+José Sá                  Wolves         Goalkeeper     4.5       1.72      
+Tete                     Fulham         Defender       4.5       1.54      
+Muniz                    Fulham         Forward        5.5       1.45      
+Tolu                     Wolves         Forward        5.5       1.30      
+---------------------------------------------------------------------------
+Starting XI points: 19.85
+Bench points:      6.00
+15-Man Team Points: 25.86
+Starting budget used: 59.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    79.10 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       1.85      
+Bogle                    Leeds          Defender       4.5       1.69      
+Dunk                     Brighton       Defender       4.5       1.60      
+Gvardiol                 Man City       Defender       5.8       1.58      
+Kayode                   Brentford      Defender       4.5       1.57      
+O'Brien                  Everton        Defender       5.0       1.56      
+Talbi                    Sunderland     Midfielder     5.0       2.13      
+Stach                    Leeds          Midfielder     5.0       1.99      
+Szoboszlai               Liverpool      Midfielder     6.5       1.98      
+Foster                   Burnley        Forward        5.0       1.55      
+Richarlison              Spurs          Forward        6.8       1.54      
+---------------------------------------------------------------------------
+BENCH
+Adams                    Bournemouth    Midfielder     5.0       1.96      
+José Sá                  Wolves         Goalkeeper     4.5       1.72      
+Cullen                   Burnley        Midfielder     5.0       1.62      
+Muniz                    Fulham         Forward        5.5       1.45      
+---------------------------------------------------------------------------
+Starting XI points: 19.03
+Bench points:      6.75
+15-Man Team Points: 25.77
+Starting budget used: 58.20
+Bench budget used:    20.00 / 20.00
+Total budget used:    78.20 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       1.85      
+Bogle                    Leeds          Defender       4.5       1.69      
+Dunk                     Brighton       Defender       4.5       1.60      
+Gvardiol                 Man City       Defender       5.8       1.58      
+Kayode                   Brentford      Defender       4.5       1.57      
+O'Brien                  Everton        Defender       5.0       1.56      
+Talbi                    Sunderland     Midfielder     5.0       2.13      
+Stach                    Leeds          Midfielder     5.0       1.99      
+Szoboszlai               Liverpool      Midfielder     6.5       1.98      
+Gakpo                    Liverpool      Midfielder     7.7       1.96      
+Foster                   Burnley        Forward        5.0       1.55      
+---------------------------------------------------------------------------
+BENCH
+Adams                    Bournemouth    Midfielder     5.0       1.96      
+Muniz                    Fulham         Forward        5.5       1.45      
+Tolu                     Wolves         Forward        5.5       1.30      
+Dúbravka                 Burnley        Goalkeeper     4.0       1.29      
+---------------------------------------------------------------------------
+Starting XI points: 19.45
+Bench points:      6.00
+15-Man Team Points: 25.45
+Starting budget used: 59.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    79.10 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       1.85      
+Bogle                    Leeds          Defender       4.5       1.69      
+Dunk                     Brighton       Defender       4.5       1.60      
+Gvardiol                 Man City       Defender       5.8       1.58      
+Kayode                   Brentford      Defender       4.5       1.57      
+Talbi                    Sunderland     Midfielder     5.0       2.13      
+Stach                    Leeds          Midfielder     5.0       1.99      
+Szoboszlai               Liverpool      Midfielder     6.5       1.98      
+Foster                   Burnley        Forward        5.0       1.55      
+Richarlison              Spurs          Forward        6.8       1.54      
+Evanilson                Bournemouth    Forward        7.0       1.46      
+---------------------------------------------------------------------------
+BENCH
+Adams                    Bournemouth    Midfielder     5.0       1.96      
+Bergvall                 Spurs          Midfielder     5.4       1.88      
+José Sá                  Wolves         Goalkeeper     4.5       1.72      
+O'Brien                  Everton        Defender       5.0       1.56      
+---------------------------------------------------------------------------
+Starting XI points: 18.92
+Bench points:      7.12
+15-Man Team Points: 26.05
+Starting budget used: 60.20
+Bench budget used:    19.90 / 20.00
+Total budget used:    80.10 / 100.00
+===========================================================================
+
+

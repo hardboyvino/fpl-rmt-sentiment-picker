@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.1       11.74     
+Gabriel                  Arsenal        Defender       6.2       14.05     
+Cash                     Aston Villa    Defender       4.6       12.46     
+Alderete                 Sunderland     Defender       4.1       12.20     
+Minteh                   Brighton       Midfielder     5.9       14.02     
+Zubimendi                Arsenal        Midfielder     5.5       13.47     
+Ayari                    Brighton       Midfielder     4.9       12.80     
+Mitoma                   Brighton       Midfielder     6.4       12.66     
+Haaland                  Man City       Forward        14.4      12.87     
+Woltemade                Newcastle      Forward        7.1       12.05     
+Gyökeres                 Arsenal        Forward        9.0       11.94     
+---------------------------------------------------------------------------
+BENCH
+Mings                    Aston Villa    Defender       4.5       12.02     
+Anthony                  Burnley        Midfielder     5.7       11.64     
+Burn                     Newcastle      Defender       5.0       11.60     
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     
+---------------------------------------------------------------------------
+Starting XI points: 140.26
+Bench points:      46.25
+15-Man Team Points: 186.51
+Starting budget used: 73.20
+Bench budget used:    19.80 / 20.00
+Total budget used:    93.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.1       11.74     
+Gabriel                  Arsenal        Defender       6.2       14.05     
+Cash                     Aston Villa    Defender       4.6       12.46     
+Alderete                 Sunderland     Defender       4.1       12.20     
+Minteh                   Brighton       Midfielder     5.9       14.02     
+Zubimendi                Arsenal        Midfielder     5.5       13.47     
+Ayari                    Brighton       Midfielder     4.9       12.80     
+Mitoma                   Brighton       Midfielder     6.4       12.66     
+Rice                     Arsenal        Midfielder     6.5       12.39     
+Haaland                  Man City       Forward        14.4      12.87     
+Woltemade                Newcastle      Forward        7.1       12.05     
+---------------------------------------------------------------------------
+BENCH
+Mings                    Aston Villa    Defender       4.5       12.02     
+Martinez                 Aston Villa    Goalkeeper     5.0       11.70     
+Burn                     Newcastle      Defender       5.0       11.60     
+Foster                   Burnley        Forward        5.0       10.29     
+---------------------------------------------------------------------------
+Starting XI points: 140.71
+Bench points:      45.61
+15-Man Team Points: 186.32
+Starting budget used: 70.70
+Bench budget used:    19.50 / 20.00
+Total budget used:    90.20 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       11.94     
+Gabriel                  Arsenal        Defender       6.2       14.05     
+Cash                     Aston Villa    Defender       4.6       12.46     
+Alderete                 Sunderland     Defender       4.1       12.20     
+Mings                    Aston Villa    Defender       4.5       12.02     
+Minteh                   Brighton       Midfielder     5.9       14.02     
+Zubimendi                Arsenal        Midfielder     5.5       13.47     
+Ayari                    Brighton       Midfielder     4.9       12.80     
+Mitoma                   Brighton       Midfielder     6.4       12.66     
+Haaland                  Man City       Forward        14.4      12.87     
+Woltemade                Newcastle      Forward        7.1       12.05     
+---------------------------------------------------------------------------
+BENCH
+Pope                     Newcastle      Goalkeeper     5.1       11.74     
+Digne                    Aston Villa    Defender       4.5       11.57     
+Tonali                   Newcastle      Midfielder     5.4       11.15     
+Foster                   Burnley        Forward        5.0       10.29     
+---------------------------------------------------------------------------
+Starting XI points: 140.54
+Bench points:      44.75
+15-Man Team Points: 185.29
+Starting budget used: 69.20
+Bench budget used:    20.00 / 20.00
+Total budget used:    89.20 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.1       11.74     
+Gabriel                  Arsenal        Defender       6.2       14.05     
+Cash                     Aston Villa    Defender       4.6       12.46     
+Alderete                 Sunderland     Defender       4.1       12.20     
+Mings                    Aston Villa    Defender       4.5       12.02     
+Minteh                   Brighton       Midfielder     5.9       14.02     
+Zubimendi                Arsenal        Midfielder     5.5       13.47     
+Ayari                    Brighton       Midfielder     4.9       12.80     
+Mitoma                   Brighton       Midfielder     6.4       12.66     
+Rice                     Arsenal        Midfielder     6.5       12.39     
+Haaland                  Man City       Forward        14.4      12.87     
+---------------------------------------------------------------------------
+BENCH
+Digne                    Aston Villa    Defender       4.5       11.57     
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     
+Foster                   Burnley        Forward        5.0       10.29     
+Isidor                   Sunderland     Forward        5.6       9.64      
+---------------------------------------------------------------------------
+Starting XI points: 140.68
+Bench points:      42.49
+15-Man Team Points: 183.17
+Starting budget used: 68.10
+Bench budget used:    19.70 / 20.00
+Total budget used:    87.80 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.6       11.94     
+Gabriel                  Arsenal        Defender       6.2       14.05     
+Cash                     Aston Villa    Defender       4.6       12.46     
+Alderete                 Sunderland     Defender       4.1       12.20     
+F.Kadıoğlu               Brighton       Defender       4.4       12.04     
+Mings                    Aston Villa    Defender       4.5       12.02     
+Minteh                   Brighton       Midfielder     5.9       14.02     
+Zubimendi                Arsenal        Midfielder     5.5       13.47     
+Ayari                    Brighton       Midfielder     4.9       12.80     
+Haaland                  Man City       Forward        14.4      12.87     
+Woltemade                Newcastle      Forward        7.1       12.05     
+---------------------------------------------------------------------------
+BENCH
+McGinn                   Aston Villa    Midfielder     5.4       11.57     
+Roefs                    Sunderland     Goalkeeper     4.6       10.99     
+Cullen                   Burnley        Midfielder     5.0       10.46     
+Foster                   Burnley        Forward        5.0       10.29     
+---------------------------------------------------------------------------
+Starting XI points: 139.92
+Bench points:      43.31
+15-Man Team Points: 183.23
+Starting budget used: 67.20
+Bench budget used:    20.00 / 20.00
+Total budget used:    87.20 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.1       11.74     
+Gabriel                  Arsenal        Defender       6.2       14.05     
+Cash                     Aston Villa    Defender       4.6       12.46     
+Alderete                 Sunderland     Defender       4.1       12.20     
+J.Timber                 Arsenal        Defender       5.8       12.12     
+Mings                    Aston Villa    Defender       4.5       12.02     
+Minteh                   Brighton       Midfielder     5.9       14.02     
+Zubimendi                Arsenal        Midfielder     5.5       13.47     
+Ayari                    Brighton       Midfielder     4.9       12.80     
+Mitoma                   Brighton       Midfielder     6.4       12.66     
+Haaland                  Man City       Forward        14.4      12.87     
+---------------------------------------------------------------------------
+BENCH
+McGinn                   Aston Villa    Midfielder     5.4       11.57     
+Foster                   Burnley        Forward        5.0       10.29     
+Dúbravka                 Burnley        Goalkeeper     4.0       10.02     
+Isidor                   Sunderland     Forward        5.6       9.64      
+---------------------------------------------------------------------------
+Starting XI points: 140.41
+Bench points:      41.52
+15-Man Team Points: 181.93
+Starting budget used: 67.40
+Bench budget used:    20.00 / 20.00
+Total budget used:    87.40 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Verbruggen               Brighton       Goalkeeper     4.4       11.77     
+Gabriel                  Arsenal        Defender       6.2       14.05     
+Cash                     Aston Villa    Defender       4.6       12.46     
+Alderete                 Sunderland     Defender       4.1       12.20     
+Mings                    Aston Villa    Defender       4.5       12.02     
+Minteh                   Brighton       Midfielder     5.9       14.02     
+Zubimendi                Arsenal        Midfielder     5.5       13.47     
+Ayari                    Brighton       Midfielder     4.9       12.80     
+Haaland                  Man City       Forward        14.4      12.87     
+Woltemade                Newcastle      Forward        7.1       12.05     
+Gyökeres                 Arsenal        Forward        9.0       11.94     
+---------------------------------------------------------------------------
+BENCH
+Pope                     Newcastle      Goalkeeper     5.1       11.74     
+McGinn                   Aston Villa    Midfielder     5.4       11.57     
+Tonali                   Newcastle      Midfielder     5.4       11.15     
+Mukiele                  Sunderland     Defender       4.0       10.72     
+---------------------------------------------------------------------------
+Starting XI points: 139.65
+Bench points:      45.18
+15-Man Team Points: 184.83
+Starting budget used: 70.60
+Bench budget used:    19.90 / 20.00
+Total budget used:    90.50 / 100.00
+===========================================================================
+
+

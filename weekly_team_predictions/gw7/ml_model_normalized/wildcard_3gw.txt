@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pickford                 Everton        Goalkeeper     5.5       1.92      
+Cucurella                Chelsea        Defender       6.1       1.60      
+F.Kadıoğlu               Brighton       Defender       4.4       1.60      
+J.Timber                 Arsenal        Defender       5.8       1.56      
+Ndoye                    Nott'm Forest  Midfielder     6.0       2.26      
+Wilson                   Fulham         Midfielder     5.3       2.02      
+Cullen                   Burnley        Midfielder     5.0       1.76      
+Georginio                Brighton       Midfielder     5.8       1.75      
+Isidor                   Sunderland     Forward        5.6       1.78      
+Mateta                   Crystal Palace Forward        7.5       1.51      
+Haaland                  Man City       Forward        14.4      1.48      
+---------------------------------------------------------------------------
+BENCH
+Guessand                 Aston Villa    Midfielder     6.3       1.75      
+Kelleher                 Brentford      Goalkeeper     4.5       1.60      
+Mavropanos               West Ham       Defender       4.4       1.55      
+Hartman                  Burnley        Defender       4.0       1.54      
+---------------------------------------------------------------------------
+Starting XI points: 19.25
+Bench points:      6.43
+15-Man Team Points: 25.69
+Starting budget used: 71.40
+Bench budget used:    19.20 / 20.00
+Total budget used:    90.60 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pickford                 Everton        Goalkeeper     5.5       1.92      
+Cucurella                Chelsea        Defender       6.1       1.60      
+F.Kadıoğlu               Brighton       Defender       4.4       1.60      
+J.Timber                 Arsenal        Defender       5.8       1.56      
+Ndoye                    Nott'm Forest  Midfielder     6.0       2.26      
+Wilson                   Fulham         Midfielder     5.3       2.02      
+Cullen                   Burnley        Midfielder     5.0       1.76      
+Georginio                Brighton       Midfielder     5.8       1.75      
+Eze                      Arsenal        Midfielder     7.6       1.75      
+Isidor                   Sunderland     Forward        5.6       1.78      
+Mateta                   Crystal Palace Forward        7.5       1.51      
+---------------------------------------------------------------------------
+BENCH
+Kelleher                 Brentford      Goalkeeper     4.5       1.60      
+Mavropanos               West Ham       Defender       4.4       1.55      
+Hartman                  Burnley        Defender       4.0       1.54      
+Richarlison              Spurs          Forward        6.8       1.42      
+---------------------------------------------------------------------------
+Starting XI points: 19.52
+Bench points:      6.11
+15-Man Team Points: 25.63
+Starting budget used: 64.60
+Bench budget used:    19.70 / 20.00
+Total budget used:    84.30 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pickford                 Everton        Goalkeeper     5.5       1.92      
+Cucurella                Chelsea        Defender       6.1       1.60      
+F.Kadıoğlu               Brighton       Defender       4.4       1.60      
+J.Timber                 Arsenal        Defender       5.8       1.56      
+Mavropanos               West Ham       Defender       4.4       1.55      
+Ndoye                    Nott'm Forest  Midfielder     6.0       2.26      
+Wilson                   Fulham         Midfielder     5.3       2.02      
+Cullen                   Burnley        Midfielder     5.0       1.76      
+Georginio                Brighton       Midfielder     5.8       1.75      
+Isidor                   Sunderland     Forward        5.6       1.78      
+Mateta                   Crystal Palace Forward        7.5       1.51      
+---------------------------------------------------------------------------
+BENCH
+Guessand                 Aston Villa    Midfielder     6.3       1.75      
+Kelleher                 Brentford      Goalkeeper     4.5       1.60      
+Hartman                  Burnley        Defender       4.0       1.54      
+Foster                   Burnley        Forward        5.0       1.41      
+---------------------------------------------------------------------------
+Starting XI points: 19.32
+Bench points:      6.29
+15-Man Team Points: 25.61
+Starting budget used: 61.40
+Bench budget used:    19.80 / 20.00
+Total budget used:    81.20 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pickford                 Everton        Goalkeeper     5.5       1.92      
+Cucurella                Chelsea        Defender       6.1       1.60      
+F.Kadıoğlu               Brighton       Defender       4.4       1.60      
+J.Timber                 Arsenal        Defender       5.8       1.56      
+Mavropanos               West Ham       Defender       4.4       1.55      
+Ndoye                    Nott'm Forest  Midfielder     6.0       2.26      
+Wilson                   Fulham         Midfielder     5.3       2.02      
+Cullen                   Burnley        Midfielder     5.0       1.76      
+Georginio                Brighton       Midfielder     5.8       1.75      
+Eze                      Arsenal        Midfielder     7.6       1.75      
+Isidor                   Sunderland     Forward        5.6       1.78      
+---------------------------------------------------------------------------
+BENCH
+Darlow                   Leeds          Goalkeeper     4.0       1.56      
+Hartman                  Burnley        Defender       4.0       1.54      
+Richarlison              Spurs          Forward        6.8       1.42      
+Foster                   Burnley        Forward        5.0       1.41      
+---------------------------------------------------------------------------
+Starting XI points: 19.56
+Bench points:      5.93
+15-Man Team Points: 25.49
+Starting budget used: 61.50
+Bench budget used:    19.80 / 20.00
+Total budget used:    81.30 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pickford                 Everton        Goalkeeper     5.5       1.92      
+Cucurella                Chelsea        Defender       6.1       1.60      
+F.Kadıoğlu               Brighton       Defender       4.4       1.60      
+J.Timber                 Arsenal        Defender       5.8       1.56      
+Mavropanos               West Ham       Defender       4.4       1.55      
+Hartman                  Burnley        Defender       4.0       1.54      
+Ndoye                    Nott'm Forest  Midfielder     6.0       2.26      
+Wilson                   Fulham         Midfielder     5.3       2.02      
+Cullen                   Burnley        Midfielder     5.0       1.76      
+Isidor                   Sunderland     Forward        5.6       1.78      
+Mateta                   Crystal Palace Forward        7.5       1.51      
+---------------------------------------------------------------------------
+BENCH
+Georginio                Brighton       Midfielder     5.8       1.75      
+Garner                   Everton        Midfielder     5.0       1.67      
+Darlow                   Leeds          Goalkeeper     4.0       1.56      
+Foster                   Burnley        Forward        5.0       1.41      
+---------------------------------------------------------------------------
+Starting XI points: 19.10
+Bench points:      6.40
+15-Man Team Points: 25.50
+Starting budget used: 59.60
+Bench budget used:    19.80 / 20.00
+Total budget used:    79.40 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pickford                 Everton        Goalkeeper     5.5       1.92      
+Cucurella                Chelsea        Defender       6.1       1.60      
+F.Kadıoğlu               Brighton       Defender       4.4       1.60      
+J.Timber                 Arsenal        Defender       5.8       1.56      
+Mavropanos               West Ham       Defender       4.4       1.55      
+Hartman                  Burnley        Defender       4.0       1.54      
+Ndoye                    Nott'm Forest  Midfielder     6.0       2.26      
+Wilson                   Fulham         Midfielder     5.3       2.02      
+Cullen                   Burnley        Midfielder     5.0       1.76      
+Georginio                Brighton       Midfielder     5.8       1.75      
+Isidor                   Sunderland     Forward        5.6       1.78      
+---------------------------------------------------------------------------
+BENCH
+Garner                   Everton        Midfielder     5.0       1.67      
+Kelleher                 Brentford      Goalkeeper     4.5       1.60      
+Foster                   Burnley        Forward        5.0       1.41      
+Calvert-Lewin            Leeds          Forward        5.5       1.10      
+---------------------------------------------------------------------------
+Starting XI points: 19.34
+Bench points:      5.79
+15-Man Team Points: 25.13
+Starting budget used: 57.90
+Bench budget used:    20.00 / 20.00
+Total budget used:    77.90 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pickford                 Everton        Goalkeeper     5.5       1.92      
+Cucurella                Chelsea        Defender       6.1       1.60      
+F.Kadıoğlu               Brighton       Defender       4.4       1.60      
+J.Timber                 Arsenal        Defender       5.8       1.56      
+Mavropanos               West Ham       Defender       4.4       1.55      
+Ndoye                    Nott'm Forest  Midfielder     6.0       2.26      
+Wilson                   Fulham         Midfielder     5.3       2.02      
+Cullen                   Burnley        Midfielder     5.0       1.76      
+Isidor                   Sunderland     Forward        5.6       1.78      
+Mateta                   Crystal Palace Forward        7.5       1.51      
+Haaland                  Man City       Forward        14.4      1.48      
+---------------------------------------------------------------------------
+BENCH
+Georginio                Brighton       Midfielder     5.8       1.75      
+Laurent                  Burnley        Midfielder     4.9       1.69      
+Kelleher                 Brentford      Goalkeeper     4.5       1.60      
+Hartman                  Burnley        Defender       4.0       1.54      
+---------------------------------------------------------------------------
+Starting XI points: 19.05
+Bench points:      6.59
+15-Man Team Points: 25.63
+Starting budget used: 70.00
+Bench budget used:    19.20 / 20.00
+Total budget used:    89.20 / 100.00
+===========================================================================
+
+

@@ -1,0 +1,231 @@
+FPL Optimization (predictions CSV) for Entry 6999065
+Bank: 1.70 | Current-15 CSV cost: 98.40
+================================================================================================
+
+Transfers: 0  |  Formation: 3-4-3
+Projected XI points: 10.40 | Bench points: 2.33
+Cost used: 98.40  (XI 78.30 / Bench 20.10)
+Points Out: 0.00
+Points In: 0.00
+Points Difference: 0.00
+Points Diff %: 0.00%
+Budget Left: 1.70
+
+OUT:
+IN:
+
+STARTING XI:
+  Pickford               Everton         Goalkeeper     5.5    1.12
+  Romero                 Spurs           Defender       5.1    0.90
+  De Ligt                Man Utd         Defender       5.0    0.73
+  Mings                  Aston Villa     Defender       4.5    0.76
+  Grealish               Everton         Midfielder     6.9    0.78
+  Lukić                  Fulham          Midfielder     5.0    0.91
+  Talbi                  Sunderland      Midfielder     5.0    1.06
+  M.Salah                Liverpool       Midfielder    14.5    1.00
+  Haaland                Man City        Forward       14.4    0.87
+  Foster                 Burnley         Forward        5.0    1.26
+  Wood                   Nott'm Forest   Forward        7.4    1.01
+BENCH:
+  Tarkowski              Everton         Defender       5.5    0.69
+  Adams                  Bournemouth     Midfielder     5.0    0.77
+  Pope                   Newcastle       Goalkeeper     5.1    0.88
+  Spence                 Spurs           Defender       4.5    0.00
+
+Suggested (C): Foster | (VC): Pickford
+------------------------------------------------------------------------------------------------
+
+Transfers: 1  |  Formation: 3-4-3
+Projected XI points: 11.12 | Bench points: 2.35
+Cost used: 99.40  (XI 77.40 / Bench 22.00)
+Points Out: 1.24
+Points In: 2.26
+Points Difference: 1.01
+Points Diff %: 75.57%
+Budget Left: 0.70
+
+OUT:
+  Adams                  Bournemouth     Midfielder     5.0    1.24
+IN:
+  Ndoye                  Nott'm Forest   Midfielder     6.0    2.26
+
+STARTING XI:
+  Pickford               Everton         Goalkeeper     5.5    1.12
+  Romero                 Spurs           Defender       5.1    0.90
+  De Ligt                Man Utd         Defender       5.0    0.73
+  Mings                  Aston Villa     Defender       4.5    0.76
+  Ndoye                  Nott'm Forest   Midfielder     6.0    1.50
+  Lukić                  Fulham          Midfielder     5.0    0.91
+  Talbi                  Sunderland      Midfielder     5.0    1.06
+  M.Salah                Liverpool       Midfielder    14.5    1.00
+  Haaland                Man City        Forward       14.4    0.87
+  Foster                 Burnley         Forward        5.0    1.26
+  Wood                   Nott'm Forest   Forward        7.4    1.01
+BENCH:
+  Grealish               Everton         Midfielder     6.9    0.78
+  Tarkowski              Everton         Defender       5.5    0.69
+  Pope                   Newcastle       Goalkeeper     5.1    0.88
+  Spence                 Spurs           Defender       4.5    0.00
+
+Suggested (C): Ndoye | (VC): Foster
+------------------------------------------------------------------------------------------------
+
+Transfers: 2  |  Formation: 3-4-3
+Projected XI points: 11.78 | Bench points: 2.35
+Cost used: 90.20  (XI 68.20 / Bench 22.00)
+Points Out: 2.59
+Points In: 4.28
+Points Difference: 1.69
+Points Diff %: 62.80%
+Budget Left: 9.90
+
+OUT:
+  M.Salah                Liverpool       Midfielder    14.5    1.35
+  Adams                  Bournemouth     Midfielder     5.0    1.24
+IN:
+  Ndoye                  Nott'm Forest   Midfielder     6.0    2.26
+  Wilson                 Fulham          Midfielder     5.3    2.02
+
+STARTING XI:
+  Pickford               Everton         Goalkeeper     5.5    1.12
+  Romero                 Spurs           Defender       5.1    0.90
+  De Ligt                Man Utd         Defender       5.0    0.73
+  Mings                  Aston Villa     Defender       4.5    0.76
+  Ndoye                  Nott'm Forest   Midfielder     6.0    1.50
+  Wilson                 Fulham          Midfielder     5.3    1.67
+  Lukić                  Fulham          Midfielder     5.0    0.91
+  Talbi                  Sunderland      Midfielder     5.0    1.06
+  Haaland                Man City        Forward       14.4    0.87
+  Foster                 Burnley         Forward        5.0    1.26
+  Wood                   Nott'm Forest   Forward        7.4    1.01
+BENCH:
+  Grealish               Everton         Midfielder     6.9    0.78
+  Tarkowski              Everton         Defender       5.5    0.69
+  Pope                   Newcastle       Goalkeeper     5.1    0.88
+  Spence                 Spurs           Defender       4.5    0.00
+
+Suggested (C): Wilson | (VC): Ndoye
+------------------------------------------------------------------------------------------------
+
+Transfers: 3  |  Formation: 3-4-3
+Projected XI points: 12.25 | Bench points: 2.35
+Cost used: 88.40  (XI 66.40 / Bench 22.00)
+Points Out: 3.81
+Points In: 6.06
+Points Difference: 2.25
+Points Diff %: 57.37%
+Budget Left: 11.70
+
+OUT:
+  M.Salah                Liverpool       Midfielder    14.5    1.35
+  Adams                  Bournemouth     Midfielder     5.0    1.24
+  Wood                   Nott'm Forest   Forward        7.4    1.22
+IN:
+  Ndoye                  Nott'm Forest   Midfielder     6.0    2.26
+  Wilson                 Fulham          Midfielder     5.3    2.02
+  Isidor                 Sunderland      Forward        5.6    1.78
+
+STARTING XI:
+  Pickford               Everton         Goalkeeper     5.5    1.12
+  Romero                 Spurs           Defender       5.1    0.90
+  De Ligt                Man Utd         Defender       5.0    0.73
+  Mings                  Aston Villa     Defender       4.5    0.76
+  Ndoye                  Nott'm Forest   Midfielder     6.0    1.50
+  Wilson                 Fulham          Midfielder     5.3    1.67
+  Lukić                  Fulham          Midfielder     5.0    0.91
+  Talbi                  Sunderland      Midfielder     5.0    1.06
+  Isidor                 Sunderland      Forward        5.6    1.48
+  Haaland                Man City        Forward       14.4    0.87
+  Foster                 Burnley         Forward        5.0    1.26
+BENCH:
+  Grealish               Everton         Midfielder     6.9    0.78
+  Tarkowski              Everton         Defender       5.5    0.69
+  Pope                   Newcastle       Goalkeeper     5.1    0.88
+  Spence                 Spurs           Defender       4.5    0.00
+
+Suggested (C): Wilson | (VC): Ndoye
+------------------------------------------------------------------------------------------------
+
+Transfers: 4  |  Formation: 3-4-3
+Projected XI points: 12.25 | Bench points: 2.97
+Cost used: 90.00  (XI 66.40 / Bench 23.60)
+Points Out: 3.81
+Points In: 7.66
+Points Difference: 3.85
+Points Diff %: 98.34%
+Budget Left: 10.10
+
+OUT:
+  M.Salah                Liverpool       Midfielder    14.5    1.35
+  Adams                  Bournemouth     Midfielder     5.0    1.24
+  Wood                   Nott'm Forest   Forward        7.4    1.22
+  Spence                 Spurs           Defender       4.5    0.00
+IN:
+  Ndoye                  Nott'm Forest   Midfielder     6.0    2.26
+  Wilson                 Fulham          Midfielder     5.3    2.02
+  Isidor                 Sunderland      Forward        5.6    1.78
+  Cucurella              Chelsea         Defender       6.1    1.60
+
+STARTING XI:
+  Pickford               Everton         Goalkeeper     5.5    1.12
+  Romero                 Spurs           Defender       5.1    0.90
+  De Ligt                Man Utd         Defender       5.0    0.73
+  Mings                  Aston Villa     Defender       4.5    0.76
+  Ndoye                  Nott'm Forest   Midfielder     6.0    1.50
+  Wilson                 Fulham          Midfielder     5.3    1.67
+  Lukić                  Fulham          Midfielder     5.0    0.91
+  Talbi                  Sunderland      Midfielder     5.0    1.06
+  Isidor                 Sunderland      Forward        5.6    1.48
+  Haaland                Man City        Forward       14.4    0.87
+  Foster                 Burnley         Forward        5.0    1.26
+BENCH:
+  Cucurella              Chelsea         Defender       6.1    0.63
+  Grealish               Everton         Midfielder     6.9    0.78
+  Tarkowski              Everton         Defender       5.5    0.69
+  Pope                   Newcastle       Goalkeeper     5.1    0.88
+
+Suggested (C): Wilson | (VC): Ndoye
+------------------------------------------------------------------------------------------------
+
+Transfers: 5  |  Formation: 3-4-3
+Projected XI points: 12.54 | Bench points: 2.97
+Cost used: 90.00  (XI 66.40 / Bench 23.60)
+Points Out: 5.23
+Points In: 9.43
+Points Difference: 4.19
+Points Diff %: 78.61%
+Budget Left: 10.10
+
+OUT:
+  Talbi                  Sunderland      Midfielder     5.0    1.42
+  M.Salah                Liverpool       Midfielder    14.5    1.35
+  Adams                  Bournemouth     Midfielder     5.0    1.24
+  Wood                   Nott'm Forest   Forward        7.4    1.22
+  Spence                 Spurs           Defender       4.5    0.00
+IN:
+  Ndoye                  Nott'm Forest   Midfielder     6.0    2.26
+  Wilson                 Fulham          Midfielder     5.3    2.02
+  Isidor                 Sunderland      Forward        5.6    1.78
+  Cullen                 Burnley         Midfielder     5.0    1.76
+  Cucurella              Chelsea         Defender       6.1    1.60
+
+STARTING XI:
+  Pickford               Everton         Goalkeeper     5.5    1.12
+  Romero                 Spurs           Defender       5.1    0.90
+  De Ligt                Man Utd         Defender       5.0    0.73
+  Mings                  Aston Villa     Defender       4.5    0.76
+  Ndoye                  Nott'm Forest   Midfielder     6.0    1.50
+  Wilson                 Fulham          Midfielder     5.3    1.67
+  Cullen                 Burnley         Midfielder     5.0    1.35
+  Lukić                  Fulham          Midfielder     5.0    0.91
+  Isidor                 Sunderland      Forward        5.6    1.48
+  Haaland                Man City        Forward       14.4    0.87
+  Foster                 Burnley         Forward        5.0    1.26
+BENCH:
+  Cucurella              Chelsea         Defender       6.1    0.63
+  Grealish               Everton         Midfielder     6.9    0.78
+  Tarkowski              Everton         Defender       5.5    0.69
+  Pope                   Newcastle       Goalkeeper     5.1    0.88
+
+Suggested (C): Wilson | (VC): Ndoye
+------------------------------------------------------------------------------------------------
