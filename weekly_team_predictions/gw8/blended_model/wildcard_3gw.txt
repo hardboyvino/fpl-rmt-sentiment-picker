@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Verbruggen               Brighton       Goalkeeper     4.4       0.05      
+Van Hecke                Brighton       Defender       4.4       0.10      
+Gabriel                  Arsenal        Defender       6.3       0.09      
+Diouf                    West Ham       Defender       4.4       0.09      
+Saka                     Arsenal        Midfielder     9.9       0.21      
+Bruno G.                 Newcastle      Midfielder     6.5       0.14      
+Gakpo                    Liverpool      Midfielder     7.5       0.13      
+Minteh                   Brighton       Midfielder     6.0       0.12      
+Bowen                    West Ham       Forward        7.7       0.10      
+Woltemade                Newcastle      Forward        7.2       0.10      
+Isidor                   Sunderland     Forward        5.6       0.10      
+---------------------------------------------------------------------------
+BENCH
+Mac Allister             Liverpool      Midfielder     6.3       0.11      
+Alderete                 Sunderland     Defender       4.1       0.08      
+Hume                     Sunderland     Defender       4.5       0.08      
+Pope                     Newcastle      Goalkeeper     5.1       0.05      
+---------------------------------------------------------------------------
+Starting XI points: 1.22
+Bench points:      0.32
+15-Man Team Points: 1.54
+Starting budget used: 69.90
+Bench budget used:    20.00 / 20.00
+Total budget used:    89.90 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Verbruggen               Brighton       Goalkeeper     4.4       0.05      
+Van Hecke                Brighton       Defender       4.4       0.10      
+Gabriel                  Arsenal        Defender       6.3       0.09      
+Diouf                    West Ham       Defender       4.4       0.09      
+Saka                     Arsenal        Midfielder     9.9       0.21      
+Bruno G.                 Newcastle      Midfielder     6.5       0.14      
+Gakpo                    Liverpool      Midfielder     7.5       0.13      
+Minteh                   Brighton       Midfielder     6.0       0.12      
+Mac Allister             Liverpool      Midfielder     6.3       0.11      
+Bowen                    West Ham       Forward        7.7       0.10      
+Woltemade                Newcastle      Forward        7.2       0.10      
+---------------------------------------------------------------------------
+BENCH
+Isidor                   Sunderland     Forward        5.6       0.10      
+Alderete                 Sunderland     Defender       4.1       0.08      
+Hume                     Sunderland     Defender       4.5       0.08      
+Pope                     Newcastle      Goalkeeper     5.1       0.05      
+---------------------------------------------------------------------------
+Starting XI points: 1.23
+Bench points:      0.30
+15-Man Team Points: 1.54
+Starting budget used: 70.60
+Bench budget used:    19.30 / 20.00
+Total budget used:    89.90 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.1       0.05      
+Van Hecke                Brighton       Defender       4.4       0.10      
+Gabriel                  Arsenal        Defender       6.3       0.09      
+Diouf                    West Ham       Defender       4.4       0.09      
+Dunk                     Brighton       Defender       4.5       0.09      
+Saka                     Arsenal        Midfielder     9.9       0.21      
+Bruno G.                 Newcastle      Midfielder     6.5       0.14      
+Gakpo                    Liverpool      Midfielder     7.5       0.13      
+Minteh                   Brighton       Midfielder     6.0       0.12      
+Bowen                    West Ham       Forward        7.7       0.10      
+Woltemade                Newcastle      Forward        7.2       0.10      
+---------------------------------------------------------------------------
+BENCH
+Mac Allister             Liverpool      Midfielder     6.3       0.11      
+Isidor                   Sunderland     Forward        5.6       0.10      
+Alderete                 Sunderland     Defender       4.1       0.08      
+Darlow                   Leeds          Goalkeeper     4.0       0.04      
+---------------------------------------------------------------------------
+Starting XI points: 1.21
+Bench points:      0.33
+15-Man Team Points: 1.54
+Starting budget used: 69.50
+Bench budget used:    20.00 / 20.00
+Total budget used:    89.50 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.1       0.05      
+Van Hecke                Brighton       Defender       4.4       0.10      
+Gabriel                  Arsenal        Defender       6.3       0.09      
+Diouf                    West Ham       Defender       4.4       0.09      
+Dunk                     Brighton       Defender       4.5       0.09      
+Saka                     Arsenal        Midfielder     9.9       0.21      
+Bruno G.                 Newcastle      Midfielder     6.5       0.14      
+Gakpo                    Liverpool      Midfielder     7.5       0.13      
+Minteh                   Brighton       Midfielder     6.0       0.12      
+Mac Allister             Liverpool      Midfielder     6.3       0.11      
+Bowen                    West Ham       Forward        7.7       0.10      
+---------------------------------------------------------------------------
+BENCH
+Isidor                   Sunderland     Forward        5.6       0.10      
+Alderete                 Sunderland     Defender       4.1       0.08      
+Calvert-Lewin            Leeds          Forward        5.5       0.07      
+Darlow                   Leeds          Goalkeeper     4.0       0.04      
+---------------------------------------------------------------------------
+Starting XI points: 1.22
+Bench points:      0.29
+15-Man Team Points: 1.51
+Starting budget used: 68.60
+Bench budget used:    19.20 / 20.00
+Total budget used:    87.80 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Verbruggen               Brighton       Goalkeeper     4.4       0.05      
+Van Hecke                Brighton       Defender       4.4       0.10      
+Gabriel                  Arsenal        Defender       6.3       0.09      
+Diouf                    West Ham       Defender       4.4       0.09      
+Dunk                     Brighton       Defender       4.5       0.09      
+Kerkez                   Liverpool      Defender       5.8       0.08      
+Saka                     Arsenal        Midfielder     9.9       0.21      
+Bruno G.                 Newcastle      Midfielder     6.5       0.14      
+Gakpo                    Liverpool      Midfielder     7.5       0.13      
+Bowen                    West Ham       Forward        7.7       0.10      
+Woltemade                Newcastle      Forward        7.2       0.10      
+---------------------------------------------------------------------------
+BENCH
+Isidor                   Sunderland     Forward        5.6       0.10      
+M.Fernandes              West Ham       Midfielder     5.5       0.08      
+Longstaff                Leeds          Midfielder     4.9       0.07      
+Darlow                   Leeds          Goalkeeper     4.0       0.04      
+---------------------------------------------------------------------------
+Starting XI points: 1.18
+Bench points:      0.28
+15-Man Team Points: 1.45
+Starting budget used: 68.60
+Bench budget used:    20.00 / 20.00
+Total budget used:    88.60 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Pope                     Newcastle      Goalkeeper     5.1       0.05      
+Van Hecke                Brighton       Defender       4.4       0.10      
+Gabriel                  Arsenal        Defender       6.3       0.09      
+Diouf                    West Ham       Defender       4.4       0.09      
+Dunk                     Brighton       Defender       4.5       0.09      
+Kerkez                   Liverpool      Defender       5.8       0.08      
+Saka                     Arsenal        Midfielder     9.9       0.21      
+Bruno G.                 Newcastle      Midfielder     6.5       0.14      
+Gakpo                    Liverpool      Midfielder     7.5       0.13      
+Minteh                   Brighton       Midfielder     6.0       0.12      
+Bowen                    West Ham       Forward        7.7       0.10      
+---------------------------------------------------------------------------
+BENCH
+Isidor                   Sunderland     Forward        5.6       0.10      
+Calvert-Lewin            Leeds          Forward        5.5       0.07      
+Longstaff                Leeds          Midfielder     4.9       0.07      
+Darlow                   Leeds          Goalkeeper     4.0       0.04      
+---------------------------------------------------------------------------
+Starting XI points: 1.20
+Bench points:      0.27
+15-Man Team Points: 1.47
+Starting budget used: 68.10
+Bench budget used:    20.00 / 20.00
+Total budget used:    88.10 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Verbruggen               Brighton       Goalkeeper     4.4       0.05      
+Van Hecke                Brighton       Defender       4.4       0.10      
+Gabriel                  Arsenal        Defender       6.3       0.09      
+Diouf                    West Ham       Defender       4.4       0.09      
+Dunk                     Brighton       Defender       4.5       0.09      
+Saka                     Arsenal        Midfielder     9.9       0.21      
+Bruno G.                 Newcastle      Midfielder     6.5       0.14      
+Gakpo                    Liverpool      Midfielder     7.5       0.13      
+Bowen                    West Ham       Forward        7.7       0.10      
+Woltemade                Newcastle      Forward        7.2       0.10      
+Isidor                   Sunderland     Forward        5.6       0.10      
+---------------------------------------------------------------------------
+BENCH
+Gravenberch              Liverpool      Midfielder     5.7       0.10      
+Joelinton                Newcastle      Midfielder     5.9       0.10      
+Alderete                 Sunderland     Defender       4.1       0.08      
+Darlow                   Leeds          Goalkeeper     4.0       0.04      
+---------------------------------------------------------------------------
+Starting XI points: 1.19
+Bench points:      0.32
+15-Man Team Points: 1.51
+Starting budget used: 68.40
+Bench budget used:    19.70 / 20.00
+Total budget used:    88.10 / 100.00
+===========================================================================
+
+

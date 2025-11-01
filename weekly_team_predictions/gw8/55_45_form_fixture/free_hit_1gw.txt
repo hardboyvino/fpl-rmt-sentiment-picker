@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       0.83      
+Gabriel                  Arsenal        Defender       6.3       2.12      
+Burn                     Newcastle      Defender       5.1       1.46      
+Matheus N.               Man City       Defender       5.3       1.31      
+Saka                     Arsenal        Midfielder     9.9       4.37      
+Rice                     Arsenal        Midfielder     6.5       2.19      
+Bruno G.                 Newcastle      Midfielder     6.5       1.91      
+Okafor                   Leeds          Midfielder     5.5       1.69      
+Haaland                  Man City       Forward        14.5      3.59      
+Isidor                   Sunderland     Forward        5.6       2.59      
+Woltemade                Newcastle      Forward        7.2       2.55      
+---------------------------------------------------------------------------
+BENCH
+Aaronson                 Leeds          Midfielder     5.4       1.55      
+Hume                     Sunderland     Defender       4.5       1.26      
+Rúben                    Man City       Defender       5.5       1.17      
+Kelleher                 Brentford      Goalkeeper     4.5       0.64      
+---------------------------------------------------------------------------
+Starting XI points: 24.62
+Bench points:      4.61
+15-Man Team Points: 29.23
+Starting budget used: 77.00
+Bench budget used:    19.90 / 20.00
+Total budget used:    96.90 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       0.83      
+Gabriel                  Arsenal        Defender       6.3       2.12      
+Burn                     Newcastle      Defender       5.1       1.46      
+Matheus N.               Man City       Defender       5.3       1.31      
+Saka                     Arsenal        Midfielder     9.9       4.37      
+Rice                     Arsenal        Midfielder     6.5       2.19      
+Bruno G.                 Newcastle      Midfielder     6.5       1.91      
+Gordon                   Newcastle      Midfielder     7.4       1.79      
+Okafor                   Leeds          Midfielder     5.5       1.69      
+Haaland                  Man City       Forward        14.5      3.59      
+Isidor                   Sunderland     Forward        5.6       2.59      
+---------------------------------------------------------------------------
+BENCH
+Calvert-Lewin            Leeds          Forward        5.5       2.37      
+Hume                     Sunderland     Defender       4.5       1.26      
+Rúben                    Man City       Defender       5.5       1.17      
+Kelleher                 Brentford      Goalkeeper     4.5       0.64      
+---------------------------------------------------------------------------
+Starting XI points: 23.85
+Bench points:      5.43
+15-Man Team Points: 29.29
+Starting budget used: 77.20
+Bench budget used:    20.00 / 20.00
+Total budget used:    97.20 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       0.83      
+Gabriel                  Arsenal        Defender       6.3       2.12      
+Burn                     Newcastle      Defender       5.1       1.46      
+Thiaw                    Newcastle      Defender       4.9       1.41      
+Matheus N.               Man City       Defender       5.3       1.31      
+Saka                     Arsenal        Midfielder     9.9       4.37      
+Rice                     Arsenal        Midfielder     6.5       2.19      
+Bruno G.                 Newcastle      Midfielder     6.5       1.91      
+Okafor                   Leeds          Midfielder     5.5       1.69      
+Haaland                  Man City       Forward        14.5      3.59      
+Isidor                   Sunderland     Forward        5.6       2.59      
+---------------------------------------------------------------------------
+BENCH
+Calvert-Lewin            Leeds          Forward        5.5       2.37      
+Aaronson                 Leeds          Midfielder     5.4       1.55      
+Hume                     Sunderland     Defender       4.5       1.26      
+Kelleher                 Brentford      Goalkeeper     4.5       0.64      
+---------------------------------------------------------------------------
+Starting XI points: 23.47
+Bench points:      5.81
+15-Man Team Points: 29.28
+Starting budget used: 74.70
+Bench budget used:    19.90 / 20.00
+Total budget used:    94.60 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       0.83      
+Gabriel                  Arsenal        Defender       6.3       2.12      
+Burn                     Newcastle      Defender       5.1       1.46      
+Matheus N.               Man City       Defender       5.3       1.31      
+Hume                     Sunderland     Defender       4.5       1.26      
+Saka                     Arsenal        Midfielder     9.9       4.37      
+Rice                     Arsenal        Midfielder     6.5       2.19      
+Bruno G.                 Newcastle      Midfielder     6.5       1.91      
+Gordon                   Newcastle      Midfielder     7.4       1.79      
+Okafor                   Leeds          Midfielder     5.5       1.69      
+Haaland                  Man City       Forward        14.5      3.59      
+---------------------------------------------------------------------------
+BENCH
+Isidor                   Sunderland     Forward        5.6       2.59      
+Calvert-Lewin            Leeds          Forward        5.5       2.37      
+Bogle                    Leeds          Defender       4.5       1.09      
+Areola                   West Ham       Goalkeeper     4.3       0.51      
+---------------------------------------------------------------------------
+Starting XI points: 22.51
+Bench points:      6.56
+15-Man Team Points: 29.07
+Starting budget used: 76.10
+Bench budget used:    19.90 / 20.00
+Total budget used:    96.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       0.83      
+Gabriel                  Arsenal        Defender       6.3       2.12      
+Burn                     Newcastle      Defender       5.1       1.46      
+Thiaw                    Newcastle      Defender       4.9       1.41      
+Matheus N.               Man City       Defender       5.3       1.31      
+Hume                     Sunderland     Defender       4.5       1.26      
+Saka                     Arsenal        Midfielder     9.9       4.37      
+Rice                     Arsenal        Midfielder     6.5       2.19      
+Bruno G.                 Newcastle      Midfielder     6.5       1.91      
+Haaland                  Man City       Forward        14.5      3.59      
+Isidor                   Sunderland     Forward        5.6       2.59      
+---------------------------------------------------------------------------
+BENCH
+Calvert-Lewin            Leeds          Forward        5.5       2.37      
+Okafor                   Leeds          Midfielder     5.5       1.69      
+Longstaff                Leeds          Midfielder     4.9       1.32      
+Dúbravka                 Burnley        Goalkeeper     4.0       0.37      
+---------------------------------------------------------------------------
+Starting XI points: 23.04
+Bench points:      5.74
+15-Man Team Points: 28.78
+Starting budget used: 73.70
+Bench budget used:    19.90 / 20.00
+Total budget used:    93.60 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       0.83      
+Gabriel                  Arsenal        Defender       6.3       2.12      
+Burn                     Newcastle      Defender       5.1       1.46      
+Thiaw                    Newcastle      Defender       4.9       1.41      
+Matheus N.               Man City       Defender       5.3       1.31      
+Hume                     Sunderland     Defender       4.5       1.26      
+Saka                     Arsenal        Midfielder     9.9       4.37      
+Rice                     Arsenal        Midfielder     6.5       2.19      
+Bruno G.                 Newcastle      Midfielder     6.5       1.91      
+Okafor                   Leeds          Midfielder     5.5       1.69      
+Haaland                  Man City       Forward        14.5      3.59      
+---------------------------------------------------------------------------
+BENCH
+Isidor                   Sunderland     Forward        5.6       2.59      
+Calvert-Lewin            Leeds          Forward        5.5       2.37      
+Longstaff                Leeds          Midfielder     4.9       1.32      
+Dúbravka                 Burnley        Goalkeeper     4.0       0.37      
+---------------------------------------------------------------------------
+Starting XI points: 22.13
+Bench points:      6.65
+15-Man Team Points: 28.78
+Starting budget used: 73.60
+Bench budget used:    20.00 / 20.00
+Total budget used:    93.60 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       0.83      
+Gabriel                  Arsenal        Defender       6.3       2.12      
+Burn                     Newcastle      Defender       5.1       1.46      
+Matheus N.               Man City       Defender       5.3       1.31      
+Hume                     Sunderland     Defender       4.5       1.26      
+Saka                     Arsenal        Midfielder     9.9       4.37      
+Rice                     Arsenal        Midfielder     6.5       2.19      
+Bruno G.                 Newcastle      Midfielder     6.5       1.91      
+Haaland                  Man City       Forward        14.5      3.59      
+Isidor                   Sunderland     Forward        5.6       2.59      
+Woltemade                Newcastle      Forward        7.2       2.55      
+---------------------------------------------------------------------------
+BENCH
+Okafor                   Leeds          Midfielder     5.5       1.69      
+Aaronson                 Leeds          Midfielder     5.4       1.55      
+Bogle                    Leeds          Defender       4.5       1.09      
+Kelleher                 Brentford      Goalkeeper     4.5       0.64      
+---------------------------------------------------------------------------
+Starting XI points: 24.19
+Bench points:      4.96
+15-Man Team Points: 29.14
+Starting budget used: 76.00
+Bench budget used:    19.90 / 20.00
+Total budget used:    95.90 / 100.00
+===========================================================================
+
+

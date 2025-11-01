@@ -1,0 +1,367 @@
+Enhanced FPL Optimization for Entry 6686286
+Bank: 2.90 | Current-15 CSV cost: 98.90
+================================================================================================
+
+Transfers: 0  |  Formation: 3-5-2
+
+Team Distribution:
+  Leeds          : 3 players (Team Weight: 0.68)
+  Arsenal        : 3 players (Team Weight: 1.00)
+  Bournemouth    : 2 players (Team Weight: 0.91)
+  Spurs          : 2 players (Team Weight: 0.73)
+  Fulham         : 1 players (Team Weight: 0.58)
+  Man City       : 1 players (Team Weight: 0.79)
+  Burnley        : 1 players (Team Weight: 0.64)
+  Chelsea        : 1 players (Team Weight: 0.57)
+  Sunderland     : 1 players (Team Weight: 0.97)
+
+Price Bracket Distribution:
+  £5.0m: 4 players (Effectiveness: 0.19)
+  £4.0m: 3 players (Effectiveness: 0.14)
+  £6.5m: 2 players (Effectiveness: 0.31)
+  £8.0m: 1 players (Effectiveness: 0.44)
+  £14.5m: 1 players (Effectiveness: 1.00)
+  £5.5m: 1 players (Effectiveness: 0.23)
+  £10.0m: 1 players (Effectiveness: 0.00)
+  £6.0m: 1 players (Effectiveness: 0.32)
+  £9.0m: 1 players (Effectiveness: 0.10)
+
+Projected XI points: 15.34 | Bench points: 0.53
+Cost used: 98.90  (XI 74.10 / Bench 24.80)
+Points Out: 0.00
+Points In: 0.00
+Points Difference: 0.00
+Points Diff %: 0.00%
+Budget Left: 2.90
+
+OUT:
+IN:
+
+STARTING XI:
+  Leno                   Fulham          Goalkeeper     5.0    0.22 (orig:   9.33)
+  Rodon                  Leeds           Defender       4.1    0.22 (orig:   9.97)
+  Gudmundsson            Leeds           Defender       4.0    0.20 (orig:   9.07)
+  Calafiori              Arsenal         Defender       5.8    0.92 (orig:   7.80)
+  Senesi                 Bournemouth     Defender       5.0    0.31 (orig:   7.35)
+  Semenyo                Bournemouth     Midfielder     8.0    1.41 (orig:  10.05)
+  Stach                  Leeds           Midfielder     5.1    0.33 (orig:   9.52)
+  Anthony                Burnley         Midfielder     5.7    0.32 (orig:   8.68)
+  Saka                   Arsenal         Midfielder    10.0    5.23 (orig:   8.43)
+  Enzo                   Chelsea         Midfielder     6.7    0.37 (orig:   7.72)
+  Haaland                Man City        Forward       14.7    5.84 (orig:   8.84)
+BENCH:
+  Alderete               Sunderland      Defender       4.1    0.19 (orig:   6.77)
+  Gyökeres               Arsenal         Forward        9.0    0.18 (orig:   6.77)
+  Vicario                Spurs           Goalkeeper     5.1    0.14 (orig:   5.67)
+  Richarlison            Spurs           Forward        6.6    0.00 (orig:   0.00)
+
+Suggested (C): Saka | (VC): Haaland
+------------------------------------------------------------------------------------------------
+
+Transfers: 1  |  Formation: 3-5-2
+
+Team Distribution:
+  Leeds          : 3 players (Team Weight: 0.68)
+  Bournemouth    : 2 players (Team Weight: 0.91)
+  Arsenal        : 2 players (Team Weight: 1.00)
+  Spurs          : 2 players (Team Weight: 0.73)
+  West Ham       : 1 players (Team Weight: 0.52)
+  Fulham         : 1 players (Team Weight: 0.58)
+  Man City       : 1 players (Team Weight: 0.79)
+  Burnley        : 1 players (Team Weight: 0.64)
+  Chelsea        : 1 players (Team Weight: 0.57)
+  Sunderland     : 1 players (Team Weight: 0.97)
+
+Price Bracket Distribution:
+  £5.0m: 4 players (Effectiveness: 0.19)
+  £4.0m: 3 players (Effectiveness: 0.14)
+  £8.0m: 2 players (Effectiveness: 0.44)
+  £6.5m: 2 players (Effectiveness: 0.31)
+  £14.5m: 1 players (Effectiveness: 1.00)
+  £5.5m: 1 players (Effectiveness: 0.23)
+  £10.0m: 1 players (Effectiveness: 0.00)
+  £6.0m: 1 players (Effectiveness: 0.32)
+
+Projected XI points: 17.35 | Bench points: 0.53
+Cost used: 97.70  (XI 77.90 / Bench 19.80)
+Points Out: 0.18
+Points In: 2.19
+Points Difference: 2.01
+Points Diff %: 723.73%
+Budget Left: 4.10
+
+OUT:
+  Gyökeres               Arsenal         Forward        9.0    0.18 (orig:   6.77)
+IN:
+  Bowen                  West Ham        Forward        7.8    2.19 (orig:  10.55)
+
+STARTING XI:
+  Leno                   Fulham          Goalkeeper     5.0    0.22 (orig:   9.33)
+  Rodon                  Leeds           Defender       4.1    0.22 (orig:   9.97)
+  Calafiori              Arsenal         Defender       5.8    0.92 (orig:   7.80)
+  Senesi                 Bournemouth     Defender       5.0    0.31 (orig:   7.35)
+  Semenyo                Bournemouth     Midfielder     8.0    1.41 (orig:  10.05)
+  Stach                  Leeds           Midfielder     5.1    0.33 (orig:   9.52)
+  Anthony                Burnley         Midfielder     5.7    0.32 (orig:   8.68)
+  Saka                   Arsenal         Midfielder    10.0    5.23 (orig:   8.43)
+  Enzo                   Chelsea         Midfielder     6.7    0.37 (orig:   7.72)
+  Bowen                  West Ham        Forward        7.8    2.19 (orig:  10.55)
+  Haaland                Man City        Forward       14.7    5.84 (orig:   8.84)
+BENCH:
+  Gudmundsson            Leeds           Defender       4.0    0.20 (orig:   9.07)
+  Alderete               Sunderland      Defender       4.1    0.19 (orig:   6.77)
+  Vicario                Spurs           Goalkeeper     5.1    0.14 (orig:   5.67)
+  Richarlison            Spurs           Forward        6.6    0.00 (orig:   0.00)
+
+Suggested (C): Saka | (VC): Haaland
+------------------------------------------------------------------------------------------------
+
+Transfers: 2  |  Formation: 3-5-2
+
+Team Distribution:
+  Arsenal        : 3 players (Team Weight: 1.00)
+  Leeds          : 3 players (Team Weight: 0.68)
+  Bournemouth    : 2 players (Team Weight: 0.91)
+  Spurs          : 2 players (Team Weight: 0.73)
+  West Ham       : 1 players (Team Weight: 0.52)
+  Fulham         : 1 players (Team Weight: 0.58)
+  Man City       : 1 players (Team Weight: 0.79)
+  Burnley        : 1 players (Team Weight: 0.64)
+  Chelsea        : 1 players (Team Weight: 0.57)
+
+Price Bracket Distribution:
+  £5.0m: 4 players (Effectiveness: 0.19)
+  £6.5m: 3 players (Effectiveness: 0.31)
+  £8.0m: 2 players (Effectiveness: 0.44)
+  £4.0m: 2 players (Effectiveness: 0.14)
+  £14.5m: 1 players (Effectiveness: 1.00)
+  £5.5m: 1 players (Effectiveness: 0.23)
+  £10.0m: 1 players (Effectiveness: 0.00)
+  £6.0m: 1 players (Effectiveness: 0.32)
+
+Projected XI points: 20.03 | Bench points: 0.56
+Cost used: 100.00  (XI 80.20 / Bench 19.80)
+Points Out: 0.37
+Points In: 5.08
+Points Difference: 4.71
+Points Diff %: 1004.45%
+Budget Left: 1.80
+
+OUT:
+  Alderete               Sunderland      Defender       4.1    0.19 (orig:   6.77)
+  Gyökeres               Arsenal         Forward        9.0    0.18 (orig:   6.77)
+IN:
+  Gabriel                Arsenal         Defender       6.4    2.90 (orig:  10.95)
+  Bowen                  West Ham        Forward        7.8    2.19 (orig:  10.55)
+
+STARTING XI:
+  Leno                   Fulham          Goalkeeper     5.0    0.22 (orig:   9.33)
+  Gabriel                Arsenal         Defender       6.4    2.90 (orig:  10.95)
+  Calafiori              Arsenal         Defender       5.8    0.92 (orig:   7.80)
+  Senesi                 Bournemouth     Defender       5.0    0.31 (orig:   7.35)
+  Semenyo                Bournemouth     Midfielder     8.0    1.41 (orig:  10.05)
+  Stach                  Leeds           Midfielder     5.1    0.33 (orig:   9.52)
+  Anthony                Burnley         Midfielder     5.7    0.32 (orig:   8.68)
+  Saka                   Arsenal         Midfielder    10.0    5.23 (orig:   8.43)
+  Enzo                   Chelsea         Midfielder     6.7    0.37 (orig:   7.72)
+  Bowen                  West Ham        Forward        7.8    2.19 (orig:  10.55)
+  Haaland                Man City        Forward       14.7    5.84 (orig:   8.84)
+BENCH:
+  Rodon                  Leeds           Defender       4.1    0.22 (orig:   9.97)
+  Gudmundsson            Leeds           Defender       4.0    0.20 (orig:   9.07)
+  Vicario                Spurs           Goalkeeper     5.1    0.14 (orig:   5.67)
+  Richarlison            Spurs           Forward        6.6    0.00 (orig:   0.00)
+
+Suggested (C): Saka | (VC): Haaland
+------------------------------------------------------------------------------------------------
+
+Transfers: 3  |  Formation: 3-4-3
+
+Team Distribution:
+  Arsenal        : 3 players (Team Weight: 1.00)
+  Leeds          : 3 players (Team Weight: 0.68)
+  Bournemouth    : 2 players (Team Weight: 0.91)
+  Newcastle      : 1 players (Team Weight: 0.81)
+  West Ham       : 1 players (Team Weight: 0.52)
+  Fulham         : 1 players (Team Weight: 0.58)
+  Man City       : 1 players (Team Weight: 0.79)
+  Burnley        : 1 players (Team Weight: 0.64)
+  Chelsea        : 1 players (Team Weight: 0.57)
+  Spurs          : 1 players (Team Weight: 0.73)
+
+Price Bracket Distribution:
+  £5.0m: 4 players (Effectiveness: 0.19)
+  £6.5m: 2 players (Effectiveness: 0.31)
+  £8.0m: 2 players (Effectiveness: 0.44)
+  £4.0m: 2 players (Effectiveness: 0.14)
+  £7.5m: 1 players (Effectiveness: 0.40)
+  £14.5m: 1 players (Effectiveness: 1.00)
+  £5.5m: 1 players (Effectiveness: 0.23)
+  £10.0m: 1 players (Effectiveness: 0.00)
+  £6.0m: 1 players (Effectiveness: 0.32)
+
+Projected XI points: 21.13 | Bench points: 0.88
+Cost used: 100.80  (XI 81.90 / Bench 18.90)
+Points Out: 0.37
+Points In: 6.50
+Points Difference: 6.13
+Points Diff %: 1305.80%
+Budget Left: 1.00
+
+OUT:
+  Alderete               Sunderland      Defender       4.1    0.19 (orig:   6.77)
+  Gyökeres               Arsenal         Forward        9.0    0.18 (orig:   6.77)
+  Richarlison            Spurs           Forward        6.6    0.00 (orig:   0.00)
+IN:
+  Woltemade              Newcastle       Forward        7.4    1.41 (orig:  11.77)
+  Gabriel                Arsenal         Defender       6.4    2.90 (orig:  10.95)
+  Bowen                  West Ham        Forward        7.8    2.19 (orig:  10.55)
+
+STARTING XI:
+  Leno                   Fulham          Goalkeeper     5.0    0.22 (orig:   9.33)
+  Gabriel                Arsenal         Defender       6.4    2.90 (orig:  10.95)
+  Calafiori              Arsenal         Defender       5.8    0.92 (orig:   7.80)
+  Senesi                 Bournemouth     Defender       5.0    0.31 (orig:   7.35)
+  Semenyo                Bournemouth     Midfielder     8.0    1.41 (orig:  10.05)
+  Stach                  Leeds           Midfielder     5.1    0.33 (orig:   9.52)
+  Saka                   Arsenal         Midfielder    10.0    5.23 (orig:   8.43)
+  Enzo                   Chelsea         Midfielder     6.7    0.37 (orig:   7.72)
+  Woltemade              Newcastle       Forward        7.4    1.41 (orig:  11.77)
+  Bowen                  West Ham        Forward        7.8    2.19 (orig:  10.55)
+  Haaland                Man City        Forward       14.7    5.84 (orig:   8.84)
+BENCH:
+  Rodon                  Leeds           Defender       4.1    0.22 (orig:   9.97)
+  Gudmundsson            Leeds           Defender       4.0    0.20 (orig:   9.07)
+  Anthony                Burnley         Midfielder     5.7    0.32 (orig:   8.68)
+  Vicario                Spurs           Goalkeeper     5.1    0.14 (orig:   5.67)
+
+Suggested (C): Saka | (VC): Haaland
+------------------------------------------------------------------------------------------------
+
+Transfers: 4  |  Formation: 3-4-3
+
+Team Distribution:
+  Arsenal        : 3 players (Team Weight: 1.00)
+  Leeds          : 3 players (Team Weight: 0.68)
+  Newcastle      : 2 players (Team Weight: 0.81)
+  Bournemouth    : 2 players (Team Weight: 0.91)
+  West Ham       : 1 players (Team Weight: 0.52)
+  Fulham         : 1 players (Team Weight: 0.58)
+  Man City       : 1 players (Team Weight: 0.79)
+  Chelsea        : 1 players (Team Weight: 0.57)
+  Spurs          : 1 players (Team Weight: 0.73)
+
+Price Bracket Distribution:
+  £5.0m: 4 players (Effectiveness: 0.19)
+  £6.5m: 3 players (Effectiveness: 0.31)
+  £8.0m: 2 players (Effectiveness: 0.44)
+  £4.0m: 2 players (Effectiveness: 0.14)
+  £7.5m: 1 players (Effectiveness: 0.40)
+  £14.5m: 1 players (Effectiveness: 1.00)
+  £10.0m: 1 players (Effectiveness: 0.00)
+  £6.0m: 1 players (Effectiveness: 0.32)
+
+Projected XI points: 21.83 | Bench points: 0.89
+Cost used: 101.60  (XI 83.30 / Bench 18.30)
+Points Out: 0.69
+Points In: 7.54
+Points Difference: 6.85
+Points Diff %: 873.08%
+Budget Left: 0.20
+
+OUT:
+  Anthony                Burnley         Midfielder     5.7    0.32 (orig:   8.68)
+  Alderete               Sunderland      Defender       4.1    0.19 (orig:   6.77)
+  Gyökeres               Arsenal         Forward        9.0    0.18 (orig:   6.77)
+  Richarlison            Spurs           Forward        6.6    0.00 (orig:   0.00)
+IN:
+  Woltemade              Newcastle       Forward        7.4    1.41 (orig:  11.77)
+  Bruno G.               Newcastle       Midfielder     6.5    1.04 (orig:  11.32)
+  Gabriel                Arsenal         Defender       6.4    2.90 (orig:  10.95)
+  Bowen                  West Ham        Forward        7.8    2.19 (orig:  10.55)
+
+STARTING XI:
+  Leno                   Fulham          Goalkeeper     5.0    0.22 (orig:   9.33)
+  Gabriel                Arsenal         Defender       6.4    2.90 (orig:  10.95)
+  Calafiori              Arsenal         Defender       5.8    0.92 (orig:   7.80)
+  Senesi                 Bournemouth     Defender       5.0    0.31 (orig:   7.35)
+  Bruno G.               Newcastle       Midfielder     6.5    1.04 (orig:  11.32)
+  Semenyo                Bournemouth     Midfielder     8.0    1.41 (orig:  10.05)
+  Saka                   Arsenal         Midfielder    10.0    5.23 (orig:   8.43)
+  Enzo                   Chelsea         Midfielder     6.7    0.37 (orig:   7.72)
+  Woltemade              Newcastle       Forward        7.4    1.41 (orig:  11.77)
+  Bowen                  West Ham        Forward        7.8    2.19 (orig:  10.55)
+  Haaland                Man City        Forward       14.7    5.84 (orig:   8.84)
+BENCH:
+  Rodon                  Leeds           Defender       4.1    0.22 (orig:   9.97)
+  Stach                  Leeds           Midfielder     5.1    0.33 (orig:   9.52)
+  Gudmundsson            Leeds           Defender       4.0    0.20 (orig:   9.07)
+  Vicario                Spurs           Goalkeeper     5.1    0.14 (orig:   5.67)
+
+Suggested (C): Saka | (VC): Haaland
+------------------------------------------------------------------------------------------------
+
+Transfers: 5  |  Formation: 3-4-3
+
+Team Distribution:
+  Arsenal        : 3 players (Team Weight: 1.00)
+  Leeds          : 3 players (Team Weight: 0.68)
+  Newcastle      : 2 players (Team Weight: 0.81)
+  Bournemouth    : 2 players (Team Weight: 0.91)
+  West Ham       : 1 players (Team Weight: 0.52)
+  Fulham         : 1 players (Team Weight: 0.58)
+  Man City       : 1 players (Team Weight: 0.79)
+  Crystal Palace : 1 players (Team Weight: 0.87)
+  Spurs          : 1 players (Team Weight: 0.73)
+
+Price Bracket Distribution:
+  £5.0m: 4 players (Effectiveness: 0.19)
+  £6.5m: 3 players (Effectiveness: 0.31)
+  £8.0m: 2 players (Effectiveness: 0.44)
+  £4.0m: 2 players (Effectiveness: 0.14)
+  £7.5m: 1 players (Effectiveness: 0.40)
+  £14.5m: 1 players (Effectiveness: 1.00)
+  £10.0m: 1 players (Effectiveness: 0.00)
+  £6.0m: 1 players (Effectiveness: 0.32)
+
+Projected XI points: 22.30 | Bench points: 0.89
+Cost used: 101.40  (XI 83.10 / Bench 18.30)
+Points Out: 1.05
+Points In: 8.37
+Points Difference: 7.32
+Points Diff %: 635.72%
+Budget Left: 0.40
+
+OUT:
+  Anthony                Burnley         Midfielder     5.7    0.32 (orig:   8.68)
+  Enzo                   Chelsea         Midfielder     6.7    0.37 (orig:   7.72)
+  Alderete               Sunderland      Defender       4.1    0.19 (orig:   6.77)
+  Gyökeres               Arsenal         Forward        9.0    0.18 (orig:   6.77)
+  Richarlison            Spurs           Forward        6.6    0.00 (orig:   0.00)
+IN:
+  Woltemade              Newcastle       Forward        7.4    1.41 (orig:  11.77)
+  Bruno G.               Newcastle       Midfielder     6.5    1.04 (orig:  11.32)
+  Gabriel                Arsenal         Defender       6.4    2.90 (orig:  10.95)
+  Bowen                  West Ham        Forward        7.8    2.19 (orig:  10.55)
+  Sarr                   Crystal Palace  Midfielder     6.5    0.83 (orig:   7.42)
+
+STARTING XI:
+  Leno                   Fulham          Goalkeeper     5.0    0.22 (orig:   9.33)
+  Gabriel                Arsenal         Defender       6.4    2.90 (orig:  10.95)
+  Calafiori              Arsenal         Defender       5.8    0.92 (orig:   7.80)
+  Senesi                 Bournemouth     Defender       5.0    0.31 (orig:   7.35)
+  Bruno G.               Newcastle       Midfielder     6.5    1.04 (orig:  11.32)
+  Semenyo                Bournemouth     Midfielder     8.0    1.41 (orig:  10.05)
+  Saka                   Arsenal         Midfielder    10.0    5.23 (orig:   8.43)
+  Sarr                   Crystal Palace  Midfielder     6.5    0.83 (orig:   7.42)
+  Woltemade              Newcastle       Forward        7.4    1.41 (orig:  11.77)
+  Bowen                  West Ham        Forward        7.8    2.19 (orig:  10.55)
+  Haaland                Man City        Forward       14.7    5.84 (orig:   8.84)
+BENCH:
+  Rodon                  Leeds           Defender       4.1    0.22 (orig:   9.97)
+  Stach                  Leeds           Midfielder     5.1    0.33 (orig:   9.52)
+  Gudmundsson            Leeds           Defender       4.0    0.20 (orig:   9.07)
+  Vicario                Spurs           Goalkeeper     5.1    0.14 (orig:   5.67)
+
+Suggested (C): Saka | (VC): Haaland
+------------------------------------------------------------------------------------------------

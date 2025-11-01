@@ -1,0 +1,376 @@
+Enhanced FPL Optimization for Entry 6999065
+Bank: 0.00 | Current-15 CSV cost: 100.10
+================================================================================================
+
+Transfers: 0  |  Formation: 4-4-2
+
+Team Distribution:
+  Arsenal        : 2 players (Team Weight: 1.00)
+  Sunderland     : 2 players (Team Weight: 0.86)
+  Spurs          : 2 players (Team Weight: 0.70)
+  Liverpool      : 1 players (Team Weight: 0.63)
+  Everton        : 1 players (Team Weight: 0.65)
+  Newcastle      : 1 players (Team Weight: 0.77)
+  Man Utd        : 1 players (Team Weight: 0.62)
+  Bournemouth    : 1 players (Team Weight: 0.81)
+  Man City       : 1 players (Team Weight: 0.76)
+  Burnley        : 1 players (Team Weight: 0.62)
+  Aston Villa    : 1 players (Team Weight: 0.62)
+  Fulham         : 1 players (Team Weight: 0.51)
+
+Price Bracket Distribution:
+  £5.0m: 7 players (Effectiveness: 0.14)
+  £5.5m: 2 players (Effectiveness: 0.19)
+  £4.5m: 2 players (Effectiveness: 0.16)
+  £6.0m: 1 players (Effectiveness: 0.20)
+  £14.5m: 1 players (Effectiveness: 1.00)
+  £15.0m: 1 players (Effectiveness: 0.00)
+  £10.0m: 1 players (Effectiveness: 0.00)
+
+Projected XI points: 2.66 | Bench points: 0.04
+Cost used: 100.10  (XI 79.90 / Bench 20.20)
+Points Out: 0.00
+Points In: 0.00
+Points Difference: 0.00
+Points Diff %: 0.00%
+Budget Left: -0.00
+
+OUT:
+IN:
+
+STARTING XI:
+  Pickford               Everton         Goalkeeper     5.5    0.06 (orig:   1.40)
+  Calafiori              Arsenal         Defender       5.8    0.18 (orig:   2.03)
+  De Ligt                Man Utd         Defender       5.0    0.03 (orig:   1.22)
+  Spence                 Spurs           Defender       4.5    0.05 (orig:   1.21)
+  Mings                  Aston Villa     Defender       4.4    0.00 (orig:   0.00)
+  M.Salah                Liverpool       Midfielder    14.3    0.81 (orig:   1.42)
+  Adams                  Bournemouth     Midfielder     5.0    0.05 (orig:   1.19)
+  Saka                   Arsenal         Midfielder    10.0    0.83 (orig:   1.11)
+  Talbi                  Sunderland      Midfielder     5.0    0.00 (orig:   0.00)
+  Isidor                 Sunderland      Forward        5.6    0.05 (orig:   1.51)
+  Haaland                Man City        Forward       14.8    0.62 (orig:   1.13)
+BENCH:
+  Pope                   Newcastle       Goalkeeper     5.2    0.04 (orig:   1.30)
+  Foster                 Burnley         Forward        5.0    0.00 (orig:   0.00)
+  Lukić                  Fulham          Midfielder     5.0    0.00 (orig:   0.00)
+  Romero                 Spurs           Defender       5.0    0.00 (orig:   0.00)
+
+Suggested (C): Saka | (VC): M.Salah
+------------------------------------------------------------------------------------------------
+
+Transfers: 1  |  Formation: 4-4-2
+
+Team Distribution:
+  Sunderland     : 3 players (Team Weight: 0.86)
+  Arsenal        : 2 players (Team Weight: 1.00)
+  Liverpool      : 1 players (Team Weight: 0.63)
+  Everton        : 1 players (Team Weight: 0.65)
+  Newcastle      : 1 players (Team Weight: 0.77)
+  Man Utd        : 1 players (Team Weight: 0.62)
+  Spurs          : 1 players (Team Weight: 0.70)
+  Bournemouth    : 1 players (Team Weight: 0.81)
+  Man City       : 1 players (Team Weight: 0.76)
+  Burnley        : 1 players (Team Weight: 0.62)
+  Aston Villa    : 1 players (Team Weight: 0.62)
+  Fulham         : 1 players (Team Weight: 0.51)
+
+Price Bracket Distribution:
+  £5.0m: 6 players (Effectiveness: 0.14)
+  £4.5m: 3 players (Effectiveness: 0.16)
+  £5.5m: 2 players (Effectiveness: 0.19)
+  £6.0m: 1 players (Effectiveness: 0.20)
+  £14.5m: 1 players (Effectiveness: 1.00)
+  £15.0m: 1 players (Effectiveness: 0.00)
+  £10.0m: 1 players (Effectiveness: 0.00)
+
+Projected XI points: 2.74 | Bench points: 0.04
+Cost used: 99.70  (XI 80.10 / Bench 19.60)
+Points Out: 0.00
+Points In: 0.08
+Points Difference: 0.08
+Points Diff %: 77.87%
+Budget Left: 0.40
+
+OUT:
+  Romero                 Spurs           Defender       5.0    0.00 (orig:   0.00)
+IN:
+  Ballard                Sunderland      Defender       4.6    0.08 (orig:   1.60)
+
+STARTING XI:
+  Pickford               Everton         Goalkeeper     5.5    0.06 (orig:   1.40)
+  Calafiori              Arsenal         Defender       5.8    0.18 (orig:   2.03)
+  Ballard                Sunderland      Defender       4.6    0.08 (orig:   1.60)
+  De Ligt                Man Utd         Defender       5.0    0.03 (orig:   1.22)
+  Spence                 Spurs           Defender       4.5    0.05 (orig:   1.21)
+  M.Salah                Liverpool       Midfielder    14.3    0.81 (orig:   1.42)
+  Adams                  Bournemouth     Midfielder     5.0    0.05 (orig:   1.19)
+  Saka                   Arsenal         Midfielder    10.0    0.83 (orig:   1.11)
+  Talbi                  Sunderland      Midfielder     5.0    0.00 (orig:   0.00)
+  Isidor                 Sunderland      Forward        5.6    0.05 (orig:   1.51)
+  Haaland                Man City        Forward       14.8    0.62 (orig:   1.13)
+BENCH:
+  Pope                   Newcastle       Goalkeeper     5.2    0.04 (orig:   1.30)
+  Foster                 Burnley         Forward        5.0    0.00 (orig:   0.00)
+  Mings                  Aston Villa     Defender       4.4    0.00 (orig:   0.00)
+  Lukić                  Fulham          Midfielder     5.0    0.00 (orig:   0.00)
+
+Suggested (C): Saka | (VC): M.Salah
+------------------------------------------------------------------------------------------------
+
+Transfers: 2  |  Formation: 4-4-2
+
+Team Distribution:
+  Arsenal        : 3 players (Team Weight: 1.00)
+  Sunderland     : 3 players (Team Weight: 0.86)
+  Liverpool      : 1 players (Team Weight: 0.63)
+  Newcastle      : 1 players (Team Weight: 0.77)
+  Man Utd        : 1 players (Team Weight: 0.62)
+  Spurs          : 1 players (Team Weight: 0.70)
+  Bournemouth    : 1 players (Team Weight: 0.81)
+  Man City       : 1 players (Team Weight: 0.76)
+  Burnley        : 1 players (Team Weight: 0.62)
+  Aston Villa    : 1 players (Team Weight: 0.62)
+  Fulham         : 1 players (Team Weight: 0.51)
+
+Price Bracket Distribution:
+  £5.0m: 6 players (Effectiveness: 0.14)
+  £4.5m: 3 players (Effectiveness: 0.16)
+  £6.0m: 2 players (Effectiveness: 0.20)
+  £5.5m: 1 players (Effectiveness: 0.19)
+  £14.5m: 1 players (Effectiveness: 1.00)
+  £15.0m: 1 players (Effectiveness: 0.00)
+  £10.0m: 1 players (Effectiveness: 0.00)
+
+Projected XI points: 3.09 | Bench points: 0.04
+Cost used: 100.00  (XI 80.40 / Bench 19.60)
+Points Out: 0.06
+Points In: 0.48
+Points Difference: 0.43
+Points Diff %: 273.25%
+Budget Left: 0.10
+
+OUT:
+  Pickford               Everton         Goalkeeper     5.5    0.06 (orig:   1.40)
+  Romero                 Spurs           Defender       5.0    0.00 (orig:   0.00)
+IN:
+  Raya                   Arsenal         Goalkeeper     5.8    0.41 (orig:   1.66)
+  Ballard                Sunderland      Defender       4.6    0.08 (orig:   1.60)
+
+STARTING XI:
+  Raya                   Arsenal         Goalkeeper     5.8    0.41 (orig:   1.66)
+  Calafiori              Arsenal         Defender       5.8    0.18 (orig:   2.03)
+  Ballard                Sunderland      Defender       4.6    0.08 (orig:   1.60)
+  De Ligt                Man Utd         Defender       5.0    0.03 (orig:   1.22)
+  Spence                 Spurs           Defender       4.5    0.05 (orig:   1.21)
+  M.Salah                Liverpool       Midfielder    14.3    0.81 (orig:   1.42)
+  Adams                  Bournemouth     Midfielder     5.0    0.05 (orig:   1.19)
+  Saka                   Arsenal         Midfielder    10.0    0.83 (orig:   1.11)
+  Talbi                  Sunderland      Midfielder     5.0    0.00 (orig:   0.00)
+  Isidor                 Sunderland      Forward        5.6    0.05 (orig:   1.51)
+  Haaland                Man City        Forward       14.8    0.62 (orig:   1.13)
+BENCH:
+  Pope                   Newcastle       Goalkeeper     5.2    0.04 (orig:   1.30)
+  Foster                 Burnley         Forward        5.0    0.00 (orig:   0.00)
+  Mings                  Aston Villa     Defender       4.4    0.00 (orig:   0.00)
+  Lukić                  Fulham          Midfielder     5.0    0.00 (orig:   0.00)
+
+Suggested (C): Saka | (VC): M.Salah
+------------------------------------------------------------------------------------------------
+
+Transfers: 3  |  Formation: 4-3-3
+
+Team Distribution:
+  Arsenal        : 3 players (Team Weight: 1.00)
+  Sunderland     : 2 players (Team Weight: 0.86)
+  Liverpool      : 2 players (Team Weight: 0.63)
+  West Ham       : 1 players (Team Weight: 0.44)
+  Everton        : 1 players (Team Weight: 0.65)
+  Newcastle      : 1 players (Team Weight: 0.77)
+  Man Utd        : 1 players (Team Weight: 0.62)
+  Spurs          : 1 players (Team Weight: 0.70)
+  Bournemouth    : 1 players (Team Weight: 0.81)
+  Aston Villa    : 1 players (Team Weight: 0.62)
+  Fulham         : 1 players (Team Weight: 0.51)
+
+Price Bracket Distribution:
+  £5.0m: 5 players (Effectiveness: 0.14)
+  £5.5m: 2 players (Effectiveness: 0.19)
+  £4.5m: 2 players (Effectiveness: 0.16)
+  £6.0m: 1 players (Effectiveness: 0.20)
+  £8.0m: 1 players (Effectiveness: 0.39)
+  £14.5m: 1 players (Effectiveness: 1.00)
+  £10.5m: 1 players (Effectiveness: 0.00)
+  £6.5m: 1 players (Effectiveness: 0.32)
+  £10.0m: 1 players (Effectiveness: 0.00)
+
+Projected XI points: 3.27 | Bench points: 0.04
+Cost used: 100.00  (XI 80.40 / Bench 19.60)
+Points Out: 0.62
+Points In: 1.22
+Points Difference: 0.60
+Points Diff %: 84.00%
+Budget Left: 0.10
+
+OUT:
+  Haaland                Man City        Forward       14.8    0.62 (orig:   1.13)
+  Foster                 Burnley         Forward        5.0    0.00 (orig:   0.00)
+  Romero                 Spurs           Defender       5.0    0.00 (orig:   0.00)
+IN:
+  Bowen                  West Ham        Forward        7.8    0.23 (orig:   1.46)
+  Isak                   Liverpool       Forward       10.4    0.59 (orig:   1.39)
+  Gabriel                Arsenal         Defender       6.5    0.40 (orig:   1.25)
+
+STARTING XI:
+  Pickford               Everton         Goalkeeper     5.5    0.06 (orig:   1.40)
+  Calafiori              Arsenal         Defender       5.8    0.18 (orig:   2.03)
+  Gabriel                Arsenal         Defender       6.5    0.40 (orig:   1.25)
+  De Ligt                Man Utd         Defender       5.0    0.03 (orig:   1.22)
+  Spence                 Spurs           Defender       4.5    0.05 (orig:   1.21)
+  M.Salah                Liverpool       Midfielder    14.3    0.81 (orig:   1.42)
+  Adams                  Bournemouth     Midfielder     5.0    0.05 (orig:   1.19)
+  Saka                   Arsenal         Midfielder    10.0    0.83 (orig:   1.11)
+  Isidor                 Sunderland      Forward        5.6    0.05 (orig:   1.51)
+  Bowen                  West Ham        Forward        7.8    0.23 (orig:   1.46)
+  Isak                   Liverpool       Forward       10.4    0.59 (orig:   1.39)
+BENCH:
+  Pope                   Newcastle       Goalkeeper     5.2    0.04 (orig:   1.30)
+  Talbi                  Sunderland      Midfielder     5.0    0.00 (orig:   0.00)
+  Mings                  Aston Villa     Defender       4.4    0.00 (orig:   0.00)
+  Lukić                  Fulham          Midfielder     5.0    0.00 (orig:   0.00)
+
+Suggested (C): Saka | (VC): M.Salah
+------------------------------------------------------------------------------------------------
+
+Transfers: 4  |  Formation: 3-4-3
+
+Team Distribution:
+  Arsenal        : 3 players (Team Weight: 1.00)
+  Sunderland     : 2 players (Team Weight: 0.86)
+  Liverpool      : 2 players (Team Weight: 0.63)
+  Spurs          : 2 players (Team Weight: 0.70)
+  West Ham       : 1 players (Team Weight: 0.44)
+  Everton        : 1 players (Team Weight: 0.65)
+  Man Utd        : 1 players (Team Weight: 0.62)
+  Bournemouth    : 1 players (Team Weight: 0.81)
+  Aston Villa    : 1 players (Team Weight: 0.62)
+  Fulham         : 1 players (Team Weight: 0.51)
+
+Price Bracket Distribution:
+  £5.0m: 5 players (Effectiveness: 0.14)
+  £5.5m: 2 players (Effectiveness: 0.19)
+  £4.5m: 2 players (Effectiveness: 0.16)
+  £6.0m: 1 players (Effectiveness: 0.20)
+  £8.0m: 1 players (Effectiveness: 0.39)
+  £14.5m: 1 players (Effectiveness: 1.00)
+  £10.5m: 1 players (Effectiveness: 0.00)
+  £6.5m: 1 players (Effectiveness: 0.32)
+  £10.0m: 1 players (Effectiveness: 0.00)
+
+Projected XI points: 3.44 | Bench points: 0.06
+Cost used: 99.80  (XI 79.90 / Bench 19.90)
+Points Out: 0.84
+Points In: 1.63
+Points Difference: 0.79
+Points Diff %: 84.27%
+Budget Left: 0.30
+
+OUT:
+  Calafiori              Arsenal         Defender       5.8    0.18 (orig:   2.03)
+  Pope                   Newcastle       Goalkeeper     5.2    0.04 (orig:   1.30)
+  Haaland                Man City        Forward       14.8    0.62 (orig:   1.13)
+  Foster                 Burnley         Forward        5.0    0.00 (orig:   0.00)
+IN:
+  Raya                   Arsenal         Goalkeeper     5.8    0.41 (orig:   1.66)
+  Bowen                  West Ham        Forward        7.8    0.23 (orig:   1.46)
+  Isak                   Liverpool       Forward       10.4    0.59 (orig:   1.39)
+  Gabriel                Arsenal         Defender       6.5    0.40 (orig:   1.25)
+
+STARTING XI:
+  Raya                   Arsenal         Goalkeeper     5.8    0.41 (orig:   1.66)
+  Gabriel                Arsenal         Defender       6.5    0.40 (orig:   1.25)
+  De Ligt                Man Utd         Defender       5.0    0.03 (orig:   1.22)
+  Spence                 Spurs           Defender       4.5    0.05 (orig:   1.21)
+  M.Salah                Liverpool       Midfielder    14.3    0.81 (orig:   1.42)
+  Adams                  Bournemouth     Midfielder     5.0    0.05 (orig:   1.19)
+  Saka                   Arsenal         Midfielder    10.0    0.83 (orig:   1.11)
+  Talbi                  Sunderland      Midfielder     5.0    0.00 (orig:   0.00)
+  Isidor                 Sunderland      Forward        5.6    0.05 (orig:   1.51)
+  Bowen                  West Ham        Forward        7.8    0.23 (orig:   1.46)
+  Isak                   Liverpool       Forward       10.4    0.59 (orig:   1.39)
+BENCH:
+  Pickford               Everton         Goalkeeper     5.5    0.06 (orig:   1.40)
+  Mings                  Aston Villa     Defender       4.4    0.00 (orig:   0.00)
+  Lukić                  Fulham          Midfielder     5.0    0.00 (orig:   0.00)
+  Romero                 Spurs           Defender       5.0    0.00 (orig:   0.00)
+
+Suggested (C): Saka | (VC): M.Salah
+------------------------------------------------------------------------------------------------
+
+Transfers: 5  |  Formation: 4-3-3
+
+Team Distribution:
+  Arsenal        : 3 players (Team Weight: 1.00)
+  Sunderland     : 2 players (Team Weight: 0.86)
+  Liverpool      : 2 players (Team Weight: 0.63)
+  Man City       : 1 players (Team Weight: 0.76)
+  West Ham       : 1 players (Team Weight: 0.44)
+  Newcastle      : 1 players (Team Weight: 0.77)
+  Man Utd        : 1 players (Team Weight: 0.62)
+  Spurs          : 1 players (Team Weight: 0.70)
+  Bournemouth    : 1 players (Team Weight: 0.81)
+  Aston Villa    : 1 players (Team Weight: 0.62)
+  Fulham         : 1 players (Team Weight: 0.51)
+
+Price Bracket Distribution:
+  £5.0m: 5 players (Effectiveness: 0.14)
+  £5.5m: 2 players (Effectiveness: 0.19)
+  £4.5m: 2 players (Effectiveness: 0.16)
+  £6.0m: 1 players (Effectiveness: 0.20)
+  £8.0m: 1 players (Effectiveness: 0.39)
+  £14.5m: 1 players (Effectiveness: 1.00)
+  £10.5m: 1 players (Effectiveness: 0.00)
+  £6.5m: 1 players (Effectiveness: 0.32)
+  £10.0m: 1 players (Effectiveness: 0.00)
+
+Projected XI points: 3.53 | Bench points: 0.04
+Cost used: 100.00  (XI 80.40 / Bench 19.60)
+Points Out: 0.85
+Points In: 1.72
+Points Difference: 0.87
+Points Diff %: 91.17%
+Budget Left: 0.10
+
+OUT:
+  Calafiori              Arsenal         Defender       5.8    0.18 (orig:   2.03)
+  Pickford               Everton         Goalkeeper     5.5    0.06 (orig:   1.40)
+  Haaland                Man City        Forward       14.8    0.62 (orig:   1.13)
+  Foster                 Burnley         Forward        5.0    0.00 (orig:   0.00)
+  Romero                 Spurs           Defender       5.0    0.00 (orig:   0.00)
+IN:
+  Raya                   Arsenal         Goalkeeper     5.8    0.41 (orig:   1.66)
+  Rúben                  Man City        Defender       5.5    0.09 (orig:   1.58)
+  Bowen                  West Ham        Forward        7.8    0.23 (orig:   1.46)
+  Isak                   Liverpool       Forward       10.4    0.59 (orig:   1.39)
+  Gabriel                Arsenal         Defender       6.5    0.40 (orig:   1.25)
+
+STARTING XI:
+  Raya                   Arsenal         Goalkeeper     5.8    0.41 (orig:   1.66)
+  Rúben                  Man City        Defender       5.5    0.09 (orig:   1.58)
+  Gabriel                Arsenal         Defender       6.5    0.40 (orig:   1.25)
+  De Ligt                Man Utd         Defender       5.0    0.03 (orig:   1.22)
+  Spence                 Spurs           Defender       4.5    0.05 (orig:   1.21)
+  M.Salah                Liverpool       Midfielder    14.3    0.81 (orig:   1.42)
+  Adams                  Bournemouth     Midfielder     5.0    0.05 (orig:   1.19)
+  Saka                   Arsenal         Midfielder    10.0    0.83 (orig:   1.11)
+  Isidor                 Sunderland      Forward        5.6    0.05 (orig:   1.51)
+  Bowen                  West Ham        Forward        7.8    0.23 (orig:   1.46)
+  Isak                   Liverpool       Forward       10.4    0.59 (orig:   1.39)
+BENCH:
+  Pope                   Newcastle       Goalkeeper     5.2    0.04 (orig:   1.30)
+  Talbi                  Sunderland      Midfielder     5.0    0.00 (orig:   0.00)
+  Mings                  Aston Villa     Defender       4.4    0.00 (orig:   0.00)
+  Lukić                  Fulham          Midfielder     5.0    0.00 (orig:   0.00)
+
+Suggested (C): Saka | (VC): M.Salah
+------------------------------------------------------------------------------------------------

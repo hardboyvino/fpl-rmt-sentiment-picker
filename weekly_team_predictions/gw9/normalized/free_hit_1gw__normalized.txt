@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       0.07      
+Gabriel                  Arsenal        Defender       6.4       0.20      
+Saliba                   Arsenal        Defender       6.0       0.16      
+Truffert                 Bournemouth    Defender       4.5       0.06      
+M.Salah                  Liverpool      Midfielder     14.4      0.68      
+Saka                     Arsenal        Midfielder     10.0      0.24      
+Sarr                     Crystal Palace Midfielder     6.5       0.13      
+Florentino               Burnley        Midfielder     5.0       0.07      
+Haaland                  Man City       Forward        14.7      1.26      
+Thiago                   Brentford      Forward        6.1       0.05      
+Foster                   Burnley        Forward        5.0       0.04      
+---------------------------------------------------------------------------
+BENCH
+Rigg                     Sunderland     Midfielder     4.8       0.05      
+Mukiele                  Sunderland     Defender       4.1       0.04      
+Tuanzebe                 Burnley        Defender       3.9       0.02      
+Darlow                   Leeds          Goalkeeper     4.0       0.02      
+---------------------------------------------------------------------------
+Starting XI points: 2.93
+Bench points:      0.12
+15-Man Team Points: 3.06
+Starting budget used: 83.20
+Bench budget used:    16.80 / 20.00
+Total budget used:    100.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       0.07      
+Gabriel                  Arsenal        Defender       6.4       0.20      
+Saliba                   Arsenal        Defender       6.0       0.16      
+Truffert                 Bournemouth    Defender       4.5       0.06      
+M.Salah                  Liverpool      Midfielder     14.4      0.68      
+Saka                     Arsenal        Midfielder     10.0      0.24      
+Sarr                     Crystal Palace Midfielder     6.5       0.13      
+Florentino               Burnley        Midfielder     5.0       0.07      
+E.Le Fée                 Sunderland     Midfielder     4.9       0.05      
+Haaland                  Man City       Forward        14.7      1.26      
+Thiago                   Brentford      Forward        6.1       0.05      
+---------------------------------------------------------------------------
+BENCH
+Foster                   Burnley        Forward        5.0       0.04      
+Tuanzebe                 Burnley        Defender       3.9       0.02      
+Hickey                   Brentford      Defender       4.0       0.02      
+Darlow                   Leeds          Goalkeeper     4.0       0.02      
+---------------------------------------------------------------------------
+Starting XI points: 2.95
+Bench points:      0.10
+15-Man Team Points: 3.04
+Starting budget used: 83.10
+Bench budget used:    16.90 / 20.00
+Total budget used:    100.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       0.07      
+Gabriel                  Arsenal        Defender       6.4       0.20      
+Saliba                   Arsenal        Defender       6.0       0.16      
+Calafiori                Arsenal        Defender       5.8       0.15      
+Gvardiol                 Man City       Defender       5.9       0.10      
+M.Salah                  Liverpool      Midfielder     14.4      0.68      
+Sarr                     Crystal Palace Midfielder     6.5       0.13      
+Florentino               Burnley        Midfielder     5.0       0.07      
+Gana                     Everton        Midfielder     5.4       0.06      
+Haaland                  Man City       Forward        14.7      1.26      
+Woltemade                Newcastle      Forward        7.4       0.10      
+---------------------------------------------------------------------------
+BENCH
+Rigg                     Sunderland     Midfielder     4.8       0.05      
+Mukiele                  Sunderland     Defender       4.1       0.04      
+Foster                   Burnley        Forward        5.0       0.04      
+Dúbravka                 Burnley        Goalkeeper     4.0       0.02      
+---------------------------------------------------------------------------
+Starting XI points: 2.96
+Bench points:      0.14
+15-Man Team Points: 3.10
+Starting budget used: 82.10
+Bench budget used:    17.90 / 20.00
+Total budget used:    100.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       0.07      
+Gabriel                  Arsenal        Defender       6.4       0.20      
+Saliba                   Arsenal        Defender       6.0       0.16      
+Truffert                 Bournemouth    Defender       4.5       0.06      
+Mukiele                  Sunderland     Defender       4.1       0.04      
+M.Salah                  Liverpool      Midfielder     14.4      0.68      
+Saka                     Arsenal        Midfielder     10.0      0.24      
+Sarr                     Crystal Palace Midfielder     6.5       0.13      
+Florentino               Burnley        Midfielder     5.0       0.07      
+Gana                     Everton        Midfielder     5.4       0.06      
+Haaland                  Man City       Forward        14.7      1.26      
+---------------------------------------------------------------------------
+BENCH
+Foster                   Burnley        Forward        5.0       0.04      
+Tuanzebe                 Burnley        Defender       3.9       0.02      
+Darlow                   Leeds          Goalkeeper     4.0       0.02      
+Calvert-Lewin            Leeds          Forward        5.5       0.01      
+---------------------------------------------------------------------------
+Starting XI points: 2.95
+Bench points:      0.09
+15-Man Team Points: 3.04
+Starting budget used: 81.60
+Bench budget used:    18.40 / 20.00
+Total budget used:    100.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       0.07      
+Gabriel                  Arsenal        Defender       6.4       0.20      
+Saliba                   Arsenal        Defender       6.0       0.16      
+Calafiori                Arsenal        Defender       5.8       0.15      
+Gvardiol                 Man City       Defender       5.9       0.10      
+Truffert                 Bournemouth    Defender       4.5       0.06      
+M.Salah                  Liverpool      Midfielder     14.4      0.68      
+Sarr                     Crystal Palace Midfielder     6.5       0.13      
+Florentino               Burnley        Midfielder     5.0       0.07      
+Haaland                  Man City       Forward        14.7      1.26      
+Woltemade                Newcastle      Forward        7.4       0.10      
+---------------------------------------------------------------------------
+BENCH
+E.Le Fée                 Sunderland     Midfielder     4.9       0.05      
+Rigg                     Sunderland     Midfielder     4.8       0.05      
+Foster                   Burnley        Forward        5.0       0.04      
+Dúbravka                 Burnley        Goalkeeper     4.0       0.02      
+---------------------------------------------------------------------------
+Starting XI points: 2.96
+Bench points:      0.15
+15-Man Team Points: 3.11
+Starting budget used: 81.20
+Bench budget used:    18.70 / 20.00
+Total budget used:    99.90 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       0.07      
+Gabriel                  Arsenal        Defender       6.4       0.20      
+Saliba                   Arsenal        Defender       6.0       0.16      
+Truffert                 Bournemouth    Defender       4.5       0.06      
+Diakité                  Bournemouth    Defender       4.5       0.04      
+Mukiele                  Sunderland     Defender       4.1       0.04      
+M.Salah                  Liverpool      Midfielder     14.4      0.68      
+Saka                     Arsenal        Midfielder     10.0      0.24      
+Sarr                     Crystal Palace Midfielder     6.5       0.13      
+Florentino               Burnley        Midfielder     5.0       0.07      
+Haaland                  Man City       Forward        14.7      1.26      
+---------------------------------------------------------------------------
+BENCH
+Rigg                     Sunderland     Midfielder     4.8       0.05      
+Foster                   Burnley        Forward        5.0       0.04      
+Dúbravka                 Burnley        Goalkeeper     4.0       0.02      
+Calvert-Lewin            Leeds          Forward        5.5       0.01      
+---------------------------------------------------------------------------
+Starting XI points: 2.94
+Bench points:      0.11
+15-Man Team Points: 3.05
+Starting budget used: 80.70
+Bench budget used:    19.30 / 20.00
+Total budget used:    100.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Roefs                    Sunderland     Goalkeeper     4.6       0.07      
+Gabriel                  Arsenal        Defender       6.4       0.20      
+Saliba                   Arsenal        Defender       6.0       0.16      
+Calafiori                Arsenal        Defender       5.8       0.15      
+Gvardiol                 Man City       Defender       5.9       0.10      
+M.Salah                  Liverpool      Midfielder     14.4      0.68      
+Sarr                     Crystal Palace Midfielder     6.5       0.13      
+Florentino               Burnley        Midfielder     5.0       0.07      
+Haaland                  Man City       Forward        14.7      1.26      
+Woltemade                Newcastle      Forward        7.4       0.10      
+Foster                   Burnley        Forward        5.0       0.04      
+---------------------------------------------------------------------------
+BENCH
+Truffert                 Bournemouth    Defender       4.5       0.06      
+E.Le Fée                 Sunderland     Midfielder     4.9       0.05      
+Rigg                     Sunderland     Midfielder     4.8       0.05      
+Dúbravka                 Burnley        Goalkeeper     4.0       0.02      
+---------------------------------------------------------------------------
+Starting XI points: 2.94
+Bench points:      0.17
+15-Man Team Points: 3.11
+Starting budget used: 81.70
+Bench budget used:    18.20 / 20.00
+Total budget used:    99.90 / 100.00
+===========================================================================
+
+

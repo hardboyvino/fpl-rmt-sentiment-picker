@@ -1,0 +1,231 @@
+Optimized Team (All Feasible Formations):
+BUDGET: 100.00 | Bench budget cap: 20.00 | Max per team: 3
+===========================================================================
+
+Optimized Team:
+3 - 4 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.8       4.23      
+Gabriel                  Arsenal        Defender       6.5       4.97      
+Muñoz                    Crystal Palace Defender       5.7       1.47      
+Burn                     Newcastle      Defender       5.1       1.15      
+Mbeumo                   Man Utd        Midfielder     8.2       3.88      
+M.Salah                  Liverpool      Midfielder     14.3      3.60      
+Eze                      Arsenal        Midfielder     7.6       3.14      
+Cunha                    Man Utd        Midfielder     7.9       3.12      
+Šeško                    Man Utd        Forward        7.3       3.25      
+Woltemade                Newcastle      Forward        7.5       2.88      
+Mateta                   Crystal Palace Forward        7.7       2.63      
+---------------------------------------------------------------------------
+BENCH
+Mukiele                  Sunderland     Defender       4.1       0.73      
+Irving                   West Ham       Midfielder     4.4       0.23      
+Darlow                   Leeds          Goalkeeper     4.0       0.22      
+Acheampong               Chelsea        Defender       3.9       0.18      
+---------------------------------------------------------------------------
+Starting XI points: 34.32
+Bench points:      1.36
+15-Man Team Points: 35.68
+Starting budget used: 83.60
+Bench budget used:    16.40 / 20.00
+Total budget used:    100.00 / 100.00
+===========================================================================
+
+[BEST BY XI POINTS]
+===========================================================================
+
+
+Optimized Team:
+3 - 5 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.8       4.23      
+Gabriel                  Arsenal        Defender       6.5       4.97      
+Muñoz                    Crystal Palace Defender       5.7       1.47      
+Burn                     Newcastle      Defender       5.1       1.15      
+Mbeumo                   Man Utd        Midfielder     8.2       3.88      
+M.Salah                  Liverpool      Midfielder     14.3      3.60      
+Eze                      Arsenal        Midfielder     7.6       3.14      
+Cunha                    Man Utd        Midfielder     7.9       3.12      
+Gordon                   Newcastle      Midfielder     7.5       2.17      
+Šeško                    Man Utd        Forward        7.3       3.25      
+Woltemade                Newcastle      Forward        7.5       2.88      
+---------------------------------------------------------------------------
+BENCH
+Kroupi.Jr                Bournemouth    Forward        4.6       1.35      
+Mukiele                  Sunderland     Defender       4.1       0.73      
+Darlow                   Leeds          Goalkeeper     4.0       0.22      
+Acheampong               Chelsea        Defender       3.9       0.18      
+---------------------------------------------------------------------------
+Starting XI points: 33.86
+Bench points:      2.48
+15-Man Team Points: 36.35
+Starting budget used: 83.40
+Bench budget used:    16.60 / 20.00
+Total budget used:    100.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 4 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.8       4.23      
+Gabriel                  Arsenal        Defender       6.5       4.97      
+Muñoz                    Crystal Palace Defender       5.7       1.47      
+Burn                     Newcastle      Defender       5.1       1.15      
+Thiaw                    Newcastle      Defender       4.9       1.10      
+Mbeumo                   Man Utd        Midfielder     8.2       3.88      
+M.Salah                  Liverpool      Midfielder     14.3      3.60      
+Eze                      Arsenal        Midfielder     7.6       3.14      
+Cunha                    Man Utd        Midfielder     7.9       3.12      
+Šeško                    Man Utd        Forward        7.3       3.25      
+Woltemade                Newcastle      Forward        7.5       2.88      
+---------------------------------------------------------------------------
+BENCH
+Kroupi.Jr                Bournemouth    Forward        4.6       1.35      
+Sessegnon                Fulham         Midfielder     5.4       0.99      
+Hume                     Sunderland     Defender       4.5       0.99      
+Roefs                    Sunderland     Goalkeeper     4.7       0.83      
+---------------------------------------------------------------------------
+Starting XI points: 32.79
+Bench points:      4.16
+15-Man Team Points: 36.95
+Starting budget used: 80.80
+Bench budget used:    19.20 / 20.00
+Total budget used:    100.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 5 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.8       4.23      
+Gabriel                  Arsenal        Defender       6.5       4.97      
+Muñoz                    Crystal Palace Defender       5.7       1.47      
+Thiaw                    Newcastle      Defender       4.9       1.10      
+Botman                   Newcastle      Defender       4.9       1.07      
+Mbeumo                   Man Utd        Midfielder     8.2       3.88      
+M.Salah                  Liverpool      Midfielder     14.3      3.60      
+Eze                      Arsenal        Midfielder     7.6       3.14      
+Cunha                    Man Utd        Midfielder     7.9       3.12      
+B.Fernandes              Man Utd        Midfielder     8.9       2.74      
+Woltemade                Newcastle      Forward        7.5       2.88      
+---------------------------------------------------------------------------
+BENCH
+Kroupi.Jr                Bournemouth    Forward        4.6       1.35      
+Gudmundsson              Leeds          Defender       4.0       0.31      
+Darlow                   Leeds          Goalkeeper     4.0       0.22      
+Beto                     Everton        Forward        5.2       0.20      
+---------------------------------------------------------------------------
+Starting XI points: 32.20
+Bench points:      2.09
+15-Man Team Points: 34.29
+Starting budget used: 82.20
+Bench budget used:    17.80 / 20.00
+Total budget used:    100.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 3 - 2
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.8       4.23      
+Gabriel                  Arsenal        Defender       6.5       4.97      
+J.Timber                 Arsenal        Defender       6.1       2.03      
+Muñoz                    Crystal Palace Defender       5.7       1.47      
+Burn                     Newcastle      Defender       5.1       1.15      
+Thiaw                    Newcastle      Defender       4.9       1.10      
+Mbeumo                   Man Utd        Midfielder     8.2       3.88      
+M.Salah                  Liverpool      Midfielder     14.3      3.60      
+Cunha                    Man Utd        Midfielder     7.9       3.12      
+Šeško                    Man Utd        Forward        7.3       3.25      
+Woltemade                Newcastle      Forward        7.5       2.88      
+---------------------------------------------------------------------------
+BENCH
+Kroupi.Jr                Bournemouth    Forward        4.6       1.35      
+Sessegnon                Fulham         Midfielder     5.4       0.99      
+Wilson                   Fulham         Midfielder     5.3       0.88      
+Roefs                    Sunderland     Goalkeeper     4.7       0.83      
+---------------------------------------------------------------------------
+Starting XI points: 31.68
+Bench points:      4.06
+15-Man Team Points: 35.73
+Starting budget used: 79.30
+Bench budget used:    20.00 / 20.00
+Total budget used:    99.30 / 100.00
+===========================================================================
+
+
+Optimized Team:
+5 - 4 - 1
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.8       4.23      
+Gabriel                  Arsenal        Defender       6.5       4.97      
+J.Timber                 Arsenal        Defender       6.1       2.03      
+Muñoz                    Crystal Palace Defender       5.7       1.47      
+Burn                     Newcastle      Defender       5.1       1.15      
+Thiaw                    Newcastle      Defender       4.9       1.10      
+Mbeumo                   Man Utd        Midfielder     8.2       3.88      
+M.Salah                  Liverpool      Midfielder     14.3      3.60      
+Cunha                    Man Utd        Midfielder     7.9       3.12      
+B.Fernandes              Man Utd        Midfielder     8.9       2.74      
+Woltemade                Newcastle      Forward        7.5       2.88      
+---------------------------------------------------------------------------
+BENCH
+Kroupi.Jr                Bournemouth    Forward        4.6       1.35      
+E.Le Fée                 Sunderland     Midfielder     4.9       0.78      
+Isidor                   Sunderland     Forward        5.6       0.60      
+Darlow                   Leeds          Goalkeeper     4.0       0.22      
+---------------------------------------------------------------------------
+Starting XI points: 31.16
+Bench points:      2.96
+15-Man Team Points: 34.12
+Starting budget used: 80.90
+Bench budget used:    19.10 / 20.00
+Total budget used:    100.00 / 100.00
+===========================================================================
+
+
+Optimized Team:
+4 - 3 - 3
+Name                     Team           Position       Price     Points    
+---------------------------------------------------------------------------
+STARTING XI
+Raya                     Arsenal        Goalkeeper     5.8       4.23      
+Gabriel                  Arsenal        Defender       6.5       4.97      
+J.Timber                 Arsenal        Defender       6.1       2.03      
+Muñoz                    Crystal Palace Defender       5.7       1.47      
+Burn                     Newcastle      Defender       5.1       1.15      
+Mbeumo                   Man Utd        Midfielder     8.2       3.88      
+M.Salah                  Liverpool      Midfielder     14.3      3.60      
+Cunha                    Man Utd        Midfielder     7.9       3.12      
+Šeško                    Man Utd        Forward        7.3       3.25      
+Woltemade                Newcastle      Forward        7.5       2.88      
+Mateta                   Crystal Palace Forward        7.7       2.63      
+---------------------------------------------------------------------------
+BENCH
+E.Le Fée                 Sunderland     Midfielder     4.9       0.78      
+Mukiele                  Sunderland     Defender       4.1       0.73      
+Berge                    Fulham         Midfielder     4.9       0.72      
+Darlow                   Leeds          Goalkeeper     4.0       0.22      
+---------------------------------------------------------------------------
+Starting XI points: 33.21
+Bench points:      2.45
+15-Man Team Points: 35.66
+Starting budget used: 82.10
+Bench budget used:    17.90 / 20.00
+Total budget used:    100.00 / 100.00
+===========================================================================
+
+
