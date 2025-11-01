@@ -10,102 +10,12 @@ from pulp import (
     LpProblem, LpMaximize, LpVariable, lpSum, PULP_CBC_CMD, LpStatus, value
 )
 
+from weights_modules.normalized_1gw import PRICE_WEIGHTS, PRICE_EFFECTIVENESS, TEAM_WEIGHTS, TEAM_EFFECTIVENESS, POS_WEIGHTS, POS_EFFECTIVENESS
+
 POS_MAP = {1: "Goalkeeper", 2: "Defender", 3: "Midfielder", 4: "Forward"}
 VALID_POS = set(POS_MAP.values())
 SQUAD_CAPS = {"Goalkeeper": 2, "Defender": 5, "Midfielder": 5, "Forward": 3}
 DEFAULT_FORMATIONS = [(3,4,3), (3,5,2), (4,4,2), (4,5,1), (5,3,2), (5,4,1), (4,3,3)]
-
-POS_WEIGHTS_1GW = {
-    "Defender": 0.8545,
-    "Forward": 1.0000,   # base (highest Points_actual mean: 3.85)
-    "Goalkeeper": 0.7351,
-    "Midfielder": 0.8857,
-}
-
-POS_EFFECTIVENESS_1GW = {
-    "Defender": 1.0000,
-    "Forward": 0.7480,
-    "Goalkeeper": 0.1000,
-    "Midfielder": 0.5048,
-}
-
-PRICE_EFFECTIVENESS_1GW = {
-    4.0: 0.1737,
-    4.5: 0.2013,
-    5.0: 0.1719,
-    5.5: 0.2412,
-    6.0: 0.1880,
-    6.5: 0.2452,
-    7.0: 0.2061,
-    7.5: 0.2232,
-    8.0: 0.1000,
-    8.5: 0.2055,
-    9.0: 0.1856,
-    14.0: 1.0000,
-    14.5: 0.2072,
-}
-
-PRICE_WEIGHTS_1GW = {
-    4.0: 0.2278,
-    4.5: 0.2617,
-    5.0: 0.2765,
-    5.5: 0.3217,
-    6.0: 0.2626,
-    6.5: 0.3635,
-    7.0: 0.3191,
-    7.5: 0.3548,
-    8.0: 0.2122,
-    8.5: 0.3478,
-    9.0: 0.2826,
-    14.0: 1.0000,  # base (highest Points_actual mean: 11.50)
-    14.5: 0.3913,
-}
-
-TEAM_EFFECTIVENESS_1GW = {
-    "Arsenal": 1.0000,
-    "Newcastle": 0.9583,
-    "Man City": 0.9885,
-    "Bournemouth": 0.8987,
-    "Sunderland": 0.7426,
-    "Everton": 0.7263,
-    "Crystal Palace": 0.7302,
-    "Spurs": 0.5946,
-    "Liverpool": 0.5439,
-    "Fulham": 0.5149,
-    "Aston Villa": 0.5137,
-    "Leeds": 0.5395,
-    "Chelsea": 0.4083,
-    "Brighton": 0.4519,
-    "Man Utd": 0.3912,
-    "Burnley": 0.3560,
-    "Brentford": 0.3232,
-    "West Ham": 0.2672,
-    "Nott'm Forest": 0.1816,
-    "Wolves": 0.1000,
-}
-
-TEAM_WEIGHTS_1GW = {
-    "Arsenal": 1.0000,        # base (highest Points_actual mean: 4.65)
-    "Newcastle": 0.9634,
-    "Man City": 0.9505,
-    "Bournemouth": 0.9269,
-    "Sunderland": 0.8473,
-    "Everton": 0.8194,
-    "Crystal Palace": 0.8129,
-    "Spurs": 0.7613,
-    "Liverpool": 0.7591,
-    "Fulham": 0.7398,
-    "Aston Villa": 0.6946,
-    "Leeds": 0.6882,
-    "Chelsea": 0.6151,
-    "Brighton": 0.6000,
-    "Man Utd": 0.5914,
-    "Burnley": 0.5892,
-    "Brentford": 0.5505,
-    "West Ham": 0.4882,
-    "Nott'm Forest": 0.4602,
-    "Wolves": 0.3978,
-}
 
 
 def adjust_points(row: pd.Series) -> float:
@@ -113,22 +23,24 @@ def adjust_points(row: pd.Series) -> float:
     Enhanced point adjustment based on 3GW analysis patterns
     """
     base_points = float(row['Points'])
+    pos = row['Position']
+    team = row['Team']
+    price_bracket = round(float(row['Price']) * 2) / 2
     
     # Position adjustment with updated weights
-    pos_weight = POS_WEIGHTS_1GW.get(row['Position'], 1.0)
+    pos_weight = POS_WEIGHTS.get(pos, {}).get(price_bracket, 1.0)
 
     # Position adjustment with updated effectiveness
-    pos_effectiveness = POS_EFFECTIVENESS_1GW.get(row['Position'], 1.0)
-    
+    pos_effectiveness = POS_EFFECTIVENESS.get(pos, {}).get(price_bracket, 1.0)
+
     # Price bracket adjustment with new effectiveness ratios
-    price_bracket = round(float(row['Price']) * 2) / 2
-    price_effectiveness = PRICE_EFFECTIVENESS_1GW.get(price_bracket, 1.0)
-    price_weight = PRICE_WEIGHTS_1GW.get(price_bracket, 0.5)
+    price_effectiveness = PRICE_EFFECTIVENESS.get(price_bracket, 1.0)
+    price_weight = PRICE_WEIGHTS.get(price_bracket, 0.5)
     
     # Team performance adjustment with updated weights
-    team_weight = TEAM_WEIGHTS_1GW.get(row['Team'], 0.5)
-    team_effectiveness = TEAM_EFFECTIVENESS_1GW.get(row['Team'], 1.0)
-    
+    team_weight = TEAM_WEIGHTS.get(team, 0.5)
+    team_effectiveness = TEAM_EFFECTIVENESS.get(team, 1.0)
+
     # Base adjustment
     adjusted_points = base_points * (
     (pos_weight * 0.5 + pos_effectiveness * 0.5) *
@@ -657,14 +569,14 @@ def write_enhanced_report(entry_id: int, bank_m: float, owned_df: pd.DataFrame, 
         team_counts = pd.Series([df.loc[pid, "Team"] for pid in res["selected"]]).value_counts()
         lines.append("\nTeam Distribution:")
         for team, count in team_counts.items():
-            team_weight = TEAM_WEIGHTS_1GW.get(team, 0)
+            team_weight = TEAM_WEIGHTS.get(team, 0)
             lines.append(f"  {team:<15}: {count} players (Team Weight: {team_weight:.2f})")
 
         # Add price bracket analysis
         price_brackets = pd.Series([round(float(df.loc[pid, "Price"]) * 2) / 2 for pid in res["selected"]]).value_counts()
         lines.append("\nPrice Bracket Distribution:")
         for bracket, count in price_brackets.items():
-            effectiveness = PRICE_EFFECTIVENESS_1GW.get(bracket, 0)
+            effectiveness = PRICE_EFFECTIVENESS.get(bracket, 0)
             lines.append(f"  £{bracket}m: {count} players (Effectiveness: {effectiveness:.2f})")
 
         # Continue with standard reporting...
@@ -700,8 +612,8 @@ def write_enhanced_report(entry_id: int, bank_m: float, owned_df: pd.DataFrame, 
         def captain_score(pid):
             r = df.loc[pid]
             base_score = float(r['Points'])
-            team_mult = TEAM_WEIGHTS_1GW.get(r['Team'], 0.5)
-            pos_mult = POS_WEIGHTS_1GW.get(r['Position'], 1.0)
+            team_mult = TEAM_WEIGHTS.get(r['Team'], 0.5)
+            pos_mult = POS_WEIGHTS.get(r['Position'], {}).get(r['Price'], 1.0)
             return base_score * team_mult * pos_mult
 
         xi_sorted = sorted(res["starting"], key=captain_score, reverse=True)

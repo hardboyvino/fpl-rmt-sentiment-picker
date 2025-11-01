@@ -10,110 +10,12 @@ from pulp import (
     LpProblem, LpMaximize, LpVariable, lpSum, PULP_CBC_CMD, LpStatus, value
 )
 
+from weights_modules.blended_3gw import PRICE_WEIGHTS, PRICE_EFFECTIVENESS, TEAM_WEIGHTS, TEAM_EFFECTIVENESS, POS_WEIGHTS, POS_EFFECTIVENESS
+
 POS_MAP = {1: "Goalkeeper", 2: "Defender", 3: "Midfielder", 4: "Forward"}
 VALID_POS = set(POS_MAP.values())
 SQUAD_CAPS = {"Goalkeeper": 2, "Defender": 5, "Midfielder": 5, "Forward": 3}
 DEFAULT_FORMATIONS = [(3,4,3), (3,5,2), (4,4,2), (4,5,1), (5,3,2), (5,4,1), (4,3,3)]
-
-# Position weights (points_actual / max points_actual among positions)
-POS_WEIGHTS_3GW = {
-    "Forward": 1.00,      # 11.10 / 11.10
-    "Midfielder": 0.85,   # 9.49 / 11.10
-    "Defender": 0.78,     # 8.62 / 11.10
-    "Goalkeeper": 0.65,   # 7.25 / 11.10
-}
-
-# Position effectiveness: (points_actual_mean / points_score_mean), 
-# then linearly normalized within positions to [0.1, 1.0]
-POS_EFFECTIVENESS_3GW = {
-    "Forward": 1.00,
-    "Defender": 0.67,
-    "Midfielder": 0.52,
-    "Goalkeeper": 0.10,
-}
-
-
-# Price weights: each = bracket Points_actual_mean / max Points_actual_mean (base=£14.0m at 35.50)
-PRICE_WEIGHTS_3GW = {
-    4.0: 0.22,
-    4.5: 0.23,
-    5.0: 0.24,
-    5.5: 0.26,
-    6.0: 0.23,
-    6.5: 0.35,
-    7.0: 0.23,
-    7.5: 0.32,
-    8.0: 0.16,
-    8.5: 0.30,
-    9.0: 0.27,
-    14.0: 1.00,
-    14.5: 0.35,
-}
-
-# Price effectiveness: (Points_actual_mean / Points_score_mean), min–max scaled to [0.1, 1.0] within section
-PRICE_EFFECTIVENESS_3GW = {
-    4.0: 0.21,
-    4.5: 0.21,
-    5.0: 0.14,
-    5.5: 0.23,
-    6.0: 0.23,
-    6.5: 0.24,
-    7.0: 0.13,
-    7.5: 0.30,
-    8.0: 0.10,
-    8.5: 0.31,
-    9.0: 0.20,
-    14.0: 1.00,
-    14.5: 0.24,
-}
-
-# Team weights: each = team Points_actual_mean / max Points_actual_mean (base=Bournemouth at 12.05)
-TEAM_WEIGHTS_3GW = {
-    'Bournemouth': 1.00,
-    'Arsenal': 0.93,
-    'Sunderland': 0.93,
-    'Crystal Palace': 0.93,
-    'Everton': 0.89,
-    'Newcastle': 0.87,
-    'Liverpool': 0.83,
-    'Man City': 0.81,
-    'Spurs': 0.78,
-    'Aston Villa': 0.78,
-    'Leeds': 0.75,
-    'Brighton': 0.72,
-    'Fulham': 0.69,
-    'Brentford': 0.68,
-    'Burnley': 0.65,
-    'Man Utd': 0.59,
-    'West Ham': 0.59,
-    'Chelsea': 0.57,
-    "Nott'm Forest": 0.46,
-    'Wolves': 0.44,
-}
-
-# Team effectiveness: (Points_actual_mean / Points_score_mean), min–max scaled to [0.1, 1.0] within section
-TEAM_EFFECTIVENESS_3GW = {
-    'Bournemouth': 0.40,
-    'Crystal Palace': 0.85,
-    'Arsenal': 0.31,
-    'Sunderland': 0.34,
-    'Everton': 0.36,
-    'Newcastle': 0.57,
-    'Liverpool': 0.62,
-    'Man City': 0.53,
-    'Spurs': 0.11,
-    'Aston Villa': 0.42,
-    'Leeds': 0.27,
-    'Brighton': 1.00,
-    'Fulham': 0.13,
-    'Brentford': 0.37,
-    'Burnley': 0.21,
-    'Man Utd': 0.48,
-    'West Ham': 0.76,
-    'Chelsea': 0.14,
-    "Nott'm Forest": 0.10,
-    'Wolves': 0.13,
-}
 
 
 def adjust_points(row: pd.Series) -> float:
@@ -121,22 +23,24 @@ def adjust_points(row: pd.Series) -> float:
     Enhanced point adjustment based on 3GW analysis patterns
     """
     base_points = float(row['Points'])
+    pos = row['Position']
+    team = row['Team']
+    price_bracket = round(float(row['Price']) * 2) / 2
     
     # Position adjustment with updated weights
-    pos_weight = POS_WEIGHTS_3GW.get(row['Position'], 1.0)
+    pos_weight = POS_WEIGHTS.get(pos, {}).get(price_bracket, 1.0)
 
     # Position adjustment with updated effectiveness
-    pos_effectiveness = POS_EFFECTIVENESS_3GW.get(row['Position'], 1.0)
-    
+    pos_effectiveness = POS_EFFECTIVENESS.get(pos, {}).get(price_bracket, 1.0)
+
     # Price bracket adjustment with new effectiveness ratios
-    price_bracket = round(float(row['Price']) * 2) / 2
-    price_effectiveness = PRICE_EFFECTIVENESS_3GW.get(price_bracket, 1.0)
-    price_weight = PRICE_WEIGHTS_3GW.get(price_bracket, 0.5)
+    price_effectiveness = PRICE_EFFECTIVENESS.get(price_bracket, 1.0)
+    price_weight = PRICE_WEIGHTS.get(price_bracket, 0.5)
     
     # Team performance adjustment with updated weights
-    team_weight = TEAM_WEIGHTS_3GW.get(row['Team'], 0.5)
-    team_effectiveness = TEAM_EFFECTIVENESS_3GW.get(row['Team'], 1.0)
-    
+    team_weight = TEAM_WEIGHTS.get(team, 0.5)
+    team_effectiveness = TEAM_EFFECTIVENESS.get(team, 1.0)
+
     # Base adjustment
     adjusted_points = base_points * (
     (pos_weight * 0.5 + pos_effectiveness * 0.5) *
@@ -665,14 +569,14 @@ def write_enhanced_report(entry_id: int, bank_m: float, owned_df: pd.DataFrame, 
         team_counts = pd.Series([df.loc[pid, "Team"] for pid in res["selected"]]).value_counts()
         lines.append("\nTeam Distribution:")
         for team, count in team_counts.items():
-            team_weight = TEAM_WEIGHTS_3GW.get(team, 0)
+            team_weight = TEAM_WEIGHTS.get(team, 0)
             lines.append(f"  {team:<15}: {count} players (Team Weight: {team_weight:.2f})")
 
         # Add price bracket analysis
         price_brackets = pd.Series([round(float(df.loc[pid, "Price"]) * 2) / 2 for pid in res["selected"]]).value_counts()
         lines.append("\nPrice Bracket Distribution:")
         for bracket, count in price_brackets.items():
-            effectiveness = PRICE_EFFECTIVENESS_3GW.get(bracket, 0)
+            effectiveness = PRICE_EFFECTIVENESS.get(bracket, 0)
             lines.append(f"  £{bracket}m: {count} players (Effectiveness: {effectiveness:.2f})")
 
         # Continue with standard reporting...
@@ -708,8 +612,8 @@ def write_enhanced_report(entry_id: int, bank_m: float, owned_df: pd.DataFrame, 
         def captain_score(pid):
             r = df.loc[pid]
             base_score = float(r['Points'])
-            team_mult = TEAM_WEIGHTS_3GW.get(r['Team'], 0.5)
-            pos_mult = POS_WEIGHTS_3GW.get(r['Position'], 1.0)
+            team_mult = TEAM_WEIGHTS.get(r['Team'], 0.5)
+            pos_mult = POS_WEIGHTS.get(r['Position'], {}).get(r['Price'], 1.0)
             return base_score * team_mult * pos_mult
 
         xi_sorted = sorted(res["starting"], key=captain_score, reverse=True)
